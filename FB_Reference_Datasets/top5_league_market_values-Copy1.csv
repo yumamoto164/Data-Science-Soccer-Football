@@ -1,0 +1,3059 @@
+,Players,Values,Team
+0,Ederson,55000000.0,manchester city
+1,Zack Steffen,6600000.0,manchester city
+2,Scott Carson,330000.0,manchester city
+4,Rúben Dias,82500000.0,manchester city
+5,Aymeric Laporte,49500000.0,manchester city
+6,Nathan Aké,35200000.0,manchester city
+7,John Stones,33000000.0,manchester city
+8,Eric García,22000000.0,manchester city
+9,Nicolás Otamendi,8800000.0,manchester city
+10,Taylor Harwood-Bellis,3300000.0,manchester city
+11,Philippe Sandler,2750000.0,manchester city
+13,Oleksandr Zinchenko,27500000.0,manchester city
+14,Benjamin Mendy,22000000.0,manchester city
+15,João Cancelo,60500000.0,manchester city
+16,Kyle Walker,30800000.0,manchester city
+17,Rodri,77000000.0,manchester city
+18,Fernandinho,2200000.0,manchester city
+19,Claudio Gomes,495000.0,manchester city
+20,Ilkay Gündogan,44000000.0,manchester city
+21,Adrián Bernabé,2530000.0,manchester city
+22,Tommy Doyle,1100000.0,manchester city
+23,Kevin De Bruyne,110000000.0,manchester city
+24,Bernardo Silva,77000000.0,manchester city
+25,Cole Palmer,550000.0,manchester city
+26,Felix Nmecha,495000.0,manchester city
+27,Raheem Sterling,99000000.0,manchester city
+28,Phil Foden,88000000.0,manchester city
+29,Jack Harrison,16500000.0,manchester city
+30,Ferran Torres,55000000.0,manchester city
+32,Patrick Roberts,2200000.0,manchester city
+33,Gabriel Jesus,66000000.0,manchester city
+34,Sergio Agüero,19800000.0,manchester city
+35,Liam Delap,1100000.0,manchester city
+36,Dean Henderson,24200000.0,manchester united
+37,David de Gea,19800000.0,manchester united
+38,Sergio Romero,1100000.0,manchester united
+39,Joel Pereira,330000.0,manchester united
+40,Nathan Bishop,330000.0,manchester united
+41,Lee Grant,275000.0,manchester united
+42,Harry Maguire,49500000.0,manchester united
+44,Eric Bailly,16500000.0,manchester united
+45,Axel Tuanzebe,8800000.0,manchester united
+46,Phil Jones,5500000.0,manchester united
+47,Teden Mengi,1650000.0,manchester united
+48,Will Fish,550000.0,manchester united
+49,Luke Shaw,38500000.0,manchester united
+50,Alex Telles,22000000.0,manchester united
+51,Aaron Wan-Bissaka,44000000.0,manchester united
+52,Diogo Dalot,11000000.0,manchester united
+53,Brandon Williams,11000000.0,manchester united
+55,Nemanja Matic,8800000.0,manchester united
+56,Paul Pogba,66000000.0,manchester united
+57,Scott McTominay,38500000.0,manchester united
+58,Donny van de Beek,33000000.0,manchester united
+59,Fred,24200000.0,manchester united
+60,Ethan Galbraith,990000.0,manchester united
+63,Juan Mata,4400000.0,manchester united
+64,Hannibal Mejbri,3300000.0,manchester united
+66,Daniel James,19800000.0,manchester united
+67,Shola Shoretire,3300000.0,manchester united
+68,Anthony Elanga,880000.0,manchester united
+69,Mason Greenwood,55000000.0,manchester united
+70,Amad Diallo,19800000.0,manchester united
+71,Facundo Pellistri,6600000.0,manchester united
+73,Edinson Cavani,6600000.0,manchester united
+74,Odion Ighalo,3850000.0,manchester united
+75,Alisson,66000000.0,liverpool fc
+76,Caoimhin Kelleher,2750000.0,liverpool fc
+82,Virgil van Dijk,60500000.0,liverpool fc
+83,Joe Gomez,33000000.0,liverpool fc
+84,Ozan Kabak,27500000.0,liverpool fc
+85,Joel Matip,19800000.0,liverpool fc
+86,Nathaniel Phillips,8800000.0,liverpool fc
+87,Rhys Williams,5500000.0,liverpool fc
+88,Ben Davies,3300000.0,liverpool fc
+89,Sepp van den Berg,2750000.0,liverpool fc
+91,Andrew Robertson,71500000.0,liverpool fc
+92,Konstantinos Tsimikas,8800000.0,liverpool fc
+93,Trent Alexander-Arnold,82500000.0,liverpool fc
+94,Neco Williams,8800000.0,liverpool fc
+95,Fabinho,66000000.0,liverpool fc
+96,Leighton Clarkson,165000.0,liverpool fc
+97,Naby Keïta,35200000.0,liverpool fc
+98,Georginio Wijnaldum,33000000.0,liverpool fc
+100,Curtis Jones,33000000.0,liverpool fc
+101,Jordan Henderson,22000000.0,liverpool fc
+102,Alex Oxlade-Chamberlain,19800000.0,liverpool fc
+103,Marko Grujic,16500000.0,liverpool fc
+104,James Milner,3300000.0,liverpool fc
+106,Ben Woodburn,2200000.0,liverpool fc
+107,Sadio Mané,93500000.0,liverpool fc
+108,Diogo Jota,49500000.0,liverpool fc
+109,Takumi Minamino,13200000.0,liverpool fc
+110,Mohamed Salah,110000000.0,liverpool fc
+111,Harry Wilson,18700000.0,liverpool fc
+112,Harvey Elliott,16500000.0,liverpool fc
+113,Xherdan Shaqiri,13200000.0,liverpool fc
+114,Sheyi Ojo,3300000.0,liverpool fc
+115,Roberto Firmino,55000000.0,liverpool fc
+116,Rhian Brewster,13200000.0,liverpool fc
+117,Divock Origi,13200000.0,liverpool fc
+119,Kepa,14300000.0,chelsea fc
+120,Jamal Blackman,660000.0,chelsea fc
+121,Nathan Baxter,330000.0,chelsea fc
+122,Willy Caballero,275000.0,chelsea fc
+123,Karlo Ziger,165000.0,chelsea fc
+124,Kurt Zouma,35200000.0,chelsea fc
+125,Andreas Christensen,33000000.0,chelsea fc
+126,Fikayo Tomori,30800000.0,chelsea fc
+127,Antonio Rüdiger,30800000.0,chelsea fc
+128,Ethan Ampadu,16500000.0,chelsea fc
+129,Thiago Silva,3300000.0,chelsea fc
+130,Jake Clarke-Salter,2200000.0,chelsea fc
+131,Ben Chilwell,49500000.0,chelsea fc
+132,Marcos Alonso,13200000.0,chelsea fc
+133,Emerson,13200000.0,chelsea fc
+134,Reece James,44000000.0,chelsea fc
+135,César Azpilicueta,14300000.0,chelsea fc
+136,N'Golo Kanté,60500000.0,chelsea fc
+137,Jorginho,44000000.0,chelsea fc
+138,Mateo Kovacic,49500000.0,chelsea fc
+139,Ross Barkley,22000000.0,chelsea fc
+140,Ruben Loftus-Cheek,19800000.0,chelsea fc
+141,Conor Gallagher,16500000.0,chelsea fc
+142,Billy Gilmour,11000000.0,chelsea fc
+146,Kai Havertz,77000000.0,chelsea fc
+147,Hakim Ziyech,41800000.0,chelsea fc
+148,Faustino Anjorin,2530000.0,chelsea fc
+149,Charly Musonda Jr.,1100000.0,chelsea fc
+152,Izzy Brown,1760000.0,chelsea fc
+153,Timo Werner,71500000.0,chelsea fc
+154,Tammy Abraham,41800000.0,chelsea fc
+155,Michy Batshuayi,11000000.0,chelsea fc
+156,Olivier Giroud,4400000.0,chelsea fc
+157,Kasper Schmeichel,6600000.0,leicester city
+158,Danny Ward,6600000.0,leicester city
+159,Eldin Jakupovic,330000.0,leicester city
+161,Caglar Söyüncü,49500000.0,leicester city
+162,Wesley Fofana,44000000.0,leicester city
+163,Jonny Evans,7700000.0,leicester city
+164,Josh Knight,660000.0,leicester city
+165,Wes Morgan,440000.0,leicester city
+169,Christian Fuchs,880000.0,leicester city
+171,Ricardo Pereira,33000000.0,leicester city
+172,Timothy Castagne,30800000.0,leicester city
+173,James Justin,18700000.0,leicester city
+174,Vontae Daley-Campbell,220000.0,leicester city
+175,Wilfred Ndidi,66000000.0,leicester city
+176,Nampalys Mendy,8800000.0,leicester city
+177,Daniel Amartey,5500000.0,leicester city
+178,Kiernan Dewsbury-Hall,2200000.0,leicester city
+179,Youri Tielemans,60500000.0,leicester city
+180,Dennis Praet,19800000.0,leicester city
+181,Hamza Choudhury,7700000.0,leicester city
+182,Matty James,1100000.0,leicester city
+183,Sidnei Tavares,330000.0,leicester city
+184,Thakgalo Leshabela,110000.0,leicester city
+185,Marc Albrighton,4400000.0,leicester city
+186,Harvey Barnes,38500000.0,leicester city
+187,James Maddison,60500000.0,leicester city
+190,Demarai Gray,8800000.0,leicester city
+191,Cengiz Ünder,19800000.0,leicester city
+193,Ayoze Pérez,19800000.0,leicester city
+194,Kelechi Iheanacho,22000000.0,leicester city
+195,Jamie Vardy,7700000.0,leicester city
+196,Islam Slimani,3300000.0,leicester city
+197,Lukasz Fabianski,1650000.0,west ham united
+198,Darren Randolph,1650000.0,west ham united
+199,Nathan Trott,275000.0,west ham united
+200,David Martin,275000.0,west ham united
+201,Issa Diop,19800000.0,west ham united
+202,Fabián Balbuena,5500000.0,west ham united
+203,Craig Dawson,3300000.0,west ham united
+204,Angelo Ogbonna,2750000.0,west ham united
+205,Winston Reid,1650000.0,west ham united
+206,Frederik Alves,1100000.0,west ham united
+207,Jamal Baptiste,220000.0,west ham united
+209,Arthur Masuaku,7700000.0,west ham united
+210,Aaron Cresswell,5500000.0,west ham united
+211,Emmanuel Longelo,165000.0,west ham united
+212,Vladimir Coufal,13200000.0,west ham united
+213,Ben Johnson,3300000.0,west ham united
+214,Ryan Fredericks,2750000.0,west ham united
+215,Harrison Ashby,330000.0,west ham united
+216,Declan Rice,71500000.0,west ham united
+218,Conor Coventry,220000.0,west ham united
+219,Josh Cullen,3300000.0,west ham united
+221,Mark Noble,2200000.0,west ham united
+222,Jesse Lingard,24200000.0,west ham united
+223,Pablo Fornals,19800000.0,west ham united
+224,Manuel Lanzini,11000000.0,west ham united
+226,Felipe Anderson,11000000.0,west ham united
+229,Andriy Yarmolenko,4400000.0,west ham united
+230,Robert Snodgrass,1650000.0,west ham united
+231,Xande Silva,880000.0,west ham united
+232,Sébastien Haller,29700000.0,west ham united
+233,Michail Antonio,13200000.0,west ham united
+234,Ademipo Odubeko,275000.0,west ham united
+237,Paulo Gazzaniga,3300000.0,tottenham hotspur
+238,Joe Hart,2200000.0,tottenham hotspur
+239,Alfie Whiteman,1100000.0,tottenham hotspur
+240,Brandon Austin,275000.0,tottenham hotspur
+241,Davinson Sánchez,35200000.0,tottenham hotspur
+242,Eric Dier,24200000.0,tottenham hotspur
+243,Toby Alderweireld,12100000.0,tottenham hotspur
+245,Japhet Tanganga,8800000.0,tottenham hotspur
+246,Cameron Carter-Vickers,2200000.0,tottenham hotspur
+247,Sergio Reguilón,27500000.0,tottenham hotspur
+249,Ben Davies,17600000.0,tottenham hotspur
+250,Danny Rose,3300000.0,tottenham hotspur
+252,Serge Aurier,22000000.0,tottenham hotspur
+253,Matt Doherty,17600000.0,tottenham hotspur
+254,Marcel Lavinier,220000.0,tottenham hotspur
+256,Oliver Skipp,11000000.0,tottenham hotspur
+257,Harvey White,660000.0,tottenham hotspur
+259,Tanguy Ndombélé,55000000.0,tottenham hotspur
+260,Pierre-Emile Höjbjerg,38500000.0,tottenham hotspur
+262,Gedson Fernandes,13750000.0,tottenham hotspur
+263,Moussa Sissoko,11000000.0,tottenham hotspur
+264,Alfie Devine,550000.0,tottenham hotspur
+265,Dele Alli,33000000.0,tottenham hotspur
+266,Nile John,220000.0,tottenham hotspur
+267,Heung-min Son,93500000.0,tottenham hotspur
+268,Steven Bergwijn,24200000.0,tottenham hotspur
+269,Lucas Moura,27500000.0,tottenham hotspur
+270,Gareth Bale,19800000.0,tottenham hotspur
+271,Erik Lamela,17600000.0,tottenham hotspur
+272,Jack Clarke,5500000.0,tottenham hotspur
+274,Harry Kane,132000000.0,tottenham hotspur
+275,Carlos Vinícius,19800000.0,tottenham hotspur
+277,Emiliano Martínez,33000000.0,arsenal fc
+278,Bernd Leno,24200000.0,arsenal fc
+279,Mathew Ryan,6600000.0,arsenal fc
+280,Rúnar Alex Rúnarsson,1650000.0,arsenal fc
+281,Karl Hein,495000.0,arsenal fc
+282,Matt Macey,330000.0,arsenal fc
+283,Dejan Iliev,330000.0,arsenal fc
+287,William Saliba,19800000.0,arsenal fc
+288,Rob Holding,19800000.0,arsenal fc
+289,Calum Chambers,13200000.0,arsenal fc
+291,David Luiz,4400000.0,arsenal fc
+292,Shkodran Mustafi,2750000.0,arsenal fc
+293,Kieran Tierney,35200000.0,arsenal fc
+294,Sead Kolasinac,7150000.0,arsenal fc
+296,Héctor Bellerín,27500000.0,arsenal fc
+297,Cédric Soares,6600000.0,arsenal fc
+298,Thomas Partey,44000000.0,arsenal fc
+301,Dani Ceballos,29700000.0,arsenal fc
+302,Joe Willock,17600000.0,arsenal fc
+303,Miguel Azeez,550000.0,arsenal fc
+305,Ainsley Maitland-Niles,17600000.0,arsenal fc
+306,Bukayo Saka,71500000.0,arsenal fc
+307,Martin Ødegaard,44000000.0,arsenal fc
+308,Emile Smith Rowe,19800000.0,arsenal fc
+309,Ben Cottrell,220000.0,arsenal fc
+310,Gabriel Martinelli,24200000.0,arsenal fc
+311,Nicolas Pépé,38500000.0,arsenal fc
+312,Willian,9900000.0,arsenal fc
+313,Reiss Nelson,9900000.0,arsenal fc
+314,Alexandre Lacazette,30800000.0,arsenal fc
+316,Eddie Nketiah,17600000.0,arsenal fc
+317,Folarin Balogun,4400000.0,arsenal fc
+319,Illan Meslier,22000000.0,leeds united
+320,Kiko Casilla,880000.0,leeds united
+321,Elia Caprile,220000.0,leeds united
+322,Diego Llorente,22000000.0,leeds united
+323,Robin Koch,18700000.0,leeds united
+324,Pascal Struijk,9900000.0,leeds united
+325,Liam Cooper,7700000.0,leeds united
+326,Oliver Casey,275000.0,leeds united
+327,Charlie Cresswell,220000.0,leeds united
+328,Ezgjan Alioski,5500000.0,leeds united
+329,Barry Douglas,1650000.0,leeds united
+330,Leif Davis,880000.0,leeds united
+331,Luke Ayling,5500000.0,leeds united
+332,Stuart Dallas,4400000.0,leeds united
+333,Gaetano Berardi,330000.0,leeds united
+334,Niall Huggins,220000.0,leeds united
+336,Kalvin Phillips,33000000.0,leeds united
+337,Ouasim Bouy,275000.0,leeds united
+338,Jack Jenkins,165000.0,leeds united
+341,Adam Forshaw,2200000.0,leeds united
+342,Mateusz Bogusz,1100000.0,leeds united
+343,Robbie Gotts,275000.0,leeds united
+344,Eunan O'Kane,220000.0,leeds united
+346,Jordan Stevens,220000.0,leeds united
+347,Pablo Hernández,880000.0,leeds united
+348,Jack Harrison,16500000.0,leeds united
+349,Raphinha,33000000.0,leeds united
+350,Hélder Costa,11000000.0,leeds united
+351,Crysencio Summerville,1650000.0,leeds united
+352,Ian Poveda,1650000.0,leeds united
+353,Rodrigo,19800000.0,leeds united
+354,Tyler Roberts,6600000.0,leeds united
+355,Patrick Bamford,24200000.0,leeds united
+356,Joe Gelhardt,1430000.0,leeds united
+357,Sam Greenwood,220000.0,leeds united
+358,Jordan Pickford,24200000.0,everton fc
+359,Robin Olsen,3300000.0,everton fc
+360,Jonas Lössl,1650000.0,everton fc
+361,João Virgínia,1100000.0,everton fc
+364,Michael Keane,27500000.0,everton fc
+365,Ben Godfrey,27500000.0,everton fc
+366,Mason Holgate,22000000.0,everton fc
+367,Yerry Mina,22000000.0,everton fc
+368,Jarrad Branthwaite,3300000.0,everton fc
+369,Matthew Pennington,660000.0,everton fc
+372,Lucas Digne,38500000.0,everton fc
+373,Niels Nkounkou,3300000.0,everton fc
+374,Thierry Small,110000.0,everton fc
+375,Jonjoe Kenny,6380000.0,everton fc
+378,Jean-Philippe Gbamin,16500000.0,everton fc
+379,Muhamed Besic,1650000.0,everton fc
+380,Abdoulaye Doucouré,27500000.0,everton fc
+381,Allan,24200000.0,everton fc
+382,André Gomes,22000000.0,everton fc
+383,Tom Davies,19800000.0,everton fc
+384,Fabian Delph,3850000.0,everton fc
+385,Beni Baningime,1100000.0,everton fc
+386,Tyler Onyango,220000.0,everton fc
+388,James Rodríguez,30800000.0,everton fc
+389,Gylfi Sigurdsson,14300000.0,everton fc
+390,Alex Iwobi,24200000.0,everton fc
+391,Bernard,13200000.0,everton fc
+392,Anthony Gordon,5500000.0,everton fc
+393,Yannick Bolasie,1650000.0,everton fc
+394,Nathan Broadhead,550000.0,everton fc
+395,Theo Walcott,5500000.0,everton fc
+396,Joshua King,8800000.0,everton fc
+397,Richarlison,60500000.0,everton fc
+398,Dominic Calvert-Lewin,49500000.0,everton fc
+400,Cenk Tosun,5500000.0,everton fc
+402,Emiliano Martínez,33000000.0,aston villa
+403,Lovre Kalinic,2750000.0,aston villa
+404,Örjan Nyland,1100000.0,aston villa
+405,Tom Heaton,1100000.0,aston villa
+406,Jed Steer,880000.0,aston villa
+407,Ákos Onódi,165000.0,aston villa
+408,Oliwier Zych,55000.0,aston villa
+409,Tyrone Mings,33000000.0,aston villa
+410,Ezri Konsa,27500000.0,aston villa
+412,Björn Engels,3300000.0,aston villa
+413,Dominic Revan,165000.0,aston villa
+415,Sil Swinkels,165000.0,aston villa
+416,Matt Targett,18700000.0,aston villa
+417,Neil Taylor,1650000.0,aston villa
+418,Callum Rowe,165000.0,aston villa
+419,Ben Chrisene,165000.0,aston villa
+420,Matty Cash,24200000.0,aston villa
+421,Frédéric Guilbert,6600000.0,aston villa
+422,Ahmed Elmohamady,1650000.0,aston villa
+424,Jake Walker,165000.0,aston villa
+426,Douglas Luiz,38500000.0,aston villa
+427,Marvelous Nakamba,7700000.0,aston villa
+428,Lamare Bogarde,220000.0,aston villa
+429,Mamadou Sylla,165000.0,aston villa
+431,John McGinn,33000000.0,aston villa
+432,Ross Barkley,22000000.0,aston villa
+433,Morgan Sanson,17600000.0,aston villa
+434,Conor Hourihane,3850000.0,aston villa
+435,Henri Lansbury,1100000.0,aston villa
+436,Carney Chukwuemeka,1100000.0,aston villa
+437,Harrison Sohna,165000.0,aston villa
+438,Arjan Raikhy,165000.0,aston villa
+439,Edward Rowe,165000.0,aston villa
+441,Jacob Ramsey,5500000.0,aston villa
+443,Jack Grealish,71500000.0,aston villa
+444,Trezeguet,11000000.0,aston villa
+445,Jaden Philogene-Bidace,550000.0,aston villa
+446,Bertrand Traoré,22000000.0,aston villa
+447,Anwar El Ghazi,14300000.0,aston villa
+448,Jota Peleteiro,1980000.0,aston villa
+449,Ollie Watkins,35200000.0,aston villa
+450,Wesley,14300000.0,aston villa
+451,Mbwana Samatta,4620000.0,aston villa
+452,Keinan Davis,3300000.0,aston villa
+453,Louie Barry,1100000.0,aston villa
+454,Brad Young,165000.0,aston villa
+455,Freddie Woodman,11000000.0,newcastle united
+456,Martin Dubravka,5500000.0,newcastle united
+457,Karl Darlow,3300000.0,newcastle united
+460,Jamaal Lascelles,14300000.0,newcastle united
+461,Fabian Schär,9900000.0,newcastle united
+463,Federico Fernández,3300000.0,newcastle united
+464,Jamal Lewis,16500000.0,newcastle united
+465,Paul Dummett,3300000.0,newcastle united
+466,Matt Ritchie,3300000.0,newcastle united
+467,DeAndre Yedlin,5500000.0,newcastle united
+469,Javier Manquillo,3300000.0,newcastle united
+470,Isaac Hayden,11000000.0,newcastle united
+471,Joe Willock,17600000.0,newcastle united
+472,Sean Longstaff,16500000.0,newcastle united
+473,Jonjo Shelvey,14300000.0,newcastle united
+474,Jeff Hendrick,9900000.0,newcastle united
+475,Matthew Longstaff,5500000.0,newcastle united
+476,Dan Barlaser,1320000.0,newcastle united
+477,Miguel Almirón,17600000.0,newcastle united
+478,Henri Saivet,880000.0,newcastle united
+479,Elliot Anderson,220000.0,newcastle united
+480,Allan Saint-Maximin,33000000.0,newcastle united
+481,Ryan Fraser,11000000.0,newcastle united
+482,Christian Atsu,1650000.0,newcastle united
+483,Jacob Murphy,4400000.0,newcastle united
+484,Callum Wilson,24200000.0,newcastle united
+485,Joelinton,18700000.0,newcastle united
+486,Dwight Gayle,4400000.0,newcastle united
+487,Andy Carroll,1650000.0,newcastle united
+488,Rui Patrício,11000000.0,wolverhampton wanderers
+489,John Ruddy,880000.0,wolverhampton wanderers
+490,Andreas Söndergaard,220000.0,wolverhampton wanderers
+492,Conor Coady,27500000.0,wolverhampton wanderers
+493,Willy Boly,15400000.0,wolverhampton wanderers
+494,Romain Saïss,11000000.0,wolverhampton wanderers
+495,Max Kilman,4950000.0,wolverhampton wanderers
+499,Rayan Aït Nouri,19800000.0,wolverhampton wanderers
+500,Jonny Otto,16500000.0,wolverhampton wanderers
+501,Rúben Vinagre,5500000.0,wolverhampton wanderers
+502,Marçal,1980000.0,wolverhampton wanderers
+504,Nélson Semedo,30800000.0,wolverhampton wanderers
+505,Ki-Jana Hoever,7700000.0,wolverhampton wanderers
+506,Oskar Buur,330000.0,wolverhampton wanderers
+507,Rúben Neves,49500000.0,wolverhampton wanderers
+508,Leander Dendoncker,33000000.0,wolverhampton wanderers
+509,Owen Otasowie,1650000.0,wolverhampton wanderers
+510,Morgan Gibbs-White,7700000.0,wolverhampton wanderers
+511,João Moutinho,4400000.0,wolverhampton wanderers
+514,Vitinha,7700000.0,wolverhampton wanderers
+515,Meritan Shabani,330000.0,wolverhampton wanderers
+517,Pedro Neto,38500000.0,wolverhampton wanderers
+518,Adama Traoré,33000000.0,wolverhampton wanderers
+519,Daniel Podence,27500000.0,wolverhampton wanderers
+520,Raúl Jiménez,30800000.0,wolverhampton wanderers
+521,Fábio Silva,27500000.0,wolverhampton wanderers
+522,Willian José,19800000.0,wolverhampton wanderers
+523,Patrick Cutrone,9900000.0,wolverhampton wanderers
+524,Theo Corbeanu,550000.0,wolverhampton wanderers
+525,Renat Dadashov,330000.0,wolverhampton wanderers
+526,Jack Butland,2200000.0,crystal palace
+527,Vicente Guaita,2200000.0,crystal palace
+528,Wayne Hennessey,1100000.0,crystal palace
+529,Stephen Henderson,330000.0,crystal palace
+530,Cheikhou Kouyaté,6600000.0,crystal palace
+531,Mamadou Sakho,6600000.0,crystal palace
+532,Nathan Ferguson,4400000.0,crystal palace
+533,James Tomkins,2750000.0,crystal palace
+534,Scott Dann,1650000.0,crystal palace
+535,Gary Cahill,1650000.0,crystal palace
+536,Jaroslaw Jach,715000.0,crystal palace
+539,Patrick van Aanholt,7700000.0,crystal palace
+540,Tyrick Mitchell,7700000.0,crystal palace
+542,Nathaniel Clyne,3300000.0,crystal palace
+543,Joel Ward,2750000.0,crystal palace
+544,Martin Kelly,1650000.0,crystal palace
+545,Luka Milivojevic,8800000.0,crystal palace
+546,Jairo Riedewald,8800000.0,crystal palace
+547,James McCarthy,3300000.0,crystal palace
+548,James McArthur,2200000.0,crystal palace
+550,Jeffrey Schlupp,9900000.0,crystal palace
+551,Eberechi Eze,22000000.0,crystal palace
+552,Max Meyer,1650000.0,crystal palace
+553,Wilfried Zaha,49500000.0,crystal palace
+554,Brandon Pierrick,275000.0,crystal palace
+556,Andros Townsend,7700000.0,crystal palace
+557,Jean-Philippe Mateta,14300000.0,crystal palace
+558,Michy Batshuayi,11000000.0,crystal palace
+560,Jordan Ayew,8800000.0,crystal palace
+561,Connor Wickham,1100000.0,crystal palace
+562,Alex McCarthy,5500000.0,southampton fc
+564,Fraser Forster,3300000.0,southampton fc
+565,Harry Lewis,220000.0,southampton fc
+566,Jan Bednarek,27500000.0,southampton fc
+567,Jannik Vestergaard,19800000.0,southampton fc
+568,Mohammed Salisu,11000000.0,southampton fc
+569,Jack Stephens,5500000.0,southampton fc
+570,Allan Tchaptchet,165000.0,southampton fc
+571,Ryan Bertrand,8800000.0,southampton fc
+572,Sam McQueen,880000.0,southampton fc
+573,Jake Vokins,275000.0,southampton fc
+575,Yan Valery,3300000.0,southampton fc
+576,Kayne Ramsay,275000.0,southampton fc
+577,Ibrahima Diallo,16500000.0,southampton fc
+578,Mario Lemina,11000000.0,southampton fc
+579,Oriol Romeu,6600000.0,southampton fc
+580,James Ward-Prowse,33000000.0,southampton fc
+581,Stuart Armstrong,8800000.0,southampton fc
+582,Will Smallbone,2200000.0,southampton fc
+583,Alexandre Jankewitz,550000.0,southampton fc
+584,Caleb Watts,275000.0,southampton fc
+588,Jake Hesketh,220000.0,southampton fc
+591,Mohamed Elyounoussi,13200000.0,southampton fc
+592,Takumi Minamino,13200000.0,southampton fc
+593,Theo Walcott,5500000.0,southampton fc
+594,Nathan Tella,2200000.0,southampton fc
+595,Josh Sims,1320000.0,southampton fc
+597,Ché Adams,22000000.0,southampton fc
+598,Michael Obafemi,3300000.0,southampton fc
+599,Dan N'Lundulu,1650000.0,southampton fc
+600,Shane Long,1320000.0,southampton fc
+601,Robert Sánchez,8800000.0,brighton amp hove albion
+602,Mathew Ryan,6600000.0,brighton amp hove albion
+603,Jason Steele,880000.0,brighton amp hove albion
+607,Lewis Dunk,27500000.0,brighton amp hove albion
+608,Adam Webster,19800000.0,brighton amp hove albion
+611,Matt Clarke,3300000.0,brighton amp hove albion
+612,Leo Östigard,3300000.0,brighton amp hove albion
+613,Haydon Roberts,550000.0,brighton amp hove albion
+615,Michal Karbownik,5500000.0,brighton amp hove albion
+616,Bernardo,4400000.0,brighton amp hove albion
+617,Alex Cochrane,275000.0,brighton amp hove albion
+618,Tariq Lamptey,19800000.0,brighton amp hove albion
+619,Joël Veltman,6600000.0,brighton amp hove albion
+621,Yves Bissouma,27500000.0,brighton amp hove albion
+622,Jakub Moder,11000000.0,brighton amp hove albion
+623,Davy Pröpper,8800000.0,brighton amp hove albion
+626,Moisés Caicedo,5500000.0,brighton amp hove albion
+627,Dale Stephens,2750000.0,brighton amp hove albion
+628,Jayson Molumby,1100000.0,brighton amp hove albion
+630,Teddy Jenks,220000.0,brighton amp hove albion
+632,Solly March,9900000.0,brighton amp hove albion
+633,Alexis Mac Allister,11000000.0,brighton amp hove albion
+634,Adam Lallana,4400000.0,brighton amp hove albion
+635,Leandro Trossard,18700000.0,brighton amp hove albion
+636,José Izquierdo,4400000.0,brighton amp hove albion
+637,Peter Gwargis,330000.0,brighton amp hove albion
+638,Reda Khadra,165000.0,brighton amp hove albion
+639,Alireza Jahanbakhsh,5500000.0,brighton amp hove albion
+640,Percy Tau,3300000.0,brighton amp hove albion
+641,Neal Maupay,22000000.0,brighton amp hove albion
+642,Aaron Connolly,7700000.0,brighton amp hove albion
+644,Andi Zeqiri,2750000.0,brighton amp hove albion
+645,Florin Andone,2200000.0,brighton amp hove albion
+646,Viktor Gyökeres,1100000.0,brighton amp hove albion
+647,Nick Pope,16500000.0,burnley fc
+648,Bailey Peacock-Farrell,1100000.0,burnley fc
+649,Will Norris,440000.0,burnley fc
+650,James Tarkowski,27500000.0,burnley fc
+652,Ben Mee,6600000.0,burnley fc
+654,Jimmy Dunne,660000.0,burnley fc
+655,Richard Nartey,220000.0,burnley fc
+656,Bobby Thomas,220000.0,burnley fc
+657,Charlie Taylor,4400000.0,burnley fc
+658,Erik Pieters,1650000.0,burnley fc
+660,Matthew Lowton,2750000.0,burnley fc
+661,Phil Bardsley,330000.0,burnley fc
+662,Jack Cork,5500000.0,burnley fc
+663,Ashley Westwood,5500000.0,burnley fc
+664,Josh Brownhill,7700000.0,burnley fc
+665,Dale Stephens,2750000.0,burnley fc
+666,Josh Benson,440000.0,burnley fc
+667,Anthony Gomez Mancini,275000.0,burnley fc
+668,Mace Goodridge,220000.0,burnley fc
+669,Robbie Brady,3300000.0,burnley fc
+670,Lewis Richardson,220000.0,burnley fc
+671,Dwight McNeil,24200000.0,burnley fc
+672,Jóhann Berg Gudmundsson,3300000.0,burnley fc
+674,Chris Wood,8800000.0,burnley fc
+675,Jay Rodríguez,4400000.0,burnley fc
+676,Ashley Barnes,3850000.0,burnley fc
+677,Matej Vydra,3300000.0,burnley fc
+678,Joel Mumbongo,330000.0,burnley fc
+679,Alphonse Areola,18700000.0,fulham fc
+680,Marek Rodak,5500000.0,fulham fc
+681,Marcus Bettinelli,2750000.0,fulham fc
+682,Fabri,660000.0,fulham fc
+683,Joachim Andersen,24200000.0,fulham fc
+684,Tosin Adarabioyo,13200000.0,fulham fc
+685,Alfie Mawson,4400000.0,fulham fc
+686,Michael Hector,3850000.0,fulham fc
+687,Terence Kongolo,3850000.0,fulham fc
+688,Maxime Le Marchand,1650000.0,fulham fc
+689,Tim Ream,660000.0,fulham fc
+690,Antonee Robinson,7700000.0,fulham fc
+691,Joe Bryan,5500000.0,fulham fc
+692,Ola Aina,6600000.0,fulham fc
+693,Kenny Tete,5500000.0,fulham fc
+694,Steven Sessegnon,2200000.0,fulham fc
+695,Cyrus Christie,1650000.0,fulham fc
+696,Denis Odoi,660000.0,fulham fc
+697,André Zambo Anguissa,27500000.0,fulham fc
+698,Mario Lemina,11000000.0,fulham fc
+699,Kevin McDonald,880000.0,fulham fc
+700,Ruben Loftus-Cheek,19800000.0,fulham fc
+701,Harrison Reed,11000000.0,fulham fc
+703,Jean Michaël Seri,4400000.0,fulham fc
+704,Stefan Johansen,2200000.0,fulham fc
+705,Tyrese Francois,165000.0,fulham fc
+706,Bobby Reid,11000000.0,fulham fc
+707,Josh Onomah,6600000.0,fulham fc
+709,Fábio Carvalho,275000.0,fulham fc
+710,Ademola Lookman,12100000.0,fulham fc
+711,Sylvester Jasper,275000.0,fulham fc
+712,Ivan Cavaleiro,7700000.0,fulham fc
+713,Anthony Knockaert,3300000.0,fulham fc
+714,Aleksandar Mitrovic,17600000.0,fulham fc
+716,Aboubakar Kamara,2200000.0,fulham fc
+717,Sam Johnstone,8800000.0,west bromwich albion
+718,David Button,1100000.0,west bromwich albion
+719,Alex Palmer,275000.0,west bromwich albion
+722,Semi Ajayi,6600000.0,west bromwich albion
+724,Dara O'Shea,3300000.0,west bromwich albion
+725,Kyle Bartley,2750000.0,west bromwich albion
+726,Cédric Kipré,1100000.0,west bromwich albion
+727,Branislav Ivanovic,550000.0,west bromwich albion
+729,Kieran Gibbs,2750000.0,west bromwich albion
+730,Conor Townsend,2200000.0,west bromwich albion
+733,Lee Peltier,440000.0,west bromwich albion
+735,Okay Yokuslu,8250000.0,west bromwich albion
+736,Jake Livermore,2750000.0,west bromwich albion
+737,Conor Gallagher,16500000.0,west bromwich albion
+738,Rekeem Harper,2750000.0,west bromwich albion
+739,Romaine Sawyers,2200000.0,west bromwich albion
+740,Sam Field,1100000.0,west bromwich albion
+747,Grady Diangana,11000000.0,west bromwich albion
+748,Kamil Grosicki,1100000.0,west bromwich albion
+749,Matheus Pereira,16500000.0,west bromwich albion
+750,Matt Phillips,4400000.0,west bromwich albion
+751,Robert Snodgrass,1650000.0,west bromwich albion
+752,Karlan Grant,8800000.0,west bromwich albion
+753,Callum Robinson,6600000.0,west bromwich albion
+754,Mbaye Diagne,3300000.0,west bromwich albion
+757,Hal Robson-Kanu,1650000.0,west bromwich albion
+760,Aaron Ramsdale,13200000.0,sheffield united
+761,Michael Verrips,990000.0,sheffield united
+762,Wes Foderingham,440000.0,sheffield united
+763,Simon Moore,440000.0,sheffield united
+764,Jake Eastwood,110000.0,sheffield united
+765,Ethan Ampadu,16500000.0,sheffield united
+766,John Egan,9900000.0,sheffield united
+767,Jack O'Connell,5500000.0,sheffield united
+768,Chris Basham,2200000.0,sheffield united
+769,Kean Bryan,2200000.0,sheffield united
+770,Kyron Gordon,275000.0,sheffield united
+771,Phil Jagielka,275000.0,sheffield united
+772,Enda Stevens,3850000.0,sheffield united
+773,Max Lowe,3300000.0,sheffield united
+774,Jack Robinson,2200000.0,sheffield united
+775,Rhys Norrington-Davies,1650000.0,sheffield united
+778,George Baldock,5500000.0,sheffield united
+779,Femi Seriki,220000.0,sheffield united
+780,Sander Berge,19800000.0,sheffield united
+781,Jack Rodwell,880000.0,sheffield united
+783,John Lundstram,7700000.0,sheffield united
+784,John Fleck,5500000.0,sheffield united
+785,Oliver Norwood,5500000.0,sheffield united
+786,Zak Brunt,275000.0,sheffield united
+788,Ben Osborn,2200000.0,sheffield united
+789,Luke Freeman,2200000.0,sheffield united
+790,Iliman Ndiaye,220000.0,sheffield united
+792,Rhian Brewster,13200000.0,sheffield united
+793,Oliver McBurnie,11000000.0,sheffield united
+794,Lys Mousset,9900000.0,sheffield united
+795,Oliver Burke,6600000.0,sheffield united
+796,David McGoldrick,1650000.0,sheffield united
+797,Daniel Jebbison,1100000.0,sheffield united
+798,Billy Sharp,550000.0,sheffield united
+799,Antwoine Hackford,110000.0,sheffield united
+0,Jan Oblak,77000000.0,atletico de madrid
+1,Ivo Grbic,3850000.0,atletico de madrid
+2,Miguel San Román,770000.0,atletico de madrid
+4,Mario Hermoso,38500000.0,atletico de madrid
+5,Stefan Savic,27500000.0,atletico de madrid
+6,Felipe,13200000.0,atletico de madrid
+7,Nehuén Pérez,4400000.0,atletico de madrid
+8,Álvaro García,220000.0,atletico de madrid
+9,Adrián Corral,220000.0,atletico de madrid
+10,Renan Lodi,27500000.0,atletico de madrid
+11,Manu Sánchez,8800000.0,atletico de madrid
+13,Sime Vrsaljko,5500000.0,atletico de madrid
+14,Ricard Sánchez,1650000.0,atletico de madrid
+15,Thomas Partey,44000000.0,atletico de madrid
+16,Lucas Torreira,22000000.0,atletico de madrid
+17,Koke,66000000.0,atletico de madrid
+18,Saúl Ñíguez,44000000.0,atletico de madrid
+19,Geoffrey Kondogbia,16500000.0,atletico de madrid
+20,Héctor Herrera,7700000.0,atletico de madrid
+21,Juan Manuel Sanabria,880000.0,atletico de madrid
+22,Toni Moya,440000.0,atletico de madrid
+23,Josep Calavera,275000.0,atletico de madrid
+24,Óscar Castro,55000.0,atletico de madrid
+25,Marcos Llorente,88000000.0,atletico de madrid
+26,Thomas Lemar,27500000.0,atletico de madrid
+27,Mario Soriano,550000.0,atletico de madrid
+28,Yannick Carrasco,44000000.0,atletico de madrid
+29,Vitolo,4400000.0,atletico de madrid
+30,Víctor Mollejo,3300000.0,atletico de madrid
+32,João Félix,88000000.0,atletico de madrid
+33,Ángel Correa,44000000.0,atletico de madrid
+34,Moussa Dembélé,22000000.0,atletico de madrid
+35,Luis Suárez,16500000.0,atletico de madrid
+36,Diego Costa,6600000.0,atletico de madrid
+37,Sergio Camello,2530000.0,atletico de madrid
+38,Ivan Saponjic,1320000.0,atletico de madrid
+39,Thibaut Courtois,66000000.0,real madrid
+40,Andriy Lunin,3300000.0,real madrid
+41,Diego Altube,550000.0,real madrid
+42,Luis López,165000.0,real madrid
+44,Raphaël Varane,77000000.0,real madrid
+45,Éder Militão,44000000.0,real madrid
+46,Sergio Ramos,11000000.0,real madrid
+47,Nacho Fernández,11000000.0,real madrid
+48,Victor Chust,440000.0,real madrid
+49,Pablo Ramón,55000.0,real madrid
+50,Ferland Mendy,55000000.0,real madrid
+51,Marcelo,8250000.0,real madrid
+52,Miguel Gutiérrez,5500000.0,real madrid
+53,Daniel Carvajal,33000000.0,real madrid
+55,Sergio Santos,220000.0,real madrid
+56,Casemiro,77000000.0,real madrid
+57,Fede Valverde,71500000.0,real madrid
+58,Toni Kroos,44000000.0,real madrid
+59,Luka Modric,11000000.0,real madrid
+60,Antonio Blanco,5500000.0,real madrid
+63,Eden Hazard,44000000.0,real madrid
+64,Vinícius Júnior,44000000.0,real madrid
+66,Marco Asensio,38500000.0,real madrid
+67,Rodrygo,38500000.0,real madrid
+68,Lucas Vázquez,16500000.0,real madrid
+69,Sergio Arribas,3300000.0,real madrid
+70,Marvin Park,550000.0,real madrid
+71,Karim Benzema,27500000.0,real madrid
+73,Borja Mayoral,15400000.0,real madrid
+74,Mariano Díaz,11000000.0,real madrid
+75,Hugo Duro,5500000.0,real madrid
+76,Marc-André ter Stegen,66000000.0,fc barcelona
+82,Óscar Mingueza,16500000.0,fc barcelona
+83,Gerard Piqué,11000000.0,fc barcelona
+84,Samuel Umtiti,8800000.0,fc barcelona
+85,Santi Ramos Mingo,550000.0,fc barcelona
+86,Jordi Alba,22000000.0,fc barcelona
+87,Junior Firpo,8800000.0,fc barcelona
+88,Sergiño Dest,33000000.0,fc barcelona
+89,Sergi Roberto,19800000.0,fc barcelona
+91,Sergio Busquets,9900000.0,fc barcelona
+92,Matheus Fernandes,1650000.0,fc barcelona
+93,Frenkie de Jong,99000000.0,fc barcelona
+94,Ilaix Moriba,27500000.0,fc barcelona
+95,Miralem Pjanić,22000000.0,fc barcelona
+96,Riqui Puig,19800000.0,fc barcelona
+97,Carles Aleñá,16500000.0,fc barcelona
+98,Rafinha,16500000.0,fc barcelona
+100,Philippe Coutinho,33000000.0,fc barcelona
+101,Ansu Fati,66000000.0,fc barcelona
+102,Konrad de la Fuente,4400000.0,fc barcelona
+103,Lionel Messi,88000000.0,fc barcelona
+104,Ousmane Dembélé,55000000.0,fc barcelona
+106,Álex Collado,5500000.0,fc barcelona
+107,Antoine Griezmann,66000000.0,fc barcelona
+108,Martin Braithwaite,9900000.0,fc barcelona
+109,Bono,19800000.0,sevilla fc
+110,Tomas Vaclik,4400000.0,sevilla fc
+111,Javi Díaz,440000.0,sevilla fc
+112,Alfonso Pastor,275000.0,sevilla fc
+113,Adrián González,55000.0,sevilla fc
+114,Jules Koundé,66000000.0,sevilla fc
+115,Diego Carlos,49500000.0,sevilla fc
+116,Sergi Gómez,3300000.0,sevilla fc
+117,Karim Rekik,3300000.0,sevilla fc
+119,Kike Ríos,55000.0,sevilla fc
+120,Marcos Acuña,16500000.0,sevilla fc
+121,Sergio Escudero,2750000.0,sevilla fc
+122,Javi Vázquez,165000.0,sevilla fc
+123,Pablo Pérez,110000.0,sevilla fc
+124,Alejandro Pozo,4400000.0,sevilla fc
+125,Jesús Navas,3300000.0,sevilla fc
+126,Aleix Vidal,2200000.0,sevilla fc
+127,Nemanja Gudelj,6600000.0,sevilla fc
+128,Fernando Reges,4400000.0,sevilla fc
+129,Joan Jordán,33000000.0,sevilla fc
+130,Óliver Torres,14300000.0,sevilla fc
+131,Ivan Rakitic,11000000.0,sevilla fc
+132,Óscar Rodríguez,13200000.0,sevilla fc
+133,Franco Vázquez,4400000.0,sevilla fc
+134,Carlos Álvarez,330000.0,sevilla fc
+135,Lucas Ocampos,44000000.0,sevilla fc
+136,Bryan Gil,33000000.0,sevilla fc
+137,Oussama Idrissi,8800000.0,sevilla fc
+138,Suso,22000000.0,sevilla fc
+139,Juanlu Sánchez,440000.0,sevilla fc
+140,Antonio Zarzana,55000.0,sevilla fc
+141,Papu Gómez,9900000.0,sevilla fc
+142,Youssef En-Nesyri,44000000.0,sevilla fc
+146,Iván Romero,550000.0,sevilla fc
+147,Álex Remiro,22000000.0,real sociedad
+148,Miguel Ángel Moyá,880000.0,real sociedad
+149,Andoni Zubiaurre,330000.0,real sociedad
+152,Robin Le Normand,24200000.0,real sociedad
+153,Diego Llorente,22000000.0,real sociedad
+154,Aritz Elustondo,16500000.0,real sociedad
+155,Modibo Sagnan,3300000.0,real sociedad
+156,Urko González de Zárate,550000.0,real sociedad
+157,Jon Pacheco,220000.0,real sociedad
+158,Aritz Arambarri,165000.0,real sociedad
+159,Jérémy Blasco,165000.0,real sociedad
+161,Nacho Monreal,1650000.0,real sociedad
+162,Andoni Gorosabel,11000000.0,real sociedad
+163,Joseba Zaldua,5500000.0,real sociedad
+164,Igor Zubeldia,22000000.0,real sociedad
+165,Martín Zubimendi,22000000.0,real sociedad
+169,Jon Guridi,1980000.0,real sociedad
+171,Roberto López,8800000.0,real sociedad
+172,David Silva,5500000.0,real sociedad
+173,Robert Navarro,3300000.0,real sociedad
+174,Luca Sangalli,1650000.0,real sociedad
+175,Mikel Oyarzabal,77000000.0,real sociedad
+176,Ander Barrenetxea,16500000.0,real sociedad
+177,Martín Merquelanz,2200000.0,real sociedad
+178,Portu,22000000.0,real sociedad
+179,Adnan Januzaj,13200000.0,real sociedad
+180,Alexander Isak,44000000.0,real sociedad
+181,Willian José,19800000.0,real sociedad
+182,Carlos Fernández,9900000.0,real sociedad
+183,Julen Lobete,1650000.0,real sociedad
+184,Jon Bautista,1320000.0,real sociedad
+185,Joel Robles,4400000.0,real betis balompie
+186,Dani Martín,3300000.0,real betis balompie
+187,Claudio Bravo,1100000.0,real betis balompie
+190,Marc Bartra,11000000.0,real betis balompie
+191,Aïssa Mandi,8800000.0,real betis balompie
+193,Víctor Ruiz,2420000.0,real betis balompie
+194,Geovanni Barba,55000.0,real betis balompie
+195,Juan Miranda,7700000.0,real betis balompie
+196,Álex Moreno,6600000.0,real betis balompie
+197,José Calderón,55000.0,real betis balompie
+198,Emerson Royal,27500000.0,real betis balompie
+199,Martín Montoya,2200000.0,real betis balompie
+200,Fran Delgado,440000.0,real betis balompie
+201,Guido Rodríguez,24200000.0,real betis balompie
+202,William Carvalho,16500000.0,real betis balompie
+203,Víctor Camarasa,1650000.0,real betis balompie
+204,Paul Akouokou,1650000.0,real betis balompie
+205,Andrés Guardado,1650000.0,real betis balompie
+206,Nabil Fekir,27500000.0,real betis balompie
+207,Sergio Canales,22000000.0,real betis balompie
+209,Diego Lainez,8800000.0,real betis balompie
+210,Cristian Tello,8250000.0,real betis balompie
+211,Yassin Fekir,330000.0,real betis balompie
+212,Juanmi,2750000.0,real betis balompie
+213,Aitor Ruibal,2200000.0,real betis balompie
+214,Joaquín,1650000.0,real betis balompie
+215,Borja Iglesias,11000000.0,real betis balompie
+216,Loren Morón,9900000.0,real betis balompie
+218,Sergio Asenjo,9900000.0,villarreal cf
+219,Gerónimo Rulli,4400000.0,villarreal cf
+221,Iker Álvarez,55000.0,villarreal cf
+222,Pau Torres,55000000.0,villarreal cf
+223,Juan Foyth,13200000.0,villarreal cf
+224,Raúl Albiol,2750000.0,villarreal cf
+226,Soufiane Chakla,880000.0,villarreal cf
+229,Alberto Moreno,2750000.0,villarreal cf
+230,Jaume Costa,2200000.0,villarreal cf
+231,Mario Gaspar,5500000.0,villarreal cf
+232,Rubén Peña,4400000.0,villarreal cf
+233,Andrei Ratiu,330000.0,villarreal cf
+234,Lanchi,220000.0,villarreal cf
+237,Manu Trigueros,13200000.0,villarreal cf
+238,Dani Parejo,11000000.0,villarreal cf
+239,Vicente Iborra,3300000.0,villarreal cf
+240,Carlo García,330000.0,villarreal cf
+241,Sergio Lozano,220000.0,villarreal cf
+242,Yeremi Pino,16500000.0,villarreal cf
+243,Moi Gómez,8800000.0,villarreal cf
+245,Álex Baena,2750000.0,villarreal cf
+246,Samuel Chukwueze,22000000.0,villarreal cf
+247,Takefusa Kubo,16500000.0,villarreal cf
+249,Gerard Moreno,44000000.0,villarreal cf
+250,Paco Alcácer,24200000.0,villarreal cf
+252,Carlos Bacca,1980000.0,villarreal cf
+253,Álex Millán,330000.0,villarreal cf
+254,Rubén Blanco,5500000.0,celta de vigo
+256,Sergio Álvarez,770000.0,celta de vigo
+257,Patrick Sequeira,165000.0,celta de vigo
+259,Álvaro Fernández,110000.0,celta de vigo
+260,Raúl García,55000.0,celta de vigo
+262,Néstor Araújo,7700000.0,celta de vigo
+263,Jeison Murillo,7700000.0,celta de vigo
+264,Joseph Aidoo,6600000.0,celta de vigo
+265,Carlos Dominguez,1650000.0,celta de vigo
+266,David Costas,1320000.0,celta de vigo
+267,Jorge Sáenz,1100000.0,celta de vigo
+268,Lucas Olaza,6600000.0,celta de vigo
+269,Aarón Martín,4950000.0,celta de vigo
+270,Jose Fontán,1100000.0,celta de vigo
+271,David Juncà,770000.0,celta de vigo
+272,Diego Pampín,275000.0,celta de vigo
+274,Sergio Carreira,1100000.0,celta de vigo
+275,Kevin Vázquez,880000.0,celta de vigo
+277,Okay Yokuslu,8250000.0,celta de vigo
+278,Fran Beltrán,13200000.0,celta de vigo
+279,Gabriel Veiga,1650000.0,celta de vigo
+280,Jordan Holsgrove,550000.0,celta de vigo
+281,Denis Suárez,13200000.0,celta de vigo
+282,Miguel Baeza,2750000.0,celta de vigo
+283,Nolito,1650000.0,celta de vigo
+287,Augusto Solari,4400000.0,celta de vigo
+288,Miguel Rodríguez,1100000.0,celta de vigo
+289,Emre Mor,770000.0,celta de vigo
+291,Santi Mina,16500000.0,celta de vigo
+292,Iago Aspas,9900000.0,celta de vigo
+293,Facundo Ferreyra,2200000.0,celta de vigo
+294,Lautaro de León,110000.0,celta de vigo
+296,Aarón Escandell,1100000.0,granada cf
+297,João Costa,275000.0,granada cf
+298,Ángel Jiménez,110000.0,granada cf
+301,Domingos Duarte,13200000.0,granada cf
+302,Jesús Vallejo,5500000.0,granada cf
+303,Nehuén Pérez,4400000.0,granada cf
+305,Neyder Lozano,440000.0,granada cf
+306,Sergio Barcia,110000.0,granada cf
+307,Raúl Torrente,110000.0,granada cf
+308,Carlos Neva,4400000.0,granada cf
+309,Adrián Marín,1320000.0,granada cf
+310,Dimitri Foulquier,3850000.0,granada cf
+311,Víctor Díaz,1100000.0,granada cf
+312,Quini,440000.0,granada cf
+313,Pepe Sánchez,440000.0,granada cf
+314,Kingsley Fobi,165000.0,granada cf
+316,Maxime Gonalons,2750000.0,granada cf
+317,Juan Brunet,55000.0,granada cf
+319,Luis Milla,4400000.0,granada cf
+320,Domingos Quina,3300000.0,granada cf
+321,Yan Eteki,2200000.0,granada cf
+322,Ángel Montoro,1320000.0,granada cf
+323,Ramon Azeez,880000.0,granada cf
+324,Eris Abedini,330000.0,granada cf
+325,Isma Ruiz,330000.0,granada cf
+326,Álvaro Bravo,220000.0,granada cf
+327,Kenedy,11000000.0,granada cf
+328,Fede Vico,1320000.0,granada cf
+329,Antonio Aranda,220000.0,granada cf
+330,Darwin Machís,11000000.0,granada cf
+331,Dani Plomer,110000.0,granada cf
+332,Antonio Puertas,5500000.0,granada cf
+333,Alberto Soro,3300000.0,granada cf
+334,Jesús Rodríguez,110000.0,granada cf
+336,Antoñín,1650000.0,granada cf
+337,Jorge Molina,1650000.0,granada cf
+338,Roberto Soldado,1320000.0,granada cf
+341,Jokin Ezkieta,330000.0,athletic bilbao
+342,Unai Núñez,22000000.0,athletic bilbao
+343,Iñigo Martínez,22000000.0,athletic bilbao
+344,Yeray Álvarez,22000000.0,athletic bilbao
+346,Yuri Berchiche,13200000.0,athletic bilbao
+347,Mikel Balenziaga,1320000.0,athletic bilbao
+348,Ander Capa,6600000.0,athletic bilbao
+349,Óscar de Marcos,2200000.0,athletic bilbao
+350,Iñigo Lekue,1650000.0,athletic bilbao
+351,Peru Nolaskoain,3300000.0,athletic bilbao
+352,Mikel Vesga,2200000.0,athletic bilbao
+353,Unai López,13200000.0,athletic bilbao
+354,Unai Vencedor,5500000.0,athletic bilbao
+355,Dani García,3300000.0,athletic bilbao
+356,Oier Zarraga,550000.0,athletic bilbao
+357,Beñat Prados,220000.0,athletic bilbao
+358,Julen Bernaola,55000.0,athletic bilbao
+359,Iker Muniain,13200000.0,athletic bilbao
+360,Oihan Sancet,3850000.0,athletic bilbao
+361,Álex Berenguer,16500000.0,athletic bilbao
+364,Iñigo Vicente,1100000.0,athletic bilbao
+365,Nico Williams,1650000.0,athletic bilbao
+366,Ibai Gómez,1320000.0,athletic bilbao
+367,Iñaki Williams,27500000.0,athletic bilbao
+368,Asier Villalibre,4950000.0,athletic bilbao
+369,Raúl García,2750000.0,athletic bilbao
+372,Juan Pérez,660000.0,ca osasuna
+373,Rubén Martínez,550000.0,ca osasuna
+374,Iván Martínez,275000.0,ca osasuna
+375,Iñaki Álvarez,220000.0,ca osasuna
+378,Unai García,1650000.0,ca osasuna
+379,Jonás Ramalho,1100000.0,ca osasuna
+380,Raúl Navas,330000.0,ca osasuna
+381,Jorge Herrando,275000.0,ca osasuna
+382,Gorka Zabarte,165000.0,ca osasuna
+383,Manu Sánchez,8800000.0,ca osasuna
+384,Juan Cruz,2420000.0,ca osasuna
+385,Nacho Vidal,2200000.0,ca osasuna
+386,Facundo Roncaglia,1100000.0,ca osasuna
+388,Oier,770000.0,ca osasuna
+389,Jon Moncayola,7700000.0,ca osasuna
+390,Darko Brasanac,1980000.0,ca osasuna
+391,Iñigo Pérez,660000.0,ca osasuna
+392,Roberto Torres,5500000.0,ca osasuna
+393,Javi Martínez,1320000.0,ca osasuna
+394,Aimar Oroz,220000.0,ca osasuna
+395,Jony,3080000.0,ca osasuna
+396,Kike Saverio,220000.0,ca osasuna
+397,Asier Córdoba,220000.0,ca osasuna
+398,Rubén García,11000000.0,ca osasuna
+400,Chimy Ávila,11000000.0,ca osasuna
+402,Jonathan Calleri,5500000.0,ca osasuna
+403,Adrián López,1320000.0,ca osasuna
+404,Enric Gallego,1100000.0,ca osasuna
+405,Brandon,660000.0,ca osasuna
+406,Marc Cardona,660000.0,ca osasuna
+407,Jeremías Ledesma,5500000.0,cadiz cf
+408,David Gil,880000.0,cadiz cf
+409,Juanjo Garrancho,110000.0,cadiz cf
+410,Juan Flere,110000.0,cadiz cf
+412,Fali,3300000.0,cadiz cf
+413,Marcos Mauro,1650000.0,cadiz cf
+415,Álex Martín,660000.0,cadiz cf
+416,Pedro Alcalá,660000.0,cadiz cf
+417,Jean-Pierre Rhyner,330000.0,cadiz cf
+418,Saturday Erimuya,330000.0,cadiz cf
+419,Momo Mbaye,55000.0,cadiz cf
+420,Alfonso Espino,2750000.0,cadiz cf
+421,Marc Baró,220000.0,cadiz cf
+422,Iza Carcelén,1650000.0,cadiz cf
+424,Jens Jönsson,4400000.0,cadiz cf
+426,Sergio González,550000.0,cadiz cf
+427,José Mari,550000.0,cadiz cf
+428,Yann Bodiger,880000.0,cadiz cf
+429,Augusto Fernández,330000.0,cadiz cf
+431,Álex Fernández,6600000.0,cadiz cf
+432,Jorge Pombo,1100000.0,cadiz cf
+433,Alberto Perea,1320000.0,cadiz cf
+434,Jairo Izquierdo,880000.0,cadiz cf
+435,Mamady Diarra,110000.0,cadiz cf
+436,Salvi Sánchez,2200000.0,cadiz cf
+437,Iván Alejo,1320000.0,cadiz cf
+438,Filip Malbasic,1320000.0,cadiz cf
+439,Bobby Adekanye,660000.0,cadiz cf
+441,Choco Lozano,2420000.0,cadiz cf
+443,Rubén Sobrino,1650000.0,cadiz cf
+444,Ivan Saponjic,1320000.0,cadiz cf
+445,Álvaro Negredo,1320000.0,cadiz cf
+446,Nano Mesa,550000.0,cadiz cf
+447,Manuel Nieto,165000.0,cadiz cf
+448,Jasper Cillessen,5500000.0,valencia cf
+449,Jaume Doménech,4400000.0,valencia cf
+450,Cristian Rivero,330000.0,valencia cf
+451,Unai Etxebarria,165000.0,valencia cf
+452,Gabriel Paulista,16500000.0,valencia cf
+453,Mouctar Diakhaby,11000000.0,valencia cf
+454,Hugo Guillamón,8250000.0,valencia cf
+455,Ferro,5500000.0,valencia cf
+456,Eliaquim Mangala,2750000.0,valencia cf
+457,Guillem Molina,660000.0,valencia cf
+460,Toni Lato,2750000.0,valencia cf
+461,Álex Centelles,2200000.0,valencia cf
+463,Daniel Wass,7700000.0,valencia cf
+464,Thierry Correia,6600000.0,valencia cf
+465,Cristiano Piccini,2420000.0,valencia cf
+466,Christian Oliva,4400000.0,valencia cf
+467,Carlos Soler,44000000.0,valencia cf
+469,Uros Racic,11000000.0,valencia cf
+470,Koba Koindredi,660000.0,valencia cf
+471,Kang-in Lee,11000000.0,valencia cf
+472,Vicente Esquerdo,1100000.0,valencia cf
+473,Gonçalo Guedes,27500000.0,valencia cf
+474,Denis Cheryshev,3850000.0,valencia cf
+475,Álex Blanco,1650000.0,valencia cf
+476,Yunus Musah,16500000.0,valencia cf
+477,Jason,2750000.0,valencia cf
+478,Maxi Gómez,27500000.0,valencia cf
+479,Patrick Cutrone,9900000.0,valencia cf
+480,Manu Vallejo,7700000.0,valencia cf
+481,Kévin Gameiro,3300000.0,valencia cf
+482,Rubén Sobrino,1650000.0,valencia cf
+483,Aitor Fernández,6600000.0,levante ud
+484,Dani Cárdenas,660000.0,levante ud
+485,Koke Vegas,550000.0,levante ud
+486,Pablo Cuñat,220000.0,levante ud
+487,Rúben Vezo,11000000.0,levante ud
+488,Rober Pier,1320000.0,levante ud
+489,Sergio Postigo,1320000.0,levante ud
+490,Óscar Duarte,880000.0,levante ud
+492,Eusebio Monzó,220000.0,levante ud
+493,Carlos Clerc,3300000.0,levante ud
+494,Toño García,880000.0,levante ud
+495,Jorge Miramón,2200000.0,levante ud
+499,Nemanja Radoja,2750000.0,levante ud
+500,Nikola Vukcevic,1980000.0,levante ud
+501,Cheick Doukouré,660000.0,levante ud
+502,José Campaña,16500000.0,levante ud
+504,Pablo Martínez,660000.0,levante ud
+505,Giorgi Kochorashvili,330000.0,levante ud
+506,Álex Blesa,330000.0,levante ud
+507,Enis Bardhi,16500000.0,levante ud
+508,Alejandro Cantero,770000.0,levante ud
+509,Jorge de Frutos,16500000.0,levante ud
+510,Rubén Rochina,3080000.0,levante ud
+511,Hernâni,1320000.0,levante ud
+514,José Luis Morales,6600000.0,levante ud
+515,Dani Gómez,1650000.0,levante ud
+517,David Soria,9900000.0,getafe cf
+518,Rubén Yáñez,2200000.0,getafe cf
+519,Djené,19800000.0,getafe cf
+520,Erick Cabaco,2750000.0,getafe cf
+521,Xabi Etxeita,880000.0,getafe cf
+522,Chema,880000.0,getafe cf
+523,Soufiane Chakla,880000.0,getafe cf
+524,Ryan Nolan,165000.0,getafe cf
+525,David Alba,165000.0,getafe cf
+526,Mathí­as Olivera,13200000.0,getafe cf
+527,Amankwaa Akurugu,220000.0,getafe cf
+528,Allan Nyom,2200000.0,getafe cf
+529,Damián Suárez,1650000.0,getafe cf
+530,Juan Iglesias,275000.0,getafe cf
+531,Ante Palaversa,2750000.0,getafe cf
+532,David Timor,1650000.0,getafe cf
+533,Mauro Arambarri,22000000.0,getafe cf
+534,Carles Aleñá,16500000.0,getafe cf
+535,Nemanja Maksimovic,16500000.0,getafe cf
+536,Sabit Abdulai,165000.0,getafe cf
+539,Takefusa Kubo,16500000.0,getafe cf
+540,Víctor Mollejo,3300000.0,getafe cf
+542,Francisco Portillo,1320000.0,getafe cf
+543,Cucho Hernández,9900000.0,getafe cf
+544,Enes Ünal,7700000.0,getafe cf
+545,Jaime Mata,4400000.0,getafe cf
+546,Ángel Rodríguez,3300000.0,getafe cf
+547,John Joe Patrick Finn,1100000.0,getafe cf
+548,Darío Poveda,440000.0,getafe cf
+550,Fernando Pacheco,8800000.0,deportivo alaves
+551,Antonio Sivera,990000.0,deportivo alaves
+552,Aritz Castro,165000.0,deportivo alaves
+553,Florian Lejeune,4950000.0,deportivo alaves
+554,Víctor Laguardia,4400000.0,deportivo alaves
+556,Tachi,880000.0,deportivo alaves
+557,Abdel Abqar,165000.0,deportivo alaves
+558,Stephane Paul Keller,165000.0,deportivo alaves
+560,Rubén Duarte,4400000.0,deportivo alaves
+561,Adrián Marín,1320000.0,deportivo alaves
+562,Javi López,660000.0,deportivo alaves
+564,Tomás Tavares,6050000.0,deportivo alaves
+565,Martín Aguirregabiria,3300000.0,deportivo alaves
+566,Ximo Navarro,1980000.0,deportivo alaves
+567,Pere Pons,3850000.0,deportivo alaves
+568,Manu García,880000.0,deportivo alaves
+569,Rodrigo Battaglia,4400000.0,deportivo alaves
+570,Tomás Pina,1320000.0,deportivo alaves
+571,Abdallahi Mahmoud,330000.0,deportivo alaves
+572,Pepe Blanco,165000.0,deportivo alaves
+573,Sergi García,110000.0,deportivo alaves
+575,Iñigo Córdoba,2200000.0,deportivo alaves
+576,Borja Sainz,2200000.0,deportivo alaves
+577,Burgui,880000.0,deportivo alaves
+578,Facundo Pellistri,6600000.0,deportivo alaves
+579,Edgar Méndez,2420000.0,deportivo alaves
+580,Jota Peleteiro,1980000.0,deportivo alaves
+581,Joselu,8800000.0,deportivo alaves
+582,Lucas Pérez,3300000.0,deportivo alaves
+583,Deyverson,3080000.0,deportivo alaves
+584,John Guidetti,1320000.0,deportivo alaves
+588,Lluis Andreu,55000.0,elche cf
+591,Dani Calvo,1650000.0,elche cf
+592,Diego González,1100000.0,elche cf
+593,Josema,1100000.0,elche cf
+594,Gonzalo Verdú,880000.0,elche cf
+595,Nacho Pastor,165000.0,elche cf
+597,Juan Sánchez Miño,2750000.0,elche cf
+598,Johan Mojica,2200000.0,elche cf
+599,Youssouf Koné,1760000.0,elche cf
+600,Helibelton Palacios,1100000.0,elche cf
+601,Antonio Barragán,880000.0,elche cf
+602,Miguel Cifuentes,660000.0,elche cf
+603,Iván Marcone,3300000.0,elche cf
+607,Raúl Guti,5500000.0,elche cf
+608,Ramón Folch,330000.0,elche cf
+611,Fidel,2200000.0,elche cf
+612,Pere Milla,1980000.0,elche cf
+613,Tete Morente,1650000.0,elche cf
+615,Víctor Rodríguez,880000.0,elche cf
+616,Emiliano Rigoni,2750000.0,elche cf
+617,Josan,1100000.0,elche cf
+618,Jeison Lucumí,1050000.0,elche cf
+619,Lucas Boyé,3850000.0,elche cf
+621,Claudio Medina,385000.0,elche cf
+622,Mourad El Ghezouani,110000.0,elche cf
+623,Nino,110000.0,elche cf
+626,Álvaro Fernández,4400000.0,sd huesca
+627,Andrés Fernández,660000.0,sd huesca
+628,Antonio Valera,330000.0,sd huesca
+630,Luisinho,220000.0,sd huesca
+632,Denis Vavro,4400000.0,sd huesca
+633,Dimitrios Siovas,2750000.0,sd huesca
+634,Jorge Pulido,2200000.0,sd huesca
+635,Pablo Insua,1320000.0,sd huesca
+636,Javi Galán,6600000.0,sd huesca
+637,Gastón Silva,1320000.0,sd huesca
+638,Pedro López,110000.0,sd huesca
+639,Idrissa Doumbia,3850000.0,sd huesca
+640,Jaime Seoane,3300000.0,sd huesca
+641,Pedro Mosquera,770000.0,sd huesca
+642,Mikel Rico,330000.0,sd huesca
+644,Pablo Maffeo,3850000.0,sd huesca
+645,Sergio Gómez,2750000.0,sd huesca
+646,Borja García,1650000.0,sd huesca
+647,Kelechi Nwakali,1100000.0,sd huesca
+648,Juan Carlos Real,1100000.0,sd huesca
+649,Eugeni Valderrama,880000.0,sd huesca
+650,Javi Ontiveros,5500000.0,sd huesca
+652,Juan Peñaloza,110000.0,sd huesca
+654,David Ferreiro,1100000.0,sd huesca
+655,Rafa Mir,13200000.0,sd huesca
+656,Sandro Ramírez,3850000.0,sd huesca
+657,Shinji Okazaki,1100000.0,sd huesca
+658,Dani Escriche,1100000.0,sd huesca
+660,Jordi Masip,2200000.0,real valladolid cf
+661,Roberto,770000.0,real valladolid cf
+662,Samuel Pérez,275000.0,real valladolid cf
+663,Gaizka Campos,165000.0,real valladolid cf
+664,Javi Sánchez,3080000.0,real valladolid cf
+665,Joaquín Fernández,3080000.0,real valladolid cf
+666,Jawad El Yamiq,1320000.0,real valladolid cf
+667,Kiko Olivas,1100000.0,real valladolid cf
+668,Bruno González,1100000.0,real valladolid cf
+669,Miguel Rubio,165000.0,real valladolid cf
+670,Lucas Freitas,110000.0,real valladolid cf
+671,Palomeque,55000.0,real valladolid cf
+672,Lucas Olaza,6600000.0,real valladolid cf
+674,Raúl Carnero,660000.0,real valladolid cf
+675,Ignasi Vilarrasa,110000.0,real valladolid cf
+676,Saidy Janko,1650000.0,real valladolid cf
+677,Sergio López,1100000.0,real valladolid cf
+678,Luis Pérez,990000.0,real valladolid cf
+679,Javi Moyano,110000.0,real valladolid cf
+680,Luismi,550000.0,real valladolid cf
+681,Rubén Alcaraz,4400000.0,real valladolid cf
+682,Fede San Emeterio,3300000.0,real valladolid cf
+683,Roque Mesa,2750000.0,real valladolid cf
+684,Míchel Herrero,1320000.0,real valladolid cf
+685,Kike Pérez,1100000.0,real valladolid cf
+686,Oriol Rey,330000.0,real valladolid cf
+687,Jota,3850000.0,real valladolid cf
+688,Toni Villa,2750000.0,real valladolid cf
+689,Waldo Rubio,1320000.0,real valladolid cf
+690,Óscar Plano,3080000.0,real valladolid cf
+691,Pablo Hervías,1650000.0,real valladolid cf
+692,Fabián Orellana,1650000.0,real valladolid cf
+693,Kuki Zalazar,275000.0,real valladolid cf
+694,Shon Weissman,6600000.0,real valladolid cf
+695,Marcos André,3850000.0,real valladolid cf
+696,Sergi Guardiola,3300000.0,real valladolid cf
+697,Kenan Kodro,1100000.0,real valladolid cf
+698,Sergio Benito,220000.0,real valladolid cf
+699,Marko Dmitrovic,8800000.0,sd eibar
+700,Yoel Rodríguez,990000.0,sd eibar
+701,Jonmi Magunagoitia,220000.0,sd eibar
+703,Paulo Oliveira,4400000.0,sd eibar
+704,Esteban Burgos,2750000.0,sd eibar
+705,José Antonio Martínez,1320000.0,sd eibar
+706,Pedro Bigas,1320000.0,sd eibar
+707,Anaitz Arbilla,1100000.0,sd eibar
+709,Kévin Rodrigues,3850000.0,sd eibar
+710,Rafa Soares,1760000.0,sd eibar
+711,José Ángel,1650000.0,sd eibar
+712,Alejandro Pozo,4400000.0,sd eibar
+713,Álvaro Tejero,1100000.0,sd eibar
+714,Roberto Correa,990000.0,sd eibar
+716,Pape Diop,880000.0,sd eibar
+717,Edu Expósito,3850000.0,sd eibar
+718,Aleix García,1980000.0,sd eibar
+719,Sergio Álvarez,1320000.0,sd eibar
+722,Miguel Atienza,660000.0,sd eibar
+724,Bryan Gil,33000000.0,sd eibar
+725,Takashi Inui,1650000.0,sd eibar
+726,Damian Kadzior,1870000.0,sd eibar
+727,Pedro León,1100000.0,sd eibar
+729,Yoshinori Muto,2750000.0,sd eibar
+730,Sergi Enrich,1980000.0,sd eibar
+0,Ionut Radu,6600000.0,inter milan
+1,Samir Handanovic,2750000.0,inter milan
+2,Filip Stankovic,550000.0,inter milan
+4,Milan Skriniar,66000000.0,inter milan
+5,Alessandro Bastoni,66000000.0,inter milan
+6,Stefan de Vrij,55000000.0,inter milan
+7,Lorenzo Pirola,2750000.0,inter milan
+8,Andrea Ranocchia,1100000.0,inter milan
+9,Lorenzo Moretti,138000.0,inter milan
+10,Dalbert,4400000.0,inter milan
+11,Aleksandar Kolarov,1650000.0,inter milan
+13,Matteo Darmian,7700000.0,inter milan
+14,Danilo D'Ambrosio,5500000.0,inter milan
+15,Marcelo Brozovic,44000000.0,inter milan
+16,David Wieser,165000.0,inter milan
+17,Nicolò Barella,71500000.0,inter milan
+18,Roberto Gagliardini,16500000.0,inter milan
+19,Stefano Sensi,14300000.0,inter milan
+20,Matías Vecino,8800000.0,inter milan
+21,Arturo Vidal,3850000.0,inter milan
+22,Niccolò Squizzato,165000.0,inter milan
+23,Riccardo Boscolo Chio,110000.0,inter milan
+24,Achraf Hakimi,66000000.0,inter milan
+25,Ivan Perisic,11000000.0,inter milan
+26,Ashley Young,1100000.0,inter milan
+27,Franco Vezzoni,440000.0,inter milan
+28,Christian Eriksen,44000000.0,inter milan
+29,Radja Nainggolan,5500000.0,inter milan
+30,Romelu Lukaku,110000000.0,inter milan
+32,Andrea Pinamonti,13200000.0,inter milan
+33,Alexis Sánchez,8250000.0,inter milan
+34,Martín Satriano,1100000.0,inter milan
+35,Nicholas Bonfanti,275000.0,inter milan
+36,Gianluigi Donnarumma,66000000.0,ac milan
+37,Ciprian Tatarusanu,660000.0,ac milan
+38,Antonio Donnarumma,330000.0,ac milan
+39,Andreas Jungdal,165000.0,ac milan
+40,Leonardo Moleri,28000.0,ac milan
+41,Fikayo Tomori,30800000.0,ac milan
+42,Alessio Romagnoli,27500000.0,ac milan
+44,Matteo Gabbia,9350000.0,ac milan
+45,Léo Duarte,2420000.0,ac milan
+46,Mateo Musacchio,2200000.0,ac milan
+47,Nikolaos Michelis,440000.0,ac milan
+48,Theo Hernández,55000000.0,ac milan
+49,Diego Laxalt,3520000.0,ac milan
+50,Davide Calabria,27500000.0,ac milan
+51,Diogo Dalot,11000000.0,ac milan
+52,Pierre Kalulu,7700000.0,ac milan
+53,Andrea Conti,4950000.0,ac milan
+55,Ismaël Bennacer,41800000.0,ac milan
+56,Sandro Tonali,29700000.0,ac milan
+57,Franck Kessié,60500000.0,ac milan
+58,Rade Krunic,6600000.0,ac milan
+59,Soualiho Meïté,5500000.0,ac milan
+60,Enrico Di Gesù,220000.0,ac milan
+63,Hakan Calhanoglu,38500000.0,ac milan
+64,Lucas Paquetá,33000000.0,ac milan
+66,Daniel Maldini,880000.0,ac milan
+67,Giacomo Olzer,165000.0,ac milan
+68,Ante Rebic,35200000.0,ac milan
+69,Jens Petter Hauge,10450000.0,ac milan
+70,Alexis Saelemaekers,19800000.0,ac milan
+71,Samu Castillejo,8800000.0,ac milan
+73,Zlatan Ibrahimovic,4400000.0,ac milan
+74,Lorenzo Colombo,1100000.0,ac milan
+75,Mario Mandzukic,880000.0,ac milan
+76,Riccardo Tonin,110000.0,ac milan
+82,Ludovico Gelmi,110000.0,atalanta bc
+83,Francesco Rossi,110000.0,atalanta bc
+84,Cristian Romero,33000000.0,atalanta bc
+85,Berat Djimsiti,24200000.0,atalanta bc
+86,Rafael Tolói,16500000.0,atalanta bc
+87,José Luis Palomino,11000000.0,atalanta bc
+88,Mattia Caldara,5500000.0,atalanta bc
+89,Bosko Sutalo,3850000.0,atalanta bc
+91,Robin Gosens,38500000.0,atalanta bc
+92,Johan Mojica,2200000.0,atalanta bc
+93,Matteo Ruggeri,2200000.0,atalanta bc
+94,Hans Hateboer,19800000.0,atalanta bc
+95,Joakim Maehle,14300000.0,atalanta bc
+96,Fabio Depaoli,3850000.0,atalanta bc
+97,Cristiano Piccini,2420000.0,atalanta bc
+98,Raoul Bellanova,1100000.0,atalanta bc
+100,Marten de Roon,25300000.0,atalanta bc
+101,Simone Panada,275000.0,atalanta bc
+102,Remo Freuler,27500000.0,atalanta bc
+103,Mario Pasalic,25300000.0,atalanta bc
+104,Jacopo Da Riva,770000.0,atalanta bc
+106,Ruslan Malinovskyi,33000000.0,atalanta bc
+107,Matteo Pessina,22000000.0,atalanta bc
+108,Aleksey Miranchuk,16500000.0,atalanta bc
+109,Viktor Kovalenko,5500000.0,atalanta bc
+110,Alessandro Cortinovis,825000.0,atalanta bc
+111,Amad Diallo,19800000.0,atalanta bc
+112,Papu Gómez,9900000.0,atalanta bc
+113,Josip Ilicic,6600000.0,atalanta bc
+114,Duván Zapata,36300000.0,atalanta bc
+115,Luis Muriel,33000000.0,atalanta bc
+116,Sam Lammers,6600000.0,atalanta bc
+117,Wojciech Szczesny,27500000.0,juventus fc
+119,Franco Israel,660000.0,juventus fc
+120,Carlo Pinsoglio,440000.0,juventus fc
+121,Giovanni Garofani,165000.0,juventus fc
+122,Matthijs de Ligt,82500000.0,juventus fc
+123,Merih Demiral,30800000.0,juventus fc
+124,Leonardo Bonucci,8800000.0,juventus fc
+125,Daniele Rugani,5500000.0,juventus fc
+126,Radu Dragusin,3300000.0,juventus fc
+127,Giorgio Chiellini,1650000.0,juventus fc
+128,Koni De Winter,440000.0,juventus fc
+129,Alessandro Pio Riccio,385000.0,juventus fc
+130,Riccardo Capellini,275000.0,juventus fc
+131,Davide De Marino,193000.0,juventus fc
+132,Alex Sandro,22000000.0,juventus fc
+133,Gianluca Frabotta,2750000.0,juventus fc
+134,Danilo,22000000.0,juventus fc
+135,Juan Cuadrado,17600000.0,juventus fc
+136,Mattia De Sciglio,8250000.0,juventus fc
+137,Daouda Peeters,1100000.0,juventus fc
+138,Arthur,44000000.0,juventus fc
+139,Rodrigo Bentancur,38500000.0,juventus fc
+140,Adrien Rabiot,33000000.0,juventus fc
+141,Weston McKennie,27500000.0,juventus fc
+142,Aaron Ramsey,15400000.0,juventus fc
+146,Alessandro Di Pardo,248000.0,juventus fc
+147,Nicolò Fagioli,1320000.0,juventus fc
+148,Manolo Portanova,1100000.0,juventus fc
+149,Hamza Rafia,550000.0,juventus fc
+152,Félix Correia,2200000.0,juventus fc
+153,Federico Chiesa,66000000.0,juventus fc
+154,Dejan Kulusevski,44000000.0,juventus fc
+155,Federico Bernardeschi,16500000.0,juventus fc
+156,Paulo Dybala,55000000.0,juventus fc
+157,Cristiano Ronaldo,49500000.0,juventus fc
+158,Álvaro Morata,49500000.0,juventus fc
+159,Cosimo Marco Da Graca,1210000.0,juventus fc
+161,Giacomo Vrioni,385000.0,juventus fc
+162,Alex Meret,22000000.0,ssc napoli
+163,David Ospina,5500000.0,ssc napoli
+164,Nikita Contini,550000.0,ssc napoli
+165,Hubert Idasiak,165000.0,ssc napoli
+169,Nikola Maksimovic,11000000.0,ssc napoli
+171,Davide Costanzo,83000.0,ssc napoli
+172,Mário Rui,8800000.0,ssc napoli
+173,Faouzi Ghoulam,3300000.0,ssc napoli
+174,Giovanni Di Lorenzo,26400000.0,ssc napoli
+175,Elseid Hysaj,14300000.0,ssc napoli
+176,Kévin Malcuit,3850000.0,ssc napoli
+177,Tiemoué Bakayoko,22000000.0,ssc napoli
+178,Diego Demme,17600000.0,ssc napoli
+179,Stanislav Lobotka,9900000.0,ssc napoli
+180,Fabián Ruiz,49500000.0,ssc napoli
+181,Valerio Labriola,83000.0,ssc napoli
+182,Karim Zedadka,110000.0,ssc napoli
+183,Piotr Zielinski,55000000.0,ssc napoli
+184,Eljif Elmas,18700000.0,ssc napoli
+185,Lorenzo Insigne,52800000.0,ssc napoli
+186,Antonio Cioffi,660000.0,ssc napoli
+187,Hirving Lozano,49500000.0,ssc napoli
+190,Victor Osimhen,55000000.0,ssc napoli
+191,Andrea Petagna,16500000.0,ssc napoli
+193,Fernando Llorente,1100000.0,ssc napoli
+194,Thomas Strakosha,15400000.0,ss lazio
+195,Pepe Reina,880000.0,ss lazio
+196,Marco Alia,110000.0,ss lazio
+197,Alessio Furlanetto,83000.0,ss lazio
+198,Gabriel Pereira,55000.0,ss lazio
+199,Luiz Felipe,19800000.0,ss lazio
+200,Francesco Acerbi,11000000.0,ss lazio
+201,Patric,7150000.0,ss lazio
+202,Denis Vavro,4400000.0,ss lazio
+203,Wesley Hoedt,4400000.0,ss lazio
+204,Bastos,2200000.0,ss lazio
+205,Stefan Radu,2200000.0,ss lazio
+206,Mateo Musacchio,2200000.0,ss lazio
+207,Nicolò Armini,440000.0,ss lazio
+209,Enzo Adeagbo,55000.0,ss lazio
+210,Marzio Pica,28000.0,ss lazio
+211,Jordan Lukaku,2420000.0,ss lazio
+212,Angelo Ndrecka,55000.0,ss lazio
+213,Mattia Novella,55000.0,ss lazio
+214,Lucas Leiva,3850000.0,ss lazio
+215,Marco Bertini,110000.0,ss lazio
+216,Sergej Milinković-Savić,77000000.0,ss lazio
+218,Jean-Daniel Akpa Akpro,3850000.0,ss lazio
+219,Gonzalo Escalante,3520000.0,ss lazio
+221,Sofian Kiyine,2200000.0,ss lazio
+222,Marco Parolo,1100000.0,ss lazio
+223,Joseph Marie Minala,550000.0,ss lazio
+224,Manuel Lazzari,23100000.0,ss lazio
+226,Djavan Anderson,440000.0,ss lazio
+229,Andreas Pereira,8800000.0,ss lazio
+230,Szymon Czyz,330000.0,ss lazio
+231,Florent Shehu,55000.0,ss lazio
+232,Raúl Moro,880000.0,ss lazio
+233,Bobby Adekanye,660000.0,ss lazio
+234,Joaquín Correa,33000000.0,ss lazio
+237,Felipe Caicedo,4400000.0,ss lazio
+238,Pau López,11000000.0,as roma
+239,Robin Olsen,3300000.0,as roma
+240,Antonio Mirante,1100000.0,as roma
+241,Daniel Fuzato,880000.0,as roma
+242,Pietro Boer,165000.0,as roma
+243,Simone Farelli,55000.0,as roma
+245,Gianluca Mancini,33000000.0,as roma
+246,Roger Ibañez,27500000.0,as roma
+247,Marash Kumbulla,27500000.0,as roma
+249,Juan Jesus,2200000.0,as roma
+250,Federico Fazio,880000.0,as roma
+252,Raul Morichelli,110000.0,as roma
+253,Leonardo Spinazzola,28600000.0,as roma
+254,Riccardo Calafiori,2750000.0,as roma
+256,Bryan Reynolds,6600000.0,as roma
+257,Bruno Peres,2750000.0,as roma
+259,Amadou Diawara,15400000.0,as roma
+260,Ebrima Darboe,2200000.0,as roma
+262,Lorenzo Pellegrini,44000000.0,as roma
+263,Jordan Veretout,36300000.0,as roma
+264,Bryan Cristante,19800000.0,as roma
+265,Gonzalo Villar,16500000.0,as roma
+266,Tommaso Milanese,1050000.0,as roma
+267,Edoardo Bove,330000.0,as roma
+268,Nicolò Zaniolo,44000000.0,as roma
+269,Henrikh Mkhitaryan,16500000.0,as roma
+270,Javier Pastore,1650000.0,as roma
+271,Nicola Zalewski,990000.0,as roma
+272,Justin Kluivert,15400000.0,as roma
+274,Riccardo Ciervo,330000.0,as roma
+275,Carles Pérez,8800000.0,as roma
+277,Ruben Providence,385000.0,as roma
+278,Suf Podgoreanu,275000.0,as roma
+279,Mirko Antonucci,220000.0,as roma
+280,Mory Bamba,110000.0,as roma
+281,Borja Mayoral,15400000.0,as roma
+282,Edin Dzeko,4400000.0,as roma
+283,Lamine Tall,275000.0,as roma
+287,Gianluca Pegolo,110000.0,us sassuolo
+288,Gian Marco Ferrari,13200000.0,us sassuolo
+289,Marlon,7150000.0,us sassuolo
+291,Vlad Chiriches,3850000.0,us sassuolo
+292,Filippo Romagna,3300000.0,us sassuolo
+293,Federico Peluso,440000.0,us sassuolo
+294,Stefano Piccinini,385000.0,us sassuolo
+296,Georgios Kyriakopoulos,4950000.0,us sassuolo
+297,Mert Müldür,9900000.0,us sassuolo
+298,Jeremy Toljan,5500000.0,us sassuolo
+301,Francesco Magnanelli,440000.0,us sassuolo
+302,Andrea Ghion,275000.0,us sassuolo
+303,Federico Artioli,165000.0,us sassuolo
+305,Pedro Obiang,5500000.0,us sassuolo
+306,Mehdi Bourabia,2530000.0,us sassuolo
+307,Alessandro Mercati,193000.0,us sassuolo
+308,Raul Steau,11000.0,us sassuolo
+309,Hamed Junior Traorè,22000000.0,us sassuolo
+310,Filip Djuricic,9900000.0,us sassuolo
+311,Jérémie Boga,22000000.0,us sassuolo
+312,Lukas Haraslin,1430000.0,us sassuolo
+313,Nicolás Schiappacasse,880000.0,us sassuolo
+314,Domenico Berardi,38500000.0,us sassuolo
+316,Federico Ricci,990000.0,us sassuolo
+317,Isaac Karamoko,165000.0,us sassuolo
+319,Giacomo Raspadori,16500000.0,us sassuolo
+320,Francesco Caputo,5500000.0,us sassuolo
+321,Grégoire Defrel,5500000.0,us sassuolo
+322,Luigi Samele,165000.0,us sassuolo
+323,Emil Audero,15400000.0,uc sampdoria
+324,Karlo Letica,770000.0,uc sampdoria
+325,Nicola Ravaglia,330000.0,uc sampdoria
+326,Lorenzo Avogadri,83000.0,uc sampdoria
+327,Omar Colley,6600000.0,uc sampdoria
+328,Maya Yoshida,3520000.0,uc sampdoria
+329,Julian Chabot,3300000.0,uc sampdoria
+330,Lorenzo Tonelli,2200000.0,uc sampdoria
+331,Alex Ferrari,1980000.0,uc sampdoria
+332,Kaique Rocha,880000.0,uc sampdoria
+333,Tommaso Augello,4400000.0,uc sampdoria
+334,Vasco Regini,440000.0,uc sampdoria
+336,Fabio Depaoli,3850000.0,uc sampdoria
+337,Albin Ekdal,3300000.0,uc sampdoria
+338,Leonardo Capezzi,880000.0,uc sampdoria
+341,Valerio Verre,3850000.0,uc sampdoria
+342,Adrien Silva,3300000.0,uc sampdoria
+343,Mehdi Léris,1650000.0,uc sampdoria
+344,Kristoffer Askildsen,1100000.0,uc sampdoria
+346,Antonio Candreva,2750000.0,uc sampdoria
+347,Jakub Jankto,12100000.0,uc sampdoria
+348,Gastón Ramírez,3850000.0,uc sampdoria
+349,Mikkel Damsgaard,14300000.0,uc sampdoria
+350,Keita Baldé,8800000.0,uc sampdoria
+351,Ernesto Torregrossa,6050000.0,uc sampdoria
+352,Manolo Gabbiadini,5500000.0,uc sampdoria
+353,Federico Bonazzoli,4400000.0,uc sampdoria
+354,Antonino La Gumina,2200000.0,uc sampdoria
+355,Fabio Quagliarella,1100000.0,uc sampdoria
+356,Nik Prelec,495000.0,uc sampdoria
+357,Marco Silvestri,9900000.0,hellas verona
+358,Ivor Pandur,1100000.0,hellas verona
+359,Nicola Borghetto,55000.0,hellas verona
+360,Alessandro Berardi,55000.0,hellas verona
+361,Matteo Lovato,7700000.0,hellas verona
+364,Pawel Dawidowicz,4400000.0,hellas verona
+365,Federico Ceccherini,3850000.0,hellas verona
+366,Mert Cetin,3080000.0,hellas verona
+367,Bruno Amione,2200000.0,hellas verona
+368,Alan Empereur,1100000.0,hellas verona
+369,Nicolò Casale,550000.0,hellas verona
+372,Matei Cristian Ilie,83000.0,hellas verona
+373,Eugenio Bracelli,11000.0,hellas verona
+374,Federico Dimarco,11000000.0,hellas verona
+375,Destiny Udogie,1100000.0,hellas verona
+378,Miguel Veloso,990000.0,hellas verona
+379,Andrea Danzi,440000.0,hellas verona
+380,Ivan Ilic,8800000.0,hellas verona
+381,Marco Benassi,5500000.0,hellas verona
+382,Ronaldo Vieira,5500000.0,hellas verona
+383,Stefano Sturaro,4950000.0,hellas verona
+384,Daniel Bessa,2750000.0,hellas verona
+385,Lucas Felippe,165000.0,hellas verona
+386,Christian Pierobon,55000.0,hellas verona
+388,Davide Faraoni,7700000.0,hellas verona
+389,Darko Lazovic,5500000.0,hellas verona
+390,Mattia Zaccagni,16500000.0,hellas verona
+391,Antonin Barak,15400000.0,hellas verona
+392,Ebrima Colley,4400000.0,hellas verona
+393,Matteo Cancellieri,110000.0,hellas verona
+394,Lorenzo Bertini,83000.0,hellas verona
+395,Eddie Salcedo,9350000.0,hellas verona
+396,Kevin Lasagna,6600000.0,hellas verona
+397,Andrea Favilli,3850000.0,hellas verona
+398,Mariusz Stepinski,2750000.0,hellas verona
+400,Samuel Di Carmine,1320000.0,hellas verona
+402,Philip Yeboah,138000.0,hellas verona
+403,Mattia Perin,7700000.0,genoa cfc
+404,Alberto Paleari,1100000.0,genoa cfc
+405,Federico Marchetti,220000.0,genoa cfc
+406,Lukas Zima,220000.0,genoa cfc
+407,Giuseppe Agostino,138000.0,genoa cfc
+408,Jérôme Onguéné,3850000.0,genoa cfc
+409,Mattia Bani,3300000.0,genoa cfc
+410,Davide Biraschi,2750000.0,genoa cfc
+412,Andrea Masiello,880000.0,genoa cfc
+413,Cristián Zapata,440000.0,genoa cfc
+415,Luca Pellegrini,9900000.0,genoa cfc
+416,Domenico Criscito,1650000.0,genoa cfc
+417,Davide Zappacosta,8800000.0,genoa cfc
+418,Peter Ankersen,1650000.0,genoa cfc
+419,Nicolò Rovella,5500000.0,genoa cfc
+420,Milan Badelj,2200000.0,genoa cfc
+421,Ivan Radovanovic,1430000.0,genoa cfc
+422,Lasse Schöne,825000.0,genoa cfc
+424,Kevin Strootman,5500000.0,genoa cfc
+426,Lukas Lerager,3300000.0,genoa cfc
+427,Miha Zajc,3300000.0,genoa cfc
+428,Francesco Cassata,2420000.0,genoa cfc
+429,Filippo Melegoni,990000.0,genoa cfc
+431,Steeve-Mike Eyango,440000.0,genoa cfc
+432,Paolo Ghiglione,3740000.0,genoa cfc
+433,Darian Males,2750000.0,genoa cfc
+434,Lennart Czyborra,3850000.0,genoa cfc
+435,Manolo Portanova,1100000.0,genoa cfc
+436,Marko Pjaca,4400000.0,genoa cfc
+437,Claudiu Micovschi,275000.0,genoa cfc
+438,Giuseppe Caso,220000.0,genoa cfc
+439,Vittorio Parigini,770000.0,genoa cfc
+441,Yayah Kallon,440000.0,genoa cfc
+443,Eldor Shomurodov,7700000.0,genoa cfc
+444,Mattia Destro,2750000.0,genoa cfc
+445,Raúl Asencio,605000.0,genoa cfc
+446,Joel Asoro,495000.0,genoa cfc
+447,Lukasz Skorupski,4179999.9999999995,bologna fc 1909
+448,Angelo da Costa,220000.0,bologna fc 1909
+449,Federico Ravaglia,220000.0,bologna fc 1909
+450,Sebastian Breza,110000.0,bologna fc 1909
+451,Marco Molla,83000.0,bologna fc 1909
+452,Takehiro Tomiyasu,22000000.0,bologna fc 1909
+453,Adama Soumaoro,4400000.0,bologna fc 1909
+454,Stefano Denswil,3850000.0,bologna fc 1909
+455,Mattia Bani,3300000.0,bologna fc 1909
+456,Valentin Antov,2200000.0,bologna fc 1909
+457,Arturo Calabresi,1650000.0,bologna fc 1909
+460,Omar Khailoti,220000.0,bologna fc 1909
+461,Ebenezer Annan,83000.0,bologna fc 1909
+463,Aaron Hickey,5500000.0,bologna fc 1909
+464,Mitchell Dijks,3850000.0,bologna fc 1909
+465,Paolo Faragò,2200000.0,bologna fc 1909
+466,Lorenzo De Silvestri,1650000.0,bologna fc 1909
+467,Ibrahima Mbaye,1540000.0,bologna fc 1909
+469,Gary Medel,1100000.0,bologna fc 1909
+470,Mattias Svanberg,13200000.0,bologna fc 1909
+471,Nicolás Domínguez,11000000.0,bologna fc 1909
+472,Jerdy Schouten,9900000.0,bologna fc 1909
+473,Andrea Poli,1100000.0,bologna fc 1909
+474,Andri Fannar Baldursson,1100000.0,bologna fc 1909
+475,Kingsley Michael,550000.0,bologna fc 1909
+476,Dion Ruffo Luci,110000.0,bologna fc 1909
+477,Roberto Soriano,11000000.0,bologna fc 1909
+478,Kacper Urbanski,220000.0,bologna fc 1909
+479,Nicola Sansone,4179999.9999999995,bologna fc 1909
+480,Musa Juwara,1100000.0,bologna fc 1909
+481,Matias Rocchi,165000.0,bologna fc 1909
+482,Riccardo Orsolini,16500000.0,bologna fc 1909
+483,Andreas Skov Olsen,7150000.0,bologna fc 1909
+484,Emanuel Vignato,6600000.0,bologna fc 1909
+485,Musa Barrow,22000000.0,bologna fc 1909
+486,Federico Santander,1650000.0,bologna fc 1909
+487,Edoardo Vergani,660000.0,bologna fc 1909
+488,Rodrigo Palacio,440000.0,bologna fc 1909
+489,Simone Rabbi,330000.0,bologna fc 1909
+490,Mattia Pagliuca,275000.0,bologna fc 1909
+492,Bartlomiej Dragowski,17600000.0,acf fiorentina
+493,Pietro Terracciano,880000.0,acf fiorentina
+494,Federico Brancolini,550000.0,acf fiorentina
+495,Antonio Rosati,110000.0,acf fiorentina
+499,Germán Pezzella,8250000.0,acf fiorentina
+500,Igor,5500000.0,acf fiorentina
+501,Federico Ceccherini,3850000.0,acf fiorentina
+502,Martín Cáceres,1100000.0,acf fiorentina
+504,Julián Illanes,165000.0,acf fiorentina
+505,Eduard Dutu,110000.0,acf fiorentina
+506,Lorenzo Chiti,55000.0,acf fiorentina
+507,Cristiano Biraghi,9900000.0,acf fiorentina
+508,Antonio Barreca,2200000.0,acf fiorentina
+509,Maximiliano Olivera,1100000.0,acf fiorentina
+510,Fabio Ponsi,193000.0,acf fiorentina
+511,Pol Lirola,9900000.0,acf fiorentina
+514,Sofyan Amrabat,16500000.0,acf fiorentina
+515,Erick Pulgar,9900000.0,acf fiorentina
+517,Gaetano Castrovilli,22000000.0,acf fiorentina
+518,Alfred Duncan,11000000.0,acf fiorentina
+519,Giacomo Bonaventura,4400000.0,acf fiorentina
+520,Borja Valero,990000.0,acf fiorentina
+521,Alessandro Bianco,138000.0,acf fiorentina
+522,Riccardo Saponara,1870000.0,acf fiorentina
+523,Valentin Eysseric,1650000.0,acf fiorentina
+524,Tòfol Montiel,440000.0,acf fiorentina
+525,Franck Ribéry,3300000.0,acf fiorentina
+526,Federico Chiesa,66000000.0,acf fiorentina
+527,José Callejón,1650000.0,acf fiorentina
+528,Dusan Vlahovic,44000000.0,acf fiorentina
+529,Patrick Cutrone,9900000.0,acf fiorentina
+530,Christian Kouamé,9350000.0,acf fiorentina
+531,Aleksandr Kokorin,3850000.0,acf fiorentina
+532,Louis Munteanu,550000.0,acf fiorentina
+533,Juan Musso,22000000.0,udinese calcio
+534,Simone Scuffet,880000.0,udinese calcio
+535,Nícolas,385000.0,udinese calcio
+536,Manuel Gasparini,330000.0,udinese calcio
+539,Kevin Bonifazi,7700000.0,udinese calcio
+540,Samir,5500000.0,udinese calcio
+542,Rodrigo Becão,5500000.0,udinese calcio
+543,William Troost-Ekong,4400000.0,udinese calcio
+544,Sebastien De Maio,770000.0,udinese calcio
+545,Sebastian Prödl,220000.0,udinese calcio
+546,Thomas Ouwejan,2200000.0,udinese calcio
+547,Marvin Zeegelaar,1320000.0,udinese calcio
+548,Nahuel Molina,7700000.0,udinese calcio
+550,Hidde ter Avest,2200000.0,udinese calcio
+551,Rolando Mandragora,15400000.0,udinese calcio
+552,Walace,5500000.0,udinese calcio
+553,Mato Jajalo,440000.0,udinese calcio
+554,Alessandro Rigo,55000.0,udinese calcio
+556,Tolgay Arslan,3300000.0,udinese calcio
+557,Mamadou Coulibaly,2200000.0,udinese calcio
+558,Martin Palumbo,880000.0,udinese calcio
+560,Marco Ballarini,110000.0,udinese calcio
+561,Rodrigo de Paul,41800000.0,udinese calcio
+562,Roberto Pereyra,11000000.0,udinese calcio
+564,Gerard Deulofeu,11000000.0,udinese calcio
+565,Jayden Braaf,3300000.0,udinese calcio
+566,Ignacio Pussetto,5500000.0,udinese calcio
+567,Ryder Matos,1100000.0,udinese calcio
+568,Fernando Forestieri,990000.0,udinese calcio
+569,Kevin Lasagna,6600000.0,udinese calcio
+570,Stefano Okaka,2200000.0,udinese calcio
+571,Cristo,1650000.0,udinese calcio
+572,Ilija Nestorovski,1430000.0,udinese calcio
+573,Fernando Llorente,1100000.0,udinese calcio
+575,Ivan Provedel,2750000.0,spezia calcio
+576,Jeroen Zoet,2200000.0,spezia calcio
+577,Titas Krapikas,330000.0,spezia calcio
+578,Rafael,220000.0,spezia calcio
+579,Axel Desjardins,28000.0,spezia calcio
+580,Julian Chabot,3300000.0,spezia calcio
+581,Martin Erlic,3300000.0,spezia calcio
+582,Ardian Ismajli,2750000.0,spezia calcio
+583,Elio Capradossi,990000.0,spezia calcio
+584,Claudio Terzi,330000.0,spezia calcio
+588,Cristian Dell'Orco,660000.0,spezia calcio
+591,Luca Vignali,1100000.0,spezia calcio
+592,Federico Mattiello,825000.0,spezia calcio
+593,Jacopo Sala,550000.0,spezia calcio
+594,Lucien Agoume,5500000.0,spezia calcio
+595,Matteo Ricci,3850000.0,spezia calcio
+597,Giulio Maggiore,8250000.0,spezia calcio
+598,Tommaso Pobega,6600000.0,spezia calcio
+599,Nahuel Estévez,2200000.0,spezia calcio
+600,Alessandro Deiola,1100000.0,spezia calcio
+601,Paolo Bartolomei,605000.0,spezia calcio
+602,Gennaro Acampora,440000.0,spezia calcio
+603,Luca Mora,385000.0,spezia calcio
+607,Diego Farias,2750000.0,spezia calcio
+608,Kevin Agudelo,3850000.0,spezia calcio
+611,M'Bala Nzola,4400000.0,spezia calcio
+612,Roberto Piccoli,3300000.0,spezia calcio
+613,Andrey Galabinov,770000.0,spezia calcio
+615,Guglielmo Vicario,2200000.0,cagliari calcio
+616,Giuseppe Ciocci,220000.0,cagliari calcio
+617,Simone Aresti,110000.0,cagliari calcio
+618,Sebastian Walukiewicz,8250000.0,cagliari calcio
+619,Daniele Rugani,5500000.0,cagliari calcio
+621,Diego Godín,2200000.0,cagliari calcio
+622,Luca Ceppitelli,2200000.0,cagliari calcio
+623,Arturo Calabresi,1650000.0,cagliari calcio
+626,Salvatore Boccia,165000.0,cagliari calcio
+627,Francesco Paolo Cusumano,83000.0,cagliari calcio
+628,Charalampos Lykogiannis,2750000.0,cagliari calcio
+630,Gabriele Zappa,7700000.0,cagliari calcio
+632,Simone Pinna,220000.0,cagliari calcio
+633,Christian Oliva,4400000.0,cagliari calcio
+634,Riccardo Ladinetti,385000.0,cagliari calcio
+635,Nahitan Nández,24200000.0,cagliari calcio
+636,Razvan Marin,16500000.0,cagliari calcio
+637,Marko Rog,11000000.0,cagliari calcio
+638,Alfred Duncan,11000000.0,cagliari calcio
+639,Alessandro Deiola,1100000.0,cagliari calcio
+640,Fabrizio Caligara,825000.0,cagliari calcio
+641,Kwadwo Asamoah,1100000.0,cagliari calcio
+642,Marko Pajac,550000.0,cagliari calcio
+644,Gastón Pereiro,3850000.0,cagliari calcio
+645,Riccardo Sottil,7700000.0,cagliari calcio
+646,Matteo Tramoni,1650000.0,cagliari calcio
+647,Adam Ounas,8800000.0,cagliari calcio
+648,Kiril Despodov,3300000.0,cagliari calcio
+649,Zito Luvumbo,1100000.0,cagliari calcio
+650,João Pedro,19800000.0,cagliari calcio
+652,Giovanni Simeone,12100000.0,cagliari calcio
+654,Alberto Cerri,1650000.0,cagliari calcio
+655,Gianluca Contini,440000.0,cagliari calcio
+656,Salvatore Sirigu,2750000.0,torino fc
+657,Vanja Milinković-Savić,880000.0,torino fc
+658,Samir Ujkani,220000.0,torino fc
+660,Razvan Sava,110000.0,torino fc
+661,Bremer,11000000.0,torino fc
+662,Armando Izzo,11000000.0,torino fc
+663,Lyanco,5500000.0,torino fc
+664,Nicolas N'Koulou,5500000.0,torino fc
+665,Alessandro Buongiorno,2750000.0,torino fc
+666,Erick Ferigra,440000.0,torino fc
+667,Christian Celesia,83000.0,torino fc
+668,Nicola Murru,3850000.0,torino fc
+669,Ricardo Rodríguez,2200000.0,torino fc
+670,Cristian Ansaldi,2200000.0,torino fc
+671,Wilfried Singo,7700000.0,torino fc
+672,Mërgim Vojvoda,5500000.0,torino fc
+674,Tomás Rincón,2200000.0,torino fc
+675,Altin Kryeziu,110000.0,torino fc
+676,Karol Linetty,6600000.0,torino fc
+677,Soualiho Meïté,5500000.0,torino fc
+678,Sasa Lukic,5500000.0,torino fc
+679,Daniele Baselli,5500000.0,torino fc
+680,Jacopo Segre,1540000.0,torino fc
+681,Ibrahim Karamoko,330000.0,torino fc
+682,Jean Freddi Greco,275000.0,torino fc
+683,Simone Verdi,8800000.0,torino fc
+684,Amer Gojak,4179999.9999999995,torino fc
+685,Krisztofer Horváth,110000.0,torino fc
+686,Álex Berenguer,16500000.0,torino fc
+687,Vincenzo Millico,1320000.0,torino fc
+688,Iago Falque,1650000.0,torino fc
+689,Simone Edera,550000.0,torino fc
+690,Andrea Belotti,38500000.0,torino fc
+691,Antonio Sanabria,8250000.0,torino fc
+692,Federico Bonazzoli,4400000.0,torino fc
+693,Simone Zaza,3300000.0,torino fc
+694,Nicola Rauti,385000.0,torino fc
+695,Samuele Vianni,110000.0,torino fc
+696,Lorenzo Montipò,3850000.0,benevento calcio
+697,Nicolò Manfredini,165000.0,benevento calcio
+698,Igor Lucatelli,110000.0,benevento calcio
+699,Pier Graziano Gori,55000.0,benevento calcio
+700,Kamil Glik,2200000.0,benevento calcio
+701,Luca Caldirola,1980000.0,benevento calcio
+703,Alessandro Tuia,880000.0,benevento calcio
+704,Luca Antei,550000.0,benevento calcio
+705,Christian Pastina,440000.0,benevento calcio
+706,Daam Foulon,1100000.0,benevento calcio
+707,Fabio Depaoli,3850000.0,benevento calcio
+709,Christian Maggio,330000.0,benevento calcio
+710,Pasquale Schiattarella,1100000.0,benevento calcio
+711,Artur Ionita,1980000.0,benevento calcio
+712,Nicolas Viola,1650000.0,benevento calcio
+713,Bryan Dabo,1320000.0,benevento calcio
+714,Perparim Hetemaj,990000.0,benevento calcio
+716,Lorenzo Del Pinto,220000.0,benevento calcio
+717,Amadou Diambo,220000.0,benevento calcio
+718,Siriki Sanogo,110000.0,benevento calcio
+719,Abdallah Basit,83000.0,benevento calcio
+722,Davide Masella,110000.0,benevento calcio
+724,Riccardo Improta,1650000.0,benevento calcio
+725,Roberto Insigne,2200000.0,benevento calcio
+726,Iago Falque,1650000.0,benevento calcio
+727,Adolfo Gaich,8800000.0,benevento calcio
+729,Gabriele Moncini,1100000.0,benevento calcio
+730,Giuseppe Di Serio,550000.0,benevento calcio
+733,Marco Festa,165000.0,fc crotone
+735,Francesco D'Alterio,55000.0,fc crotone
+736,Lisandro Magallán,2750000.0,fc crotone
+737,Sebastiano Luperto,2420000.0,fc crotone
+738,Koffi Djidji,1980000.0,fc crotone
+739,Giuseppe Cuomo,990000.0,fc crotone
+740,Vladimir Golemic,990000.0,fc crotone
+747,Jacopo Petriccione,1430000.0,fc crotone
+748,Luca Cigarini,660000.0,fc crotone
+749,Aristóteles Romero,165000.0,fc crotone
+750,Niccolò Zanellato,1980000.0,fc crotone
+751,Ahmad Benali,1650000.0,fc crotone
+752,Milos Vulic,1650000.0,fc crotone
+753,Giovanni Crociata,990000.0,fc crotone
+754,Tomislav Gomelt,220000.0,fc crotone
+757,Pedro Pereira,2200000.0,fc crotone
+760,Arkadiusz Reca,4400000.0,fc crotone
+761,Antonio Mazzotta,220000.0,fc crotone
+762,Luis Rojas,1870000.0,fc crotone
+763,Adam Ounas,8800000.0,fc crotone
+764,Mattia Mustacchio,440000.0,fc crotone
+765,Luca Siligardi,330000.0,fc crotone
+766,Giuseppe Borello,275000.0,fc crotone
+767,Junior Messias,3850000.0,fc crotone
+768,Augustus Kargbo,495000.0,fc crotone
+769,Simy,8800000.0,fc crotone
+770,Samuel Di Carmine,1320000.0,fc crotone
+771,Denis Dragus,990000.0,fc crotone
+772,Emmanuel Rivière,770000.0,fc crotone
+773,Luigi Sepe,3850000.0,parma calcio 1913
+774,Simone Colombi,660000.0,parma calcio 1913
+775,Filippo Rinaldi,220000.0,parma calcio 1913
+778,Lautaro Valenti,4950000.0,parma calcio 1913
+779,Yordan Osorio,4400000.0,parma calcio 1913
+780,Mattia Bani,3300000.0,parma calcio 1913
+781,Daan Dierckx,1100000.0,parma calcio 1913
+783,Simone Iacoponi,880000.0,parma calcio 1913
+784,Botond Balogh,880000.0,parma calcio 1913
+785,Bruno Alves,440000.0,parma calcio 1913
+786,Abdoul Hate Bane,55000.0,parma calcio 1913
+788,Riccardo Gagliolo,2200000.0,parma calcio 1913
+789,Vasilios Zagaritis,550000.0,parma calcio 1913
+790,Giacomo Ricci,330000.0,parma calcio 1913
+792,Andrea Conti,4950000.0,parma calcio 1913
+793,Maxime Busi,4950000.0,parma calcio 1913
+794,Vincent Laurini,660000.0,parma calcio 1913
+795,Reinaldo Radu,110000.0,parma calcio 1913
+796,Simon Sohm,4950000.0,parma calcio 1913
+797,Gastón Brugman,2200000.0,parma calcio 1913
+798,Matteo Scozzarella,880000.0,parma calcio 1913
+799,Hernani,7150000.0,parma calcio 1913
+800,Wylan Cyprien,6600000.0,parma calcio 1913
+801,Alberto Grassi,4950000.0,parma calcio 1913
+802,Juraj Kucka,3300000.0,parma calcio 1913
+803,Jasmin Kurtic,2200000.0,parma calcio 1913
+804,Hans Nicolussi Caviglia,1650000.0,parma calcio 1913
+805,Jacopo Dezi,880000.0,parma calcio 1913
+806,Giuseppe Carriero,275000.0,parma calcio 1913
+807,Drissa Camara,275000.0,parma calcio 1913
+808,Lorenzo Simonetti,110000.0,parma calcio 1913
+809,Márk Kosznovszky,110000.0,parma calcio 1913
+810,Redi Kasa,55000.0,parma calcio 1913
+811,Juan Brunetta,3300000.0,parma calcio 1913
+812,Valentin Mihaila,9350000.0,parma calcio 1913
+813,Gervinho,1650000.0,parma calcio 1913
+815,Dennis Man,11000000.0,parma calcio 1913
+816,Yann Karamoh,6600000.0,parma calcio 1913
+817,Mattia Sprocati,660000.0,parma calcio 1913
+818,Luca Siligardi,330000.0,parma calcio 1913
+820,Joshua Zirkzee,8800000.0,parma calcio 1913
+821,Andreas Cornelius,6600000.0,parma calcio 1913
+822,Roberto Inglese,6600000.0,parma calcio 1913
+823,Graziano Pellè,660000.0,parma calcio 1913
+824,Andrea Adorante,440000.0,parma calcio 1913
+825,Gabriele Artistico,110000.0,parma calcio 1913
+0,Manuel Neuer,19800000.0,bayern munich
+1,Alexander Nübel,6600000.0,bayern munich
+2,Sven Ulreich,990000.0,bayern munich
+4,Lukas Schneller,220000.0,bayern munich
+5,David Alaba,60500000.0,bayern munich
+6,Niklas Süle,38500000.0,bayern munich
+7,Tanguy Nianzou,12100000.0,bayern munich
+8,Jérôme Boateng,9350000.0,bayern munich
+9,Chris Richards,8250000.0,bayern munich
+10,Bright Arrey-Mbi,1100000.0,bayern munich
+11,Kilian Senkbeil,220000.0,bayern munich
+13,Lucas Hernández,49500000.0,bayern munich
+14,Rémy Vita,1100000.0,bayern munich
+15,Alexander Lungwitz,275000.0,bayern munich
+16,Benjamin Pavard,38500000.0,bayern munich
+17,Bouna Sarr,4400000.0,bayern munich
+18,Josip Stanisic,440000.0,bayern munich
+19,Joshua Kimmich,99000000.0,bayern munich
+20,Marc Roca,11000000.0,bayern munich
+21,Javi Martínez,5500000.0,bayern munich
+22,Adrian Fein,4400000.0,bayern munich
+23,Angelo Stiller,2750000.0,bayern munich
+24,Leon Goretzka,77000000.0,bayern munich
+25,Corentin Tolisso,22000000.0,bayern munich
+26,Michaël Cuisance,7700000.0,bayern munich
+27,Tiago Dantas,3300000.0,bayern munich
+28,Maximilian Zaiser,248000.0,bayern munich
+29,Jamal Musiala,41800000.0,bayern munich
+30,Christopher Scott,1320000.0,bayern munich
+32,Kingsley Coman,71500000.0,bayern munich
+33,Douglas Costa,6600000.0,bayern munich
+34,Serge Gnabry,77000000.0,bayern munich
+35,Leroy Sané,66000000.0,bayern munich
+36,Thomas Müller,33000000.0,bayern munich
+37,Leon Dajaku,1980000.0,bayern munich
+38,Armindo Sieb,1650000.0,bayern munich
+39,Robert Lewandowski,66000000.0,bayern munich
+40,Joshua Zirkzee,8800000.0,bayern munich
+41,Eric Maxim Choupo-Moting,3850000.0,bayern munich
+42,Fiete Arp,880000.0,bayern munich
+44,Malik Tillman,550000.0,bayern munich
+45,Péter Gulácsi,14300000.0,rb leipzig
+46,Josep Martínez,2750000.0,rb leipzig
+47,Philipp Tschauner,330000.0,rb leipzig
+48,Dayot Upamecano,66000000.0,rb leipzig
+49,Ibrahima Konaté,38500000.0,rb leipzig
+50,Willi Orban,17600000.0,rb leipzig
+51,Marcel Halstenberg,15400000.0,rb leipzig
+52,Lukas Klostermann,29700000.0,rb leipzig
+53,Nordi Mukiele,27500000.0,rb leipzig
+55,Tyler Adams,22000000.0,rb leipzig
+56,Eric Martel,1980000.0,rb leipzig
+57,Marcel Sabitzer,46200000.0,rb leipzig
+58,Konrad Laimer,28600000.0,rb leipzig
+59,Amadou Haidara,26400000.0,rb leipzig
+60,Kevin Kampl,11000000.0,rb leipzig
+63,Dominik Szoboszlai,27500000.0,rb leipzig
+64,Dani Olmo,49500000.0,rb leipzig
+66,Lazar Samardzic,3300000.0,rb leipzig
+67,Joscha Wosz,440000.0,rb leipzig
+68,Emil Forsberg,22000000.0,rb leipzig
+69,Justin Kluivert,15400000.0,rb leipzig
+70,Ademola Lookman,12100000.0,rb leipzig
+71,Fabrice Hartmann,385000.0,rb leipzig
+73,Alexander Sörloth,17600000.0,rb leipzig
+74,Hee-chan Hwang,12100000.0,rb leipzig
+75,Dennis Borkowski,1320000.0,rb leipzig
+76,Hugo Novoa,440000.0,rb leipzig
+82,Dan-Axel Zagadou,19800000.0,borussia dortmund
+83,Mats Hummels,13200000.0,borussia dortmund
+84,Raphaël Guerreiro,44000000.0,borussia dortmund
+85,Nico Schulz,6600000.0,borussia dortmund
+86,Marcel Schmelzer,770000.0,borussia dortmund
+87,Thomas Meunier,13200000.0,borussia dortmund
+88,Mateu Morey Bauzà,7700000.0,borussia dortmund
+89,Felix Passlack,2750000.0,borussia dortmund
+91,Emre Can,28600000.0,borussia dortmund
+92,Thomas Delaney,16500000.0,borussia dortmund
+93,Axel Witsel,9900000.0,borussia dortmund
+94,Jude Bellingham,60500000.0,borussia dortmund
+95,Mahmoud Dahoud,17600000.0,borussia dortmund
+96,Tobias Raschl,770000.0,borussia dortmund
+97,Giovanni Reyna,41800000.0,borussia dortmund
+98,Julian Brandt,22000000.0,borussia dortmund
+100,Marco Reus,14300000.0,borussia dortmund
+101,Thorgan Hazard,29700000.0,borussia dortmund
+102,Dominik Wanner,110000.0,borussia dortmund
+103,Jadon Sancho,110000000.0,borussia dortmund
+104,Marius Wolf,4400000.0,borussia dortmund
+106,Erling Haaland,143000000.0,borussia dortmund
+107,Youssoufa Moukoko,19800000.0,borussia dortmund
+108,Steffen Tigges,1320000.0,borussia dortmund
+109,Koen Casteels,15400000.0,vfl wolfsburg
+110,Pavao Pervan,660000.0,vfl wolfsburg
+111,Niklas Klinger,110000.0,vfl wolfsburg
+112,Lino Kasten,110000.0,vfl wolfsburg
+113,Maxence Lacroix,30800000.0,vfl wolfsburg
+114,John Anthony Brooks,15400000.0,vfl wolfsburg
+115,Marin Pongracic,9350000.0,vfl wolfsburg
+116,Jeffrey Bruma,1320000.0,vfl wolfsburg
+117,Tim Siersleben,275000.0,vfl wolfsburg
+119,Jérôme Roussillon,7700000.0,vfl wolfsburg
+120,Ridle Baku,27500000.0,vfl wolfsburg
+121,Kevin Mbabu,13200000.0,vfl wolfsburg
+122,William,4400000.0,vfl wolfsburg
+123,Josuha Guilavogui,5500000.0,vfl wolfsburg
+124,Xaver Schlager,29700000.0,vfl wolfsburg
+125,Maximilian Arnold,20900000.0,vfl wolfsburg
+126,Yannick Gerhardt,11000000.0,vfl wolfsburg
+127,Luca Horn,193000.0,vfl wolfsburg
+128,Yunus Malli,2089999.9999999998,vfl wolfsburg
+129,Josip Brekalo,13200000.0,vfl wolfsburg
+130,João Victor,3300000.0,vfl wolfsburg
+131,Renato Steffen,4950000.0,vfl wolfsburg
+132,Felix Klaus,1650000.0,vfl wolfsburg
+133,Maximilian Philipp,7700000.0,vfl wolfsburg
+134,Admir Mehmedi,4400000.0,vfl wolfsburg
+135,Wout Weghorst,33000000.0,vfl wolfsburg
+136,Bartosz Bialek,5500000.0,vfl wolfsburg
+137,Omar Marmoush,2200000.0,vfl wolfsburg
+138,Daniel Ginczek,2200000.0,vfl wolfsburg
+139,Kevin Trapp,7150000.0,eintracht frankfurt
+140,Frederik Rönnow,2750000.0,eintracht frankfurt
+141,Markus Schubert,1980000.0,eintracht frankfurt
+142,Elias Bördner,275000.0,eintracht frankfurt
+146,Simon Falette,880000.0,eintracht frankfurt
+147,Fynn Otto,220000.0,eintracht frankfurt
+148,Felix Irorere,220000.0,eintracht frankfurt
+149,Yannick Brugger,110000.0,eintracht frankfurt
+152,Danny da Costa,6600000.0,eintracht frankfurt
+153,Almamy Touré,6050000.0,eintracht frankfurt
+154,Erik Durm,2750000.0,eintracht frankfurt
+155,Timothy Chandler,1650000.0,eintracht frankfurt
+156,Stefan Ilsanker,1870000.0,eintracht frankfurt
+157,Makoto Hasebe,880000.0,eintracht frankfurt
+158,Lukas Fahrnberger,220000.0,eintracht frankfurt
+159,Djibril Sow,16500000.0,eintracht frankfurt
+161,Sebastian Rode,4400000.0,eintracht frankfurt
+162,Filip Kostic,38500000.0,eintracht frankfurt
+163,Steven Zuber,2750000.0,eintracht frankfurt
+164,Daichi Kamada,27500000.0,eintracht frankfurt
+165,Amin Younes,11000000.0,eintracht frankfurt
+169,Luka Jovic,22000000.0,eintracht frankfurt
+171,Bas Dost,5280000.0,eintracht frankfurt
+172,Ragnar Ache,1980000.0,eintracht frankfurt
+173,Ali Akman,1650000.0,eintracht frankfurt
+174,Jabez Makanda,220000.0,eintracht frankfurt
+175,Lukas Hradecky,6600000.0,bayer 04 leverkusen
+176,Lennart Grill,1650000.0,bayer 04 leverkusen
+177,Niklas Lomb,275000.0,bayer 04 leverkusen
+178,Marcel Johnen,110000.0,bayer 04 leverkusen
+179,Edmond Tapsoba,44000000.0,bayer 04 leverkusen
+180,Jonathan Tah,24200000.0,bayer 04 leverkusen
+181,Sven Bender,6050000.0,bayer 04 leverkusen
+182,Aleksandar Dragovic,3850000.0,bayer 04 leverkusen
+183,Tin Jedvaj,3300000.0,bayer 04 leverkusen
+184,Daley Sinkgraven,9900000.0,bayer 04 leverkusen
+185,Wendell,7150000.0,bayer 04 leverkusen
+186,Jeremie Frimpong,11000000.0,bayer 04 leverkusen
+187,Santiago Arias,6600000.0,bayer 04 leverkusen
+190,Mitchell Weiser,3300000.0,bayer 04 leverkusen
+191,Julian Baumgartlinger,1650000.0,bayer 04 leverkusen
+193,Exequiel Palacios,14300000.0,bayer 04 leverkusen
+194,Charles Aránguiz,6600000.0,bayer 04 leverkusen
+195,Cem Türkmen,440000.0,bayer 04 leverkusen
+196,Florian Wirtz,49500000.0,bayer 04 leverkusen
+197,Nadiem Amiri,19800000.0,bayer 04 leverkusen
+198,Moussa Diaby,41800000.0,bayer 04 leverkusen
+199,Paulinho,14300000.0,bayer 04 leverkusen
+200,Demarai Gray,8800000.0,bayer 04 leverkusen
+201,Samed Onur,550000.0,bayer 04 leverkusen
+202,Leon Bailey,38500000.0,bayer 04 leverkusen
+203,Karim Bellarabi,4950000.0,bayer 04 leverkusen
+204,Patrik Schick,25300000.0,bayer 04 leverkusen
+205,Lucas Alario,22000000.0,bayer 04 leverkusen
+206,Joel Pohjanpalo,2750000.0,bayer 04 leverkusen
+207,Emrehan Gedikli,1100000.0,bayer 04 leverkusen
+209,Andreas Luthe,990000.0,1 fc union berlin
+210,Lennart Moser,385000.0,1 fc union berlin
+211,Jakob Busk,275000.0,1 fc union berlin
+212,Nikolai Kemlein,110000.0,1 fc union berlin
+213,Marvin Friedrich,11000000.0,1 fc union berlin
+214,Nico Schlotterbeck,8250000.0,1 fc union berlin
+215,Robin Knoche,8250000.0,1 fc union berlin
+216,Florian Hübner,880000.0,1 fc union berlin
+218,Christopher Lenz,5500000.0,1 fc union berlin
+219,Niko Gießelmann,1430000.0,1 fc union berlin
+221,Christopher Trimmel,1320000.0,1 fc union berlin
+222,Sebastian Griesbeck,1100000.0,1 fc union berlin
+223,Robert Andrich,7700000.0,1 fc union berlin
+224,Grischa Prömel,4400000.0,1 fc union berlin
+226,Fabio Schneider,220000.0,1 fc union berlin
+229,Keita Endo,1430000.0,1 fc union berlin
+230,Joshua Mees,715000.0,1 fc union berlin
+231,Sheraldo Becker,3300000.0,1 fc union berlin
+232,Akaki Gogia,715000.0,1 fc union berlin
+233,Tim Maciejewski,385000.0,1 fc union berlin
+234,Max Kruse,5500000.0,1 fc union berlin
+237,Joel Pohjanpalo,2750000.0,1 fc union berlin
+238,Petar Musa,2200000.0,1 fc union berlin
+239,Cedric Teuchert,1870000.0,1 fc union berlin
+240,Anthony Ujah,880000.0,1 fc union berlin
+241,Yann Sommer,6600000.0,borussia monchengladbach
+242,Tobias Sippel,440000.0,borussia monchengladbach
+243,Jan Olschowsky,330000.0,borussia monchengladbach
+245,Matthias Ginter,33000000.0,borussia monchengladbach
+246,Nico Elvedi,30800000.0,borussia monchengladbach
+247,Jordan Beyer,2200000.0,borussia monchengladbach
+249,Mamadou Doucouré,110000.0,borussia monchengladbach
+250,Ramy Bensebaini,24200000.0,borussia monchengladbach
+252,Oscar Wendt,660000.0,borussia monchengladbach
+253,Stefan Lainer,13750000.0,borussia monchengladbach
+254,Joe Scally,2200000.0,borussia monchengladbach
+256,Denis Zakaria,33000000.0,borussia monchengladbach
+257,Christoph Kramer,7700000.0,borussia monchengladbach
+259,Lászlo Bénes,4400000.0,borussia monchengladbach
+260,Rocco Reitz,550000.0,borussia monchengladbach
+262,Kaan Kurt,275000.0,borussia monchengladbach
+263,Hannes Wolf,8800000.0,borussia monchengladbach
+264,Torben Müsel,330000.0,borussia monchengladbach
+265,Famana Quizera,220000.0,borussia monchengladbach
+266,Marcus Thuram,38500000.0,borussia monchengladbach
+267,Jonas Hofmann,17600000.0,borussia monchengladbach
+268,Patrick Herrmann,3850000.0,borussia monchengladbach
+269,Ibrahima Traoré,660000.0,borussia monchengladbach
+270,Lars Stindl,5500000.0,borussia monchengladbach
+271,Alassane Plea,24200000.0,borussia monchengladbach
+272,Breel Embolo,17600000.0,borussia monchengladbach
+274,Gregor Kobel,14300000.0,vfb stuttgart
+275,Fabian Bredlow,550000.0,vfb stuttgart
+277,Waldemar Anton,9900000.0,vfb stuttgart
+278,Marc Oliver Kempf,8800000.0,vfb stuttgart
+279,Konstantinos Mavropanos,6600000.0,vfb stuttgart
+280,Pascal Stenzel,2750000.0,vfb stuttgart
+281,Atakan Karazor,2200000.0,vfb stuttgart
+282,Marcin Kaminski,880000.0,vfb stuttgart
+283,Antonis Aidonis,330000.0,vfb stuttgart
+287,Clinton Mola,1100000.0,vfb stuttgart
+288,Luca Mack,275000.0,vfb stuttgart
+289,Gonzalo Castro,1540000.0,vfb stuttgart
+291,Roberto Massimo,2750000.0,vfb stuttgart
+292,Borna Sosa,17600000.0,vfb stuttgart
+293,Erik Thommy,2750000.0,vfb stuttgart
+294,Mateo Klimowicz,5500000.0,vfb stuttgart
+296,Daniel Didavi,1980000.0,vfb stuttgart
+297,Philipp Klement,1320000.0,vfb stuttgart
+298,Lilian Egloff,1100000.0,vfb stuttgart
+301,Darko Churlinov,1100000.0,vfb stuttgart
+302,Momo Cissé,550000.0,vfb stuttgart
+303,Sasa Kalajdzic,24200000.0,vfb stuttgart
+305,Hamadi Al Ghaddioui,550000.0,vfb stuttgart
+306,Florian Müller,8800000.0,sc freiburg
+307,Mark Flekken,2750000.0,sc freiburg
+308,Benjamin Uphoff,550000.0,sc freiburg
+309,Niclas Thiede,220000.0,sc freiburg
+310,Philipp Lienhart,15400000.0,sc freiburg
+311,Keven Schlotterbeck,8250000.0,sc freiburg
+312,Dominique Heintz,5500000.0,sc freiburg
+313,Manuel Gulde,2640000.0,sc freiburg
+314,Kiliann Sildillia,495000.0,sc freiburg
+316,Luca Itter,1430000.0,sc freiburg
+317,Jonathan Schmid,3300000.0,sc freiburg
+319,Baptiste Santamaria,16500000.0,sc freiburg
+320,Nicolas Höfler,2750000.0,sc freiburg
+321,Yannik Keitel,2200000.0,sc freiburg
+322,Amir Abrashi,880000.0,sc freiburg
+323,Carlo Boukhalfa,330000.0,sc freiburg
+324,Janik Haberer,5500000.0,sc freiburg
+325,Lino Tempelmann,990000.0,sc freiburg
+326,Guus Til,4950000.0,sc freiburg
+327,Vincenzo Grifo,13200000.0,sc freiburg
+328,Roland Sallai,14300000.0,sc freiburg
+329,Woo-yeong Jeong,3300000.0,sc freiburg
+330,Chang-hoon Kwon,2200000.0,sc freiburg
+331,Kevin Schade,495000.0,sc freiburg
+332,Ermedin Demirovic,13200000.0,sc freiburg
+333,Lucas Höler,4400000.0,sc freiburg
+334,Nils Petersen,3300000.0,sc freiburg
+336,Oliver Baumann,5500000.0,tsg 1899 hoffenheim
+337,Philipp Pentke,330000.0,tsg 1899 hoffenheim
+338,Luca Philipp,110000.0,tsg 1899 hoffenheim
+341,Chris Richards,8250000.0,tsg 1899 hoffenheim
+342,Kevin Akpoguma,5500000.0,tsg 1899 hoffenheim
+343,Kevin Vogt,4400000.0,tsg 1899 hoffenheim
+344,Melayro Bogarde,2750000.0,tsg 1899 hoffenheim
+346,Ermin Bicakcic,1650000.0,tsg 1899 hoffenheim
+347,Havard Nordtveit,1650000.0,tsg 1899 hoffenheim
+348,Benjamin Hübner,1430000.0,tsg 1899 hoffenheim
+349,Gabriel Haider,165000.0,tsg 1899 hoffenheim
+350,Ryan Sessegnon,19800000.0,tsg 1899 hoffenheim
+351,Konstantinos Stafylidis,1320000.0,tsg 1899 hoffenheim
+352,Max Geschwill,110000.0,tsg 1899 hoffenheim
+353,Pavel Kaderabek,8800000.0,tsg 1899 hoffenheim
+354,Joshua Brenet,880000.0,tsg 1899 hoffenheim
+355,Florian Grillitsch,19800000.0,tsg 1899 hoffenheim
+356,Diadié Samassékou,15400000.0,tsg 1899 hoffenheim
+357,Sebastian Rudy,3300000.0,tsg 1899 hoffenheim
+358,Alfons Amade,220000.0,tsg 1899 hoffenheim
+359,Dennis Geiger,11000000.0,tsg 1899 hoffenheim
+360,Marco John,4400000.0,tsg 1899 hoffenheim
+361,Christoph Baumgartner,24200000.0,tsg 1899 hoffenheim
+364,Ihlas Bebou,17600000.0,tsg 1899 hoffenheim
+365,Robert Skov,11000000.0,tsg 1899 hoffenheim
+366,Andrej Kramaric,30800000.0,tsg 1899 hoffenheim
+367,Munas Dabbur,6600000.0,tsg 1899 hoffenheim
+368,João Klauss,4950000.0,tsg 1899 hoffenheim
+369,Sargis Adamyan,3850000.0,tsg 1899 hoffenheim
+372,Maximilian Beier,2200000.0,tsg 1899 hoffenheim
+373,Florian Müller,8800000.0,1 fsv mainz 05
+374,Robin Zentner,5500000.0,1 fsv mainz 05
+375,Finn Dahmen,2200000.0,1 fsv mainz 05
+378,Jeremiah St. Juste,17600000.0,1 fsv mainz 05
+379,Moussa Niakhaté,16500000.0,1 fsv mainz 05
+380,Stefan Bell,2200000.0,1 fsv mainz 05
+381,Alexander Hack,2200000.0,1 fsv mainz 05
+382,Luca Kilian,1430000.0,1 fsv mainz 05
+383,Dimitri Lavalée,880000.0,1 fsv mainz 05
+384,Aarón Martín,4950000.0,1 fsv mainz 05
+385,Phillipp Mwene,2420000.0,1 fsv mainz 05
+386,Ridle Baku,27500000.0,1 fsv mainz 05
+388,Daniel Brosinski,880000.0,1 fsv mainz 05
+389,Niklas Tauer,770000.0,1 fsv mainz 05
+390,Leandro Barreiro,12100000.0,1 fsv mainz 05
+391,Dominik Kohr,6600000.0,1 fsv mainz 05
+392,Edimilson Fernandes,5500000.0,1 fsv mainz 05
+393,Pierre Kunde Malong,3850000.0,1 fsv mainz 05
+394,Danny Latza,1650000.0,1 fsv mainz 05
+395,Merveille Papela,440000.0,1 fsv mainz 05
+396,Levin Öztunali,2750000.0,1 fsv mainz 05
+397,Jean-Paul Boëtius,5500000.0,1 fsv mainz 05
+398,Kevin Stöger,3080000.0,1 fsv mainz 05
+400,Robin Quaison,8250000.0,1 fsv mainz 05
+402,Jonathan Burkardt,4950000.0,1 fsv mainz 05
+403,Karim Onisiwo,3850000.0,1 fsv mainz 05
+404,Robert Glatzel,2750000.0,1 fsv mainz 05
+405,Dong-won Ji,880000.0,1 fsv mainz 05
+406,Issah Abass,770000.0,1 fsv mainz 05
+407,Ádám Szalai,440000.0,1 fsv mainz 05
+408,Marlon Mustapha,330000.0,1 fsv mainz 05
+409,Rafal Gikiewicz,1650000.0,fc augsburg
+410,Tomas Koubek,1650000.0,fc augsburg
+412,Felix Uduokhai,17600000.0,fc augsburg
+413,Jeffrey Gouweleeuw,7700000.0,fc augsburg
+415,Marek Suchy,550000.0,fc augsburg
+416,Iago,5500000.0,fc augsburg
+417,Mads Pedersen,1210000.0,fc augsburg
+418,Robert Gumny,3300000.0,fc augsburg
+419,Raphael Framberger,2200000.0,fc augsburg
+420,Rani Khedira,5500000.0,fc augsburg
+421,Carlos Gruezo,5500000.0,fc augsburg
+422,Tobias Strobl,2200000.0,fc augsburg
+424,Lászlo Bénes,4400000.0,fc augsburg
+426,Tim Civeja,330000.0,fc augsburg
+427,Lukas Petkov,220000.0,fc augsburg
+428,Fredrik Jensen,2200000.0,fc augsburg
+429,Rubén Vargas,14300000.0,fc augsburg
+431,Marco Richter,5500000.0,fc augsburg
+432,André Hahn,2750000.0,fc augsburg
+433,Daniel Caligiuri,2200000.0,fc augsburg
+434,Noah Joel Sarenren Bazee,1100000.0,fc augsburg
+435,Michael Gregoritsch,3300000.0,fc augsburg
+436,Florian Niederlechner,4400000.0,fc augsburg
+437,Alfred Finnbogason,1320000.0,fc augsburg
+438,Julian Schieber,440000.0,fc augsburg
+439,Seong-hoon Cheon,275000.0,fc augsburg
+441,Rune Jarstein,550000.0,hertha bsc
+443,Marcel Lotka,138000.0,hertha bsc
+444,Niklas Stark,11000000.0,hertha bsc
+445,Jordan Torunarigha,9900000.0,hertha bsc
+446,Dedryck Boyata,8800000.0,hertha bsc
+447,Márton Dárdai,6600000.0,hertha bsc
+448,Omar Alderete,4950000.0,hertha bsc
+449,Karim Rekik,3300000.0,hertha bsc
+450,Maximilian Mittelstädt,7700000.0,hertha bsc
+451,Luca Netz,5500000.0,hertha bsc
+452,Marvin Plattenhardt,4400000.0,hertha bsc
+453,Deyovaisio Zeefuik,4400000.0,hertha bsc
+454,Lukas Klünter,2200000.0,hertha bsc
+455,Peter Pekarik,880000.0,hertha bsc
+456,Lucas Tousart,17600000.0,hertha bsc
+457,Santiago Ascacíbar,7150000.0,hertha bsc
+460,Arne Maier,7700000.0,hertha bsc
+461,Vladimir Darida,3850000.0,hertha bsc
+463,Sami Khedira,2200000.0,hertha bsc
+464,Julian Albrecht,165000.0,hertha bsc
+465,Ondrej Duda,8800000.0,hertha bsc
+466,Jonas Michelbrink,550000.0,hertha bsc
+467,Javairô Dilrosun,9900000.0,hertha bsc
+469,Dodi Lukebakio,14300000.0,hertha bsc
+470,Mathew Leckie,1100000.0,hertha bsc
+471,Matheus Cunha,33000000.0,hertha bsc
+472,Krzysztof Piatek,16500000.0,hertha bsc
+473,Jhon Córdoba,16500000.0,hertha bsc
+474,Daishawn Redan,2420000.0,hertha bsc
+475,Jessic Ngankam,1320000.0,hertha bsc
+476,Marten Winkler,220000.0,hertha bsc
+477,Ruwen Werthmüller,165000.0,hertha bsc
+478,Stefan Ortega,6600000.0,arminia bielefeld
+479,Oscar Linnér,550000.0,arminia bielefeld
+480,Nikolai Rehnen,110000.0,arminia bielefeld
+481,Arne Schulz,110000.0,arminia bielefeld
+482,Amos Pieper,7700000.0,arminia bielefeld
+483,Joakim Nilsson,2750000.0,arminia bielefeld
+484,Mike van der Hoorn,2200000.0,arminia bielefeld
+485,Brian Behrendt,550000.0,arminia bielefeld
+486,Anderson Lucoqui,1100000.0,arminia bielefeld
+487,Jacob Barrett Laursen,770000.0,arminia bielefeld
+488,Cédric Brunner,3080000.0,arminia bielefeld
+489,Nathan de Medina,715000.0,arminia bielefeld
+490,Manuel Prietl,1980000.0,arminia bielefeld
+492,Julian Frommann,220000.0,arminia bielefeld
+493,Arne Maier,7700000.0,arminia bielefeld
+494,Nils Seufert,880000.0,arminia bielefeld
+495,Reinhold Yabo,770000.0,arminia bielefeld
+499,Marcel Hartel,1980000.0,arminia bielefeld
+500,Jóan Símun Edmundsson,550000.0,arminia bielefeld
+501,Vladislav Cherny,110000.0,arminia bielefeld
+502,Noel Niemann,303000.0,arminia bielefeld
+504,Christian Gebauer,880000.0,arminia bielefeld
+505,Cebio Soukou,770000.0,arminia bielefeld
+506,Andreas Voglsammer,1870000.0,arminia bielefeld
+507,Sergio Córdova,1320000.0,arminia bielefeld
+508,Fabian Klos,880000.0,arminia bielefeld
+509,Sven Schipplock,440000.0,arminia bielefeld
+510,Sebastian Müller,330000.0,arminia bielefeld
+511,Timo Horn,4400000.0,1 fc koln
+514,Sebastiaan Bornauw,13200000.0,1 fc koln
+515,Jorge Meré,3850000.0,1 fc koln
+517,Rafael Czichos,1430000.0,1 fc koln
+518,Frederik Sörensen,715000.0,1 fc koln
+519,Robert Voloder,275000.0,1 fc koln
+520,João Queirós,110000.0,1 fc koln
+521,Noah Katterbach,6050000.0,1 fc koln
+522,Jannes Horn,3300000.0,1 fc koln
+523,Kingsley Ehizibue,1870000.0,1 fc koln
+524,Benno Schmitz,880000.0,1 fc koln
+525,Ellyes Skhiri,11000000.0,1 fc koln
+526,Jonas Hector,5500000.0,1 fc koln
+527,Marco Höger,660000.0,1 fc koln
+528,Elvis Rexhbecaj,4400000.0,1 fc koln
+529,Salih Özcan,3850000.0,1 fc koln
+530,Ondrej Duda,8800000.0,1 fc koln
+531,Max Meyer,1650000.0,1 fc koln
+532,Dominick Drexler,1430000.0,1 fc koln
+533,Jens Castrop,220000.0,1 fc koln
+534,Ismail Jakobs,7700000.0,1 fc koln
+535,Florian Kainz,3850000.0,1 fc koln
+536,Marvin Obuz,330000.0,1 fc koln
+539,Dimitrios Limnios,2200000.0,1 fc koln
+540,Christian Clemens,770000.0,1 fc koln
+542,Jhon Córdoba,16500000.0,1 fc koln
+543,Emmanuel Dennis,5500000.0,1 fc koln
+544,Sebastian Andersson,4950000.0,1 fc koln
+545,Anthony Modeste,1650000.0,1 fc koln
+546,Tolu Arokodare,880000.0,1 fc koln
+547,Jiri Pavlenka,6050000.0,sv werder bremen
+548,Michael Zetterer,880000.0,sv werder bremen
+550,Luca Plogmann,605000.0,sv werder bremen
+551,Eduardo dos Santos Haesler,110000.0,sv werder bremen
+552,Marco Friedl,8250000.0,sv werder bremen
+553,Milos Veljkovic,4950000.0,sv werder bremen
+554,Ömer Toprak,2750000.0,sv werder bremen
+556,Ludwig Augustinsson,11000000.0,sv werder bremen
+557,Felix Agu,2750000.0,sv werder bremen
+558,Theodor Gebre Selassie,880000.0,sv werder bremen
+560,Christian Groß,550000.0,sv werder bremen
+561,Ilia Gruev,440000.0,sv werder bremen
+562,Philipp Bargfrede,275000.0,sv werder bremen
+564,Maximilian Eggestein,8250000.0,sv werder bremen
+565,Kevin Möhwald,3300000.0,sv werder bremen
+566,Jean Manuel Mbom,3300000.0,sv werder bremen
+567,Davy Klaassen,18700000.0,sv werder bremen
+568,Leonardo Bittencourt,4950000.0,sv werder bremen
+569,Romano Schmid,4400000.0,sv werder bremen
+570,Milot Rashica,9900000.0,sv werder bremen
+571,Oscar Schönfelder,275000.0,sv werder bremen
+572,Tahith Chong,4400000.0,sv werder bremen
+573,Nick Woltemade,1320000.0,sv werder bremen
+575,Josh Sargent,8800000.0,sv werder bremen
+576,Johannes Eggestein,4400000.0,sv werder bremen
+577,Niclas Füllkrug,4400000.0,sv werder bremen
+578,Davie Selke,3080000.0,sv werder bremen
+579,Eren Dinkci,550000.0,sv werder bremen
+580,Frederik Rönnow,2750000.0,fc schalke 04
+581,Markus Schubert,1980000.0,fc schalke 04
+582,Ralf Fährmann,1100000.0,fc schalke 04
+583,Michael Langer,110000.0,fc schalke 04
+584,Sören Ahlers,55000.0,fc schalke 04
+588,Salif Sané,3300000.0,fc schalke 04
+591,Vasilios Pavlidis,220000.0,fc schalke 04
+592,Sead Kolasinac,7150000.0,fc schalke 04
+593,Hamza Mendyl,1100000.0,fc schalke 04
+594,Bastian Oczipka,660000.0,fc schalke 04
+595,Brooklyn Ezeh,110000.0,fc schalke 04
+597,Kilian Ludewig,1650000.0,fc schalke 04
+598,Henning Matriciani,110000.0,fc schalke 04
+599,Omar Mascarell,4950000.0,fc schalke 04
+600,Sebastian Rudy,3300000.0,fc schalke 04
+601,Benjamin Stambouli,1650000.0,fc schalke 04
+602,Florian Flick,770000.0,fc schalke 04
+603,Jimmy Kaparos,110000.0,fc schalke 04
+607,Alessandro Schöpf,1650000.0,fc schalke 04
+608,Mehmet Aydin,880000.0,fc schalke 04
+611,Can Bozdogan,2750000.0,fc schalke 04
+612,Levent Mercan,550000.0,fc schalke 04
+613,Blendi Idrizi,440000.0,fc schalke 04
+615,Benito Raman,3300000.0,fc schalke 04
+616,Rabbi Matondo,4400000.0,fc schalke 04
+617,Steven Skrzybski,1650000.0,fc schalke 04
+618,Mark Uth,3300000.0,fc schalke 04
+619,Gonçalo Paciência,5500000.0,fc schalke 04
+621,Ahmed Kutucu,1870000.0,fc schalke 04
+622,Klaas-Jan Huntelaar,880000.0,fc schalke 04
+623,Vedad Ibisevic,550000.0,fc schalke 04
+0,Mike Maignan,27500000.0,losc lille
+1,Orestis Karnezis,550000.0,losc lille
+2,Lucas Chevalier,550000.0,losc lille
+4,Tiago Djaló,5500000.0,losc lille
+5,Adama Soumaoro,4400000.0,losc lille
+6,José Fonte,1650000.0,losc lille
+7,Nassim Innocenti,275000.0,losc lille
+8,Reinildo Mandava,9900000.0,losc lille
+9,Domagoj Bradaric,6600000.0,losc lille
+10,Zeki Celik,22000000.0,losc lille
+11,Jérémy Pied,1320000.0,losc lille
+13,Rocco Ascone,275000.0,losc lille
+14,Boubakary Soumaré,30800000.0,losc lille
+15,Benjamin André,16500000.0,losc lille
+16,Cheikh Niasse,880000.0,losc lille
+17,Eugenio Pizzuto,330000.0,losc lille
+18,Renato Sanches,33000000.0,losc lille
+19,Xeka,8800000.0,losc lille
+20,Mustafa Kapi,330000.0,losc lille
+21,Aguibou Camara,330000.0,losc lille
+22,Jonathan Bamba,27500000.0,losc lille
+23,Jonathan Ikoné,33000000.0,losc lille
+24,Luiz Araújo,11000000.0,losc lille
+25,Isaac Lihadji,4400000.0,losc lille
+26,Yusuf Yazici,22000000.0,losc lille
+27,Jonathan David,38500000.0,losc lille
+28,Timothy Weah,13200000.0,losc lille
+29,Burak Yilmaz,3080000.0,losc lille
+30,Mamadou Usman Simbakoli,275000.0,losc lille
+32,Keylor Navas,13200000.0,paris saint germain
+33,Sergio Rico,7700000.0,paris saint germain
+34,Marcin Bulka,880000.0,paris saint germain
+35,Alexandre Letellier,440000.0,paris saint germain
+36,Garissone Innocent,330000.0,paris saint germain
+37,Denis Franchi,275000.0,paris saint germain
+38,Mathyas Randriamamy,165000.0,paris saint germain
+39,Yanis Saidani,165000.0,paris saint germain
+40,Marquinhos,82500000.0,paris saint germain
+41,Presnel Kimpembe,44000000.0,paris saint germain
+42,Thilo Kehrer,27500000.0,paris saint germain
+44,Timothée Pembélé,4400000.0,paris saint germain
+45,Juan Bernat,17600000.0,paris saint germain
+46,Layvin Kurzawa,13200000.0,paris saint germain
+47,Mitchel Bakker,11000000.0,paris saint germain
+48,Alessandro Florenzi,14300000.0,paris saint germain
+49,Colin Dagba,13200000.0,paris saint germain
+50,Leandro Paredes,22000000.0,paris saint germain
+51,Danilo Pereira,22000000.0,paris saint germain
+52,Idrissa Gueye,16500000.0,paris saint germain
+53,Maxen Kapo,275000.0,paris saint germain
+55,Marco Verratti,60500000.0,paris saint germain
+56,Rafinha,16500000.0,paris saint germain
+57,Ander Herrera,14300000.0,paris saint germain
+58,Kays Ruiz-Atil,3300000.0,paris saint germain
+59,Xavi Simons,550000.0,paris saint germain
+60,Bandiougou Fadiga,1320000.0,paris saint germain
+63,Neymar,110000000.0,paris saint germain
+64,Julian Draxler,22000000.0,paris saint germain
+66,Pablo Sarabia,24200000.0,paris saint germain
+67,Ángel Di María,22000000.0,paris saint germain
+68,Kylian Mbappé,176000000.0,paris saint germain
+69,Mauro Icardi,44000000.0,paris saint germain
+70,Moise Kean,38500000.0,paris saint germain
+71,Arnaud Kalimuendo,11000000.0,paris saint germain
+73,Benjamin Lecomte,11000000.0,as monaco
+74,Radoslaw Majecki,4400000.0,as monaco
+75,Vito Mannone,880000.0,as monaco
+76,Benoît Badiashile,30800000.0,as monaco
+82,Fodé Ballo-Touré,7150000.0,as monaco
+83,Julien Serrano,825000.0,as monaco
+84,Ruben Aguilar,13200000.0,as monaco
+85,Djibril Sidibé,8800000.0,as monaco
+86,Giulian Biancone,1430000.0,as monaco
+87,Aurélien Tchouaméni,33000000.0,as monaco
+88,Florentino,11000000.0,as monaco
+89,Jean-Eudes Aholou,4400000.0,as monaco
+91,Eliot Matazo,6600000.0,as monaco
+92,Cesc Fàbregas,5500000.0,as monaco
+93,Youssef Aït Bennasser,2200000.0,as monaco
+94,Enzo Millot,1100000.0,as monaco
+95,Aleksandr Golovin,30800000.0,as monaco
+96,Sofiane Diop,17600000.0,as monaco
+97,Henry Onyekuru,7700000.0,as monaco
+98,Willem Geubbels,6600000.0,as monaco
+100,Gelson Martins,19800000.0,as monaco
+101,Krépin Diatta,19800000.0,as monaco
+102,Wissam Ben Yedder,38500000.0,as monaco
+103,Kevin Volland,33000000.0,as monaco
+104,Pietro Pellegri,6600000.0,as monaco
+106,Anthony Lopes,15400000.0,olympique lyon
+107,Anthony Racioppi,1650000.0,olympique lyon
+108,Ciprian Tatarusanu,660000.0,olympique lyon
+109,Julian Pollersbeck,660000.0,olympique lyon
+110,Malcolm Barcola,275000.0,olympique lyon
+111,Jason Denayer,27500000.0,olympique lyon
+112,Joachim Andersen,24200000.0,olympique lyon
+113,Sinaly Diomandé,7700000.0,olympique lyon
+114,Marcelo,3300000.0,olympique lyon
+115,Cenk Özkacar,1320000.0,olympique lyon
+116,Djamel Eddine Benlamri,1210000.0,olympique lyon
+117,Abdoulaye Ndiaye,55000.0,olympique lyon
+119,Maxwel Cornet,13200000.0,olympique lyon
+120,Melvin Bard,5500000.0,olympique lyon
+121,Marçal,1980000.0,olympique lyon
+122,Youssouf Koné,1760000.0,olympique lyon
+123,Léo Dubois,17600000.0,olympique lyon
+124,Mattia De Sciglio,8250000.0,olympique lyon
+125,Kenny Tete,5500000.0,olympique lyon
+126,Malo Gusto,550000.0,olympique lyon
+127,Thiago Mendes,16500000.0,olympique lyon
+128,Houssem Aouar,46200000.0,olympique lyon
+129,Bruno Guimarães,33000000.0,olympique lyon
+130,Maxence Caqueret,18700000.0,olympique lyon
+131,Jean Lucas,4950000.0,olympique lyon
+132,Camilo,1430000.0,olympique lyon
+133,Florent Da Silva,550000.0,olympique lyon
+134,Lucas Paquetá,33000000.0,olympique lyon
+135,Rayan Cherki,29700000.0,olympique lyon
+136,Jeff Reine-Adélaïde,24200000.0,olympique lyon
+137,Karl Toko Ekambi,16500000.0,olympique lyon
+138,Bertrand Traoré,22000000.0,olympique lyon
+139,Tino Kadewere,14300000.0,olympique lyon
+140,Yahya Soumaré,440000.0,olympique lyon
+141,Memphis Depay,49500000.0,olympique lyon
+142,Moussa Dembélé,22000000.0,olympique lyon
+146,Steve Mandanda,2200000.0,olympique marseille
+147,Yohann Pelé,275000.0,olympique marseille
+148,Ahmadou Dia,220000.0,olympique marseille
+149,Fabio Vanni,165000.0,olympique marseille
+152,Leonardo Balerdi,8800000.0,olympique marseille
+153,Álvaro González,7700000.0,olympique marseille
+154,Lucas Perrin,1980000.0,olympique marseille
+155,Aaron Kamardin,165000.0,olympique marseille
+156,Jordan Amavi,9900000.0,olympique marseille
+157,Christopher Rocchia,1100000.0,olympique marseille
+158,Yuto Nagatomo,880000.0,olympique marseille
+159,Pol Lirola,9900000.0,olympique marseille
+161,Hiroki Sakai,4400000.0,olympique marseille
+162,Richecard Richard,165000.0,olympique marseille
+163,Boubacar Kamara,40700000.0,olympique marseille
+164,Pape Gueye,11000000.0,olympique marseille
+165,Alexandre Phliponeau,275000.0,olympique marseille
+169,Morgan Sanson,17600000.0,olympique marseille
+171,Maxime López,11000000.0,olympique marseille
+172,Michaël Cuisance,7700000.0,olympique marseille
+173,Kevin Strootman,5500000.0,olympique marseille
+174,Olivier Ntcham,3300000.0,olympique marseille
+175,Ugo Bertelli,330000.0,olympique marseille
+176,Cheick Souaré,165000.0,olympique marseille
+177,Franco Tongya,2750000.0,olympique marseille
+178,Saîf-Eddine Khaoui,1980000.0,olympique marseille
+179,Jorès Rahou,220000.0,olympique marseille
+180,Luis Henrique,8800000.0,olympique marseille
+181,Nemanja Radonjic,6600000.0,olympique marseille
+182,Dimitri Payet,5500000.0,olympique marseille
+183,Marley Aké,2750000.0,olympique marseille
+184,Florian Thauvin,18700000.0,olympique marseille
+185,Arkadiusz Milik,24200000.0,olympique marseille
+186,Darío Benedetto,7700000.0,olympique marseille
+187,Valère Germain,3300000.0,olympique marseille
+190,Alfred Gomis,7700000.0,stade rennais fc
+191,Romain Salin,550000.0,stade rennais fc
+193,Nayef Aguerd,8800000.0,stade rennais fc
+194,Daniele Rugani,5500000.0,stade rennais fc
+195,Jérémy Gélin,3850000.0,stade rennais fc
+196,Gerzino Nyamsi,3850000.0,stade rennais fc
+197,Lilian Brassier,2750000.0,stade rennais fc
+198,Damien Da Silva,2200000.0,stade rennais fc
+199,Warmed Omari,220000.0,stade rennais fc
+200,Faitout Maouassa,13200000.0,stade rennais fc
+201,Adrien Truffert,13200000.0,stade rennais fc
+202,Dalbert,4400000.0,stade rennais fc
+203,Hamari Traoré,8800000.0,stade rennais fc
+204,Brandon Soppy,7700000.0,stade rennais fc
+205,Sacha Boey,2750000.0,stade rennais fc
+206,Lorenz Assignon,550000.0,stade rennais fc
+207,Steven Nzonzi,8800000.0,stade rennais fc
+209,Benjamin Bourigeaud,16500000.0,stade rennais fc
+210,Flavien Tait,5500000.0,stade rennais fc
+211,Clément Grenier,4400000.0,stade rennais fc
+212,James Léa Siliki,4400000.0,stade rennais fc
+213,Jonas Martin,2750000.0,stade rennais fc
+214,Lesley Ugochukwu,330000.0,stade rennais fc
+215,Martin Terrier,14300000.0,stade rennais fc
+216,Yann Gboho,4950000.0,stade rennais fc
+218,Jérémy Doku,24200000.0,stade rennais fc
+219,Romain Del Castillo,4950000.0,stade rennais fc
+221,Serhou Guirassy,13200000.0,stade rennais fc
+222,Adrien Hunou,6600000.0,stade rennais fc
+223,M'Baye Niang,4950000.0,stade rennais fc
+224,Georginio Rutter,3850000.0,stade rennais fc
+226,Wuilker Fariñez,2750000.0,rc lens
+229,Loïc Badé,13200000.0,rc lens
+230,Facundo Medina,11000000.0,rc lens
+231,Jonathan Gradit,3300000.0,rc lens
+232,Steven Fortes,880000.0,rc lens
+233,Aleksandar Radovanovic,660000.0,rc lens
+234,Zakaria Diallo,330000.0,rc lens
+237,Massadio Haidara,2750000.0,rc lens
+238,Issiaga Sylla,2200000.0,rc lens
+239,Ismaël Boura,1650000.0,rc lens
+240,Jonathan Clauss,8800000.0,rc lens
+241,Clément Michelin,2750000.0,rc lens
+242,Cheick Traoré,880000.0,rc lens
+243,Cheick Doucouré,6600000.0,rc lens
+245,Yannick Cahuzac,440000.0,rc lens
+246,Seko Fofana,13200000.0,rc lens
+247,Charles Boli,550000.0,rc lens
+249,Gaël Kakuta,8800000.0,rc lens
+250,Tony Mauricio,2200000.0,rc lens
+252,Adam Oudjani,165000.0,rc lens
+253,Gaëtan Robail,1100000.0,rc lens
+254,Cyrille Bayala,660000.0,rc lens
+256,Arnaud Kalimuendo,11000000.0,rc lens
+257,Ignatius Ganago,8800000.0,rc lens
+259,Simon Banza,2750000.0,rc lens
+260,Corentin Jean,1760000.0,rc lens
+262,Jonas Omlin,8800000.0,montpellier hsc
+263,Dimitry Bertaud,1100000.0,montpellier hsc
+264,Matis Carvalho,220000.0,montpellier hsc
+265,Pedro Mendes,6600000.0,montpellier hsc
+266,Nicolas Cozza,4179999.9999999995,montpellier hsc
+267,Daniel Congré,550000.0,montpellier hsc
+268,Clément Vidal,495000.0,montpellier hsc
+269,Hilton,165000.0,montpellier hsc
+270,Ambroise Oyongo,2420000.0,montpellier hsc
+271,Thibault Tamas,220000.0,montpellier hsc
+272,Junior Sambia,7150000.0,montpellier hsc
+274,Mathías Suárez,550000.0,montpellier hsc
+275,Oucasse Mendy,165000.0,montpellier hsc
+277,Joris Chotard,7700000.0,montpellier hsc
+278,Damien Le Tallec,1980000.0,montpellier hsc
+279,Téji Savanier,12100000.0,montpellier hsc
+280,Florent Mollet,7700000.0,montpellier hsc
+281,Jordan Ferri,4400000.0,montpellier hsc
+282,Samy Benchama,330000.0,montpellier hsc
+283,Thibaut Vargas,440000.0,montpellier hsc
+287,Stephy Mavididi,8800000.0,montpellier hsc
+288,Keagan Dolly,1100000.0,montpellier hsc
+289,Il-lok Yun,1100000.0,montpellier hsc
+291,Gaëtan Laborde,16500000.0,montpellier hsc
+292,Elye Wahi,5500000.0,montpellier hsc
+293,Petar Skuletic,770000.0,montpellier hsc
+294,Yanis Ammour,220000.0,montpellier hsc
+296,Walter Benítez,11000000.0,ogc nice
+297,Yoan Cardinale,660000.0,ogc nice
+298,Teddy Boulhendi,165000.0,ogc nice
+301,William Saliba,19800000.0,ogc nice
+302,Jean-Clair Todibo,13200000.0,ogc nice
+303,Flavius Daniliuc,6600000.0,ogc nice
+305,Robson Bambu,3850000.0,ogc nice
+306,Dante,1100000.0,ogc nice
+307,Théo Pionnier-Bertrand,275000.0,ogc nice
+308,Noah Crétier,220000.0,ogc nice
+309,Lorenzo Prso,165000.0,ogc nice
+310,Hassane Kamara,8800000.0,ogc nice
+311,Stanley Nsoki,5500000.0,ogc nice
+312,Racine Coly,1430000.0,ogc nice
+313,Youcef Atal,16500000.0,ogc nice
+314,Jordan Lotomba,6600000.0,ogc nice
+316,Khéphren Thuram,9900000.0,ogc nice
+317,Morgan Schneiderlin,7700000.0,ogc nice
+319,Paul Wade,165000.0,ogc nice
+320,Pierre Lees Melou,7700000.0,ogc nice
+321,Hicham Boudaoui,5500000.0,ogc nice
+322,Alexis Trouillet,2200000.0,ogc nice
+323,Soudeysse Kari,275000.0,ogc nice
+324,Jeff Reine-Adélaïde,24200000.0,ogc nice
+325,Alexis Claude-Maurice,13200000.0,ogc nice
+326,Malik Sellouki,385000.0,ogc nice
+327,Deji Sotona,330000.0,ogc nice
+328,Rony Lopes,7700000.0,ogc nice
+329,Dan Ndoye,4400000.0,ogc nice
+330,Hicham Mahou,880000.0,ogc nice
+331,Salim Ben Seghir,440000.0,ogc nice
+332,Eddy Sylvestre,220000.0,ogc nice
+333,Amine Gouiri,33000000.0,ogc nice
+334,Kasper Dolberg,22000000.0,ogc nice
+336,Evann Guessand,2200000.0,ogc nice
+337,Alexandre Oukidja,2750000.0,fc metz
+338,Marc-Aurèle Caillard,1100000.0,fc metz
+341,Dylan Bronn,6600000.0,fc metz
+342,Kiki Kouyaté,6600000.0,fc metz
+343,John Boye,880000.0,fc metz
+344,Lenny Lacroix,550000.0,fc metz
+346,Thomas Delaine,1980000.0,fc metz
+347,Manuel Cabit,330000.0,fc metz
+348,Fabien Centonze,8800000.0,fc metz
+349,Laurent Jans,660000.0,fc metz
+350,William Mikelbrencis,220000.0,fc metz
+351,Ernest Boahene,165000.0,fc metz
+352,Pape Sarr,11000000.0,fc metz
+353,Habib Maïga,6050000.0,fc metz
+354,Mamadou Fofana,3080000.0,fc metz
+355,Kévin N'Doram,2750000.0,fc metz
+356,Vincent Pajot,1650000.0,fc metz
+357,Victorien Angban,3850000.0,fc metz
+358,Boubacar Traoré,165000.0,fc metz
+359,Warren Tchimbembé,1650000.0,fc metz
+360,Youssef Maziz,880000.0,fc metz
+361,Opa Nguette,4950000.0,fc metz
+364,Farid Boulaya,6050000.0,fc metz
+365,Vagner,3850000.0,fc metz
+366,Lamine Gueye,3300000.0,fc metz
+367,Papa Ndiaga Yade,3300000.0,fc metz
+368,Habib Diallo,11000000.0,fc metz
+369,Ibrahima Niane,9900000.0,fc metz
+372,Etienne Green,3850000.0,as saint etienne
+373,Stefan Bajic,1100000.0,as saint etienne
+374,Jessy Moulin,660000.0,as saint etienne
+375,Boubacar Fall,330000.0,as saint etienne
+378,Pape Abou Cissé,6600000.0,as saint etienne
+379,Harold Moukoudi,5500000.0,as saint etienne
+380,Panagiotis Retsos,4950000.0,as saint etienne
+381,Timothée Kolodziejczak,4400000.0,as saint etienne
+382,Saïdou Sow,2750000.0,as saint etienne
+383,Marvin Tshibuabua,385000.0,as saint etienne
+384,Rayan Souici,165000.0,as saint etienne
+385,Abdoulaye Bakayoko,165000.0,as saint etienne
+386,Yvann Maçon,3300000.0,as saint etienne
+388,Gabriel Silva,1650000.0,as saint etienne
+389,Mathieu Debuchy,1650000.0,as saint etienne
+390,Alpha Sissoko,880000.0,as saint etienne
+391,Baptiste Gabard,275000.0,as saint etienne
+392,Yann M'Vila,5500000.0,as saint etienne
+393,Yvan Neyou,5500000.0,as saint etienne
+394,Assane Dioussé,1210000.0,as saint etienne
+395,Lucas Gourna-Douath,13200000.0,as saint etienne
+396,Mahdi Camara,5500000.0,as saint etienne
+397,Zaydou Youssouf,5500000.0,as saint etienne
+398,Aimen Moueffek,2200000.0,as saint etienne
+400,Adil Aouchiche,11000000.0,as saint etienne
+402,Bilal Benkhedim,1100000.0,as saint etienne
+403,Denis Bouanga,9900000.0,as saint etienne
+404,Arnaud Nordin,5500000.0,as saint etienne
+405,Kévin Monnet-Paquet,990000.0,as saint etienne
+406,Abdoulaye Sidibé,330000.0,as saint etienne
+407,Maxence Rivera,2750000.0,as saint etienne
+408,Tyrone Tormin,385000.0,as saint etienne
+409,Wahbi Khazri,4950000.0,as saint etienne
+410,Charles Abi,3300000.0,as saint etienne
+412,Romain Hamouma,1650000.0,as saint etienne
+413,Jean-Philippe Krasso,990000.0,as saint etienne
+415,Benoît Costil,3080000.0,fc girondins bordeaux
+416,Gaëtan Poussin,1100000.0,fc girondins bordeaux
+417,Pablo,9900000.0,fc girondins bordeaux
+418,Laurent Koscielny,3850000.0,fc girondins bordeaux
+419,Vukasin Jovanovic,1650000.0,fc girondins bordeaux
+420,Mexer,1320000.0,fc girondins bordeaux
+421,Paul Baysse,1100000.0,fc girondins bordeaux
+422,Loïc Bessile,220000.0,fc girondins bordeaux
+424,Loris Benito,3300000.0,fc girondins bordeaux
+426,Youssouf Sabaly,7150000.0,fc girondins bordeaux
+427,Enock Kwateng,3520000.0,fc girondins bordeaux
+428,Ismaël Sow,220000.0,fc girondins bordeaux
+429,Otávio,7700000.0,fc girondins bordeaux
+431,Toma Basic,9900000.0,fc girondins bordeaux
+432,Jean Michaël Seri,4400000.0,fc girondins bordeaux
+433,Rubén Pardo,2640000.0,fc girondins bordeaux
+434,Tom Lacoux,880000.0,fc girondins bordeaux
+435,Issouf Sissokho,440000.0,fc girondins bordeaux
+436,Ibrahim Diarra,330000.0,fc girondins bordeaux
+437,Yacine Adli,9900000.0,fc girondins bordeaux
+438,Hatem Ben Arfa,3300000.0,fc girondins bordeaux
+439,Logan Delaurier-Chaubet,220000.0,fc girondins bordeaux
+441,Rémi Oudin,7700000.0,fc girondins bordeaux
+443,Amadou Traoré,880000.0,fc girondins bordeaux
+444,Josh Maja,5500000.0,fc girondins bordeaux
+445,Ui-jo Hwang,5500000.0,fc girondins bordeaux
+446,Nicolas de Préville,3300000.0,fc girondins bordeaux
+447,Alexandre Mendy,1650000.0,fc girondins bordeaux
+448,Jimmy Briand,1210000.0,fc girondins bordeaux
+449,Sékou Mara,880000.0,fc girondins bordeaux
+450,Dilane Bakwa,770000.0,fc girondins bordeaux
+451,Paul Bernardoni,11000000.0,sco angers
+452,Danijel Petkovic,770000.0,sco angers
+453,Ludovic Butelle,275000.0,sco angers
+454,Romain Thomas,1980000.0,sco angers
+455,Mateo Pavlovic,1100000.0,sco angers
+456,Ismaël Traoré,1100000.0,sco angers
+457,Kévin Boma,330000.0,sco angers
+460,Rayan Aït Nouri,19800000.0,sco angers
+461,Souleyman Doumbia,2750000.0,sco angers
+463,Oussama Falouh,55000.0,sco angers
+464,Abdoulaye Bamba,1320000.0,sco angers
+465,Vincent Manceau,1320000.0,sco angers
+466,Baptiste Santamaria,16500000.0,sco angers
+467,Ibrahim Amadou,5500000.0,sco angers
+469,Angelo Fulgini,13200000.0,sco angers
+470,Antonin Bobichon,2750000.0,sco angers
+471,Lassana Coulibaly,2200000.0,sco angers
+472,Thomas Mangani,1100000.0,sco angers
+473,Mathias Pereira Lage,3850000.0,sco angers
+474,Pierrick Capelle,880000.0,sco angers
+475,Waniss Taïbi,330000.0,sco angers
+476,Sofiane Boufal,5500000.0,sco angers
+477,Casimir Ninga,1430000.0,sco angers
+478,Thomas Touré,550000.0,sco angers
+479,Mohamed-Ali Cho,4400000.0,sco angers
+480,Sada Thioub,3850000.0,sco angers
+481,Jimmy Cabot,2200000.0,sco angers
+482,Farid El Melali,1760000.0,sco angers
+483,Noah Fatar,330000.0,sco angers
+484,Stéphane Bahoken,7150000.0,sco angers
+485,Rachid Alioui,2750000.0,sco angers
+486,Loïs Diony,2750000.0,sco angers
+487,Wilfried Kanga,440000.0,sco angers
+488,Yassin Fortuné,220000.0,sco angers
+489,Predrag Rajkovic,9900000.0,stade reims
+490,Yehvann Diouf,550000.0,stade reims
+492,Dialy Ndiaye,165000.0,stade reims
+493,Wout Faes,7700000.0,stade reims
+494,Dario Maresic,3300000.0,stade reims
+495,Yunis Abdelhamid,2750000.0,stade reims
+499,Thibault De Smet,880000.0,stade reims
+500,Thomas Foket,6600000.0,stade reims
+501,Fodé Doucouré,550000.0,stade reims
+502,Xavier Chavalerin,4400000.0,stade reims
+504,Dion Lopy,880000.0,stade reims
+505,Mouhamadou Drammeh,440000.0,stade reims
+506,Valon Berisha,3850000.0,stade reims
+507,Moreto Cassamá,3300000.0,stade reims
+508,Tristan Dingomé,1430000.0,stade reims
+509,Mathieu Cafaro,7700000.0,stade reims
+510,Moïse Sakava,165000.0,stade reims
+511,Nathanaël Mbuku,9900000.0,stade reims
+514,Dereck Kutesa,2200000.0,stade reims
+515,Hugo Ekitike,660000.0,stade reims
+517,Boulaye Dia,15400000.0,stade reims
+518,El Bilal Touré,8800000.0,stade reims
+519,Kaj Sierhuis,3300000.0,stade reims
+520,Fraser Hornby,1380000.0,stade reims
+521,Anastasios Donis,1100000.0,stade reims
+522,Timothé Nkada,330000.0,stade reims
+523,Matz Sels,7150000.0,rc strasbourg alsace
+524,Bingourou Kamara,880000.0,rc strasbourg alsace
+525,Eiji Kawashima,385000.0,rc strasbourg alsace
+526,Alexandre Pierre,165000.0,rc strasbourg alsace
+527,Mohamed Simakan,19800000.0,rc strasbourg alsace
+528,Alexander Djiku,7150000.0,rc strasbourg alsace
+529,Stefan Mitrovic,2420000.0,rc strasbourg alsace
+530,Lamine Koné,1320000.0,rc strasbourg alsace
+531,Marvin Elimbi Gilbert,165000.0,rc strasbourg alsace
+532,Anthony Caci,5500000.0,rc strasbourg alsace
+533,Lionel Carole,2200000.0,rc strasbourg alsace
+534,Frédéric Guilbert,6600000.0,rc strasbourg alsace
+535,Kenny Lala,4950000.0,rc strasbourg alsace
+536,Ismaël Aaneba,990000.0,rc strasbourg alsace
+539,Jean-Eudes Aholou,4400000.0,rc strasbourg alsace
+540,Mahamé Siby,330000.0,rc strasbourg alsace
+542,Sanjin Prcic,2200000.0,rc strasbourg alsace
+543,Dimitri Liénard,1100000.0,rc strasbourg alsace
+544,Benjamin Besic,220000.0,rc strasbourg alsace
+545,Jean-Ricner Bellegarde,6050000.0,rc strasbourg alsace
+546,Adrien Thomasson,6600000.0,rc strasbourg alsace
+547,Adrien Lebeau,165000.0,rc strasbourg alsace
+548,Noé Sommer,165000.0,rc strasbourg alsace
+550,Mehdi Chahiri,1650000.0,rc strasbourg alsace
+551,Ludovic Ajorque,13200000.0,rc strasbourg alsace
+552,Habib Diallo,11000000.0,rc strasbourg alsace
+553,Majeed Waris,2200000.0,rc strasbourg alsace
+554,Lebo Mothiba,2200000.0,rc strasbourg alsace
+556,Idriss Saadi,880000.0,rc strasbourg alsace
+557,Paul Nardi,1980000.0,fc lorient
+558,Matthieu Dreyer,660000.0,fc lorient
+560,Thomas Callens,165000.0,fc lorient
+561,Andreaw Gravillon,6600000.0,fc lorient
+562,Julien Laporte,2750000.0,fc lorient
+564,Thomas Fontaine,1100000.0,fc lorient
+565,Jérémy Morel,440000.0,fc lorient
+566,Matthieu Saunier,275000.0,fc lorient
+567,Loris Mouyokolo,220000.0,fc lorient
+568,Vincent Le Goff,1320000.0,fc lorient
+569,Yoann Etienne,715000.0,fc lorient
+570,Houboulang Mendes,1320000.0,fc lorient
+571,Jérôme Hergault,330000.0,fc lorient
+572,Joris Mendy,110000.0,fc lorient
+573,Sylvain Marveaux,550000.0,fc lorient
+575,Laurent Abergel,2750000.0,fc lorient
+576,Thomas Monconduit,2200000.0,fc lorient
+577,Franklin Wadja,990000.0,fc lorient
+578,Fabien Lemoine,880000.0,fc lorient
+579,Malamine Doumbouya,330000.0,fc lorient
+580,Jonathan Delaplace,358000.0,fc lorient
+581,Enzo Le Fée,5500000.0,fc lorient
+582,Quentin Boisgard,2750000.0,fc lorient
+583,Yoane Wissa,11000000.0,fc lorient
+584,Armand Laurienté,6600000.0,fc lorient
+588,Adrian Grbic,5500000.0,fc lorient
+591,Gautier Larsonneur,7700000.0,stade brest 29
+592,Sébastien Cibois,440000.0,stade brest 29
+593,Mouez Hassen,440000.0,stade brest 29
+594,Jean-Kevin Duverne,3850000.0,stade brest 29
+595,Christophe Hérelle,3850000.0,stade brest 29
+597,Lilian Brassier,2750000.0,stade brest 29
+598,Denys Bain,1650000.0,stade brest 29
+599,Romain Perraud,8800000.0,stade brest 29
+600,Ludovic Baal,358000.0,stade brest 29
+601,Ronaël Pierre-Gabriel,4400000.0,stade brest 29
+602,Julien Faussurier,440000.0,stade brest 29
+603,Ibrahima Diallo,16500000.0,stade brest 29
+607,Haris Belkebla,2750000.0,stade brest 29
+608,Hianga'a Mbock,2200000.0,stade brest 29
+611,Ferris N'Goma,605000.0,stade brest 29
+612,Killian Benvindo,165000.0,stade brest 29
+613,Romain Faivre,14300000.0,stade brest 29
+615,Djibril Bangoura,165000.0,stade brest 29
+616,Romain Philippoteaux,770000.0,stade brest 29
+617,Franck Honorat,7700000.0,stade brest 29
+618,Heriberto Tavares,1320000.0,stade brest 29
+619,Irvin Cardona,7700000.0,stade brest 29
+621,Gaëtan Charbonnier,1980000.0,stade brest 29
+622,Jérémy Le Douaron,1320000.0,stade brest 29
+623,Alban Lafont,11000000.0,fc nantes
+626,Andrei Girotto,4400000.0,fc nantes
+627,Jean-Charles Castelletto,2750000.0,fc nantes
+628,Thomas Basila,1980000.0,fc nantes
+630,Anthony Walongwa,358000.0,fc nantes
+632,Charles Traoré,2200000.0,fc nantes
+633,Sébastien Corchia,2200000.0,fc nantes
+634,Fábio,1980000.0,fc nantes
+635,Dennis Appiah,1980000.0,fc nantes
+636,Abdoulaye Touré,4400000.0,fc nantes
+637,Pedro Chirivella,3520000.0,fc nantes
+638,Batista Mendy,550000.0,fc nantes
+639,Imrân Louza,13200000.0,fc nantes
+640,Mehdi Abeid,2200000.0,fc nantes
+641,Samuel Moutoussamy,825000.0,fc nantes
+642,Ludovic Blas,14300000.0,fc nantes
+644,Moses Simon,7700000.0,fc nantes
+645,Anthony Limbombe,2200000.0,fc nantes
+646,Marcus Coco,3080000.0,fc nantes
+647,Abdoul Kader Bamba,2200000.0,fc nantes
+648,Randal Kolo Muani,9900000.0,fc nantes
+649,Jean-Kévin Augustin,2750000.0,fc nantes
+650,Kalifa Coulibaly,2200000.0,fc nantes
+652,Élie Youan,1100000.0,fc nantes
+654,Quentin Merlin,220000.0,fc nantes
+655,Baptiste Reynet,2200000.0,nimes olympique
+656,Lucas Dias,660000.0,nimes olympique
+657,Amjhad Nazih,220000.0,nimes olympique
+658,Anthony Briancon,2750000.0,nimes olympique
+660,Pablo Martinez,1100000.0,nimes olympique
+661,Naomichi Ueda,880000.0,nimes olympique
+662,Kelyan Guessoum,550000.0,nimes olympique
+663,Birger Meling,3850000.0,nimes olympique
+664,Florian Miguel,1980000.0,nimes olympique
+665,Patrick Burner,2200000.0,nimes olympique
+666,Sofiane Alakouch,2200000.0,nimes olympique
+667,Gaëtan Paquiez,1100000.0,nimes olympique
+668,Andrés Cubas,3850000.0,nimes olympique
+669,Sidy Sarr,1650000.0,nimes olympique
+670,Lucas Deaux,1320000.0,nimes olympique
+671,Mattéo Ahlinvi,1100000.0,nimes olympique
+672,Adilson Malanda,165000.0,nimes olympique
+674,Antoine Valério,220000.0,nimes olympique
+675,Zinedine Ferhat,8800000.0,nimes olympique
+676,Renaud Ripart,5500000.0,nimes olympique
+677,Lucas Buades,330000.0,nimes olympique
+678,Niclas Eliasson,3300000.0,nimes olympique
+679,Haris Duljevic,880000.0,nimes olympique
+680,Yassine Benrahou,2750000.0,nimes olympique
+681,Mahamadou Doucouré,165000.0,nimes olympique
+682,Romain Philippoteaux,770000.0,nimes olympique
+683,Marco Majouga,550000.0,nimes olympique
+684,Moussa Koné,4400000.0,nimes olympique
+685,Kévin Denkey,2420000.0,nimes olympique
+686,Karim Aribi,880000.0,nimes olympique
+687,Nolan Roux,880000.0,nimes olympique
+688,Clément Depres,660000.0,nimes olympique
+689,Sami Ben Amar,385000.0,nimes olympique
+690,Nassim Chadli,275000.0,nimes olympique
+691,Alfred Gomis,7700000.0,dijon fco
+692,Rúnar Alex Rúnarsson,1650000.0,dijon fco
+693,Anthony Racioppi,1650000.0,dijon fco
+694,Saturnin Allagbé,1320000.0,dijon fco
+695,Lévi Ntumba,330000.0,dijon fco
+696,Jonathan Panzo,4400000.0,dijon fco
+697,Bruno Ecuele Manga,1320000.0,dijon fco
+698,Senou Coulibaly,1100000.0,dijon fco
+699,Wesley Lautoa,550000.0,dijon fco
+700,Bogdan Racovitan,28000.0,dijon fco
+701,Arthur Zagre,2750000.0,dijon fco
+703,Ngonda Muzinga,1100000.0,dijon fco
+704,Sacha Boey,2750000.0,dijon fco
+705,Fouad Chafik,550000.0,dijon fco
+706,Ahmad Ngouyamsa,275000.0,dijon fco
+707,Wilitty Younoussa,275000.0,dijon fco
+709,Didier Ndong,2750000.0,dijon fco
+710,Romain Amalfitano,1320000.0,dijon fco
+711,Jordan Marié,880000.0,dijon fco
+712,Bersant Celina,3300000.0,dijon fco
+713,Yassine Benzia,1760000.0,dijon fco
+714,Amir Arli,440000.0,dijon fco
+716,Mounir Chouiar,6600000.0,dijon fco
+717,Alexandru Dobre,1100000.0,dijon fco
+718,Junior Dina Ebimbe,6600000.0,dijon fco
+719,Mama Baldé,4950000.0,dijon fco
+722,Moussa Konaté,2750000.0,dijon fco
+724,Aboubakar Kamara,2200000.0,dijon fco
+725,Aurélien Scheidler,1100000.0,dijon fco
+726,Rayan Philippe,770000.0,dijon fco
+727,Jacques Siwe,440000.0,dijon fco

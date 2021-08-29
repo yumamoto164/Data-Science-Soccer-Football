@@ -1,0 +1,801 @@
+,Players,Values,Team
+0,Ederson,$55.00m  ,manchester city
+1,Zack Steffen,$6.60m  ,manchester city
+2,Scott Carson,$330Th.  ,manchester city
+3,James Trafford,0,manchester city
+4,Rúben Dias,$82.50m  ,manchester city
+5,Aymeric Laporte,$49.50m  ,manchester city
+6,Nathan Aké,$35.20m  ,manchester city
+7,John Stones,$33.00m  ,manchester city
+8,Eric García,$22.00m  ,manchester city
+9,Nicolás Otamendi,$8.80m  ,manchester city
+10,Taylor Harwood-Bellis,$3.30m  ,manchester city
+11,Philippe Sandler,$2.75m  ,manchester city
+12,Luke Mbete,0,manchester city
+13,Oleksandr Zinchenko,$27.50m  ,manchester city
+14,Benjamin Mendy,$22.00m  ,manchester city
+15,João Cancelo,$60.50m  ,manchester city
+16,Kyle Walker,$30.80m  ,manchester city
+17,Rodri,$77.00m  ,manchester city
+18,Fernandinho,$2.20m  ,manchester city
+19,Claudio Gomes,$495Th.  ,manchester city
+20,Ilkay Gündogan,$44.00m  ,manchester city
+21,Adrián Bernabé,$2.53m  ,manchester city
+22,Tommy Doyle,$1.10m  ,manchester city
+23,Kevin De Bruyne,$110.00m  ,manchester city
+24,Bernardo Silva,$77.00m  ,manchester city
+25,Cole Palmer,$550Th.  ,manchester city
+26,Felix Nmecha,$495Th.  ,manchester city
+27,Raheem Sterling,$99.00m  ,manchester city
+28,Phil Foden,$88.00m  ,manchester city
+29,Jack Harrison,$16.50m  ,manchester city
+30,Ferran Torres,$55.00m  ,manchester city
+31,Riyad Mahrez,$46.20m  ,manchester city
+32,Patrick Roberts,$2.20m  ,manchester city
+33,Gabriel Jesus,$66.00m  ,manchester city
+34,Sergio Agüero,$19.80m  ,manchester city
+35,Liam Delap,$1.10m  ,manchester city
+36,Dean Henderson,$24.20m  ,manchester united
+37,David de Gea,$19.80m  ,manchester united
+38,Sergio Romero,$1.10m  ,manchester united
+39,Joel Pereira,$330Th.  ,manchester united
+40,Nathan Bishop,$330Th.  ,manchester united
+41,Lee Grant,$275Th.  ,manchester united
+42,Harry Maguire,$49.50m  ,manchester united
+43,Victor Lindelöf,$26.40m  ,manchester united
+44,Eric Bailly,$16.50m  ,manchester united
+45,Axel Tuanzebe,$8.80m  ,manchester united
+46,Phil Jones,$5.50m  ,manchester united
+47,Teden Mengi,$1.65m  ,manchester united
+48,Will Fish,$550Th.  ,manchester united
+49,Luke Shaw,$38.50m  ,manchester united
+50,Alex Telles,$22.00m  ,manchester united
+51,Aaron Wan-Bissaka,$44.00m  ,manchester united
+52,Diogo Dalot,$11.00m  ,manchester united
+53,Brandon Williams,$11.00m  ,manchester united
+54,Timothy Fosu-Mensah,$4.40m  ,manchester united
+55,Nemanja Matic,$8.80m  ,manchester united
+56,Paul Pogba,$66.00m  ,manchester united
+57,Scott McTominay,$38.50m  ,manchester united
+58,Donny van de Beek,$33.00m  ,manchester united
+59,Fred,$24.20m  ,manchester united
+60,Ethan Galbraith,$990Th.  ,manchester united
+61,Bruno Fernandes,$99.00m  ,manchester united
+62,Jesse Lingard,$24.20m  ,manchester united
+63,Juan Mata,$4.40m  ,manchester united
+64,Hannibal Mejbri,$3.30m  ,manchester united
+65,Marcus Rashford,$93.50m  ,manchester united
+66,Daniel James,$19.80m  ,manchester united
+67,Shola Shoretire,$3.30m  ,manchester united
+68,Anthony Elanga,$880Th.  ,manchester united
+69,Mason Greenwood,$55.00m  ,manchester united
+70,Amad Diallo,$19.80m  ,manchester united
+71,Facundo Pellistri,$6.60m  ,manchester united
+72,Anthony Martial,$49.50m  ,manchester united
+73,Edinson Cavani,$6.60m  ,manchester united
+74,Odion Ighalo,$3.85m  ,manchester united
+75,Alisson,$66.00m  ,liverpool fc
+76,Caoimhin Kelleher,$2.75m  ,liverpool fc
+77,Adrián,$1.10m  ,liverpool fc
+78,Vitezslav Jaros,0,liverpool fc
+79,Liam Hughes,0,liverpool fc
+80,Jakub Ojrzynski,0,liverpool fc
+81,Harvey Davies,0,liverpool fc
+82,Virgil van Dijk,$60.50m  ,liverpool fc
+83,Joe Gomez,$33.00m  ,liverpool fc
+84,Ozan Kabak,$27.50m  ,liverpool fc
+85,Joel Matip,$19.80m  ,liverpool fc
+86,Nathaniel Phillips,$8.80m  ,liverpool fc
+87,Rhys Williams,$5.50m  ,liverpool fc
+88,Ben Davies,$3.30m  ,liverpool fc
+89,Sepp van den Berg,$2.75m  ,liverpool fc
+90,Billy Koumetio,$550Th.  ,liverpool fc
+91,Andrew Robertson,$71.50m  ,liverpool fc
+92,Konstantinos Tsimikas,$8.80m  ,liverpool fc
+93,Trent Alexander-Arnold,$82.50m  ,liverpool fc
+94,Neco Williams,$8.80m  ,liverpool fc
+95,Fabinho,$66.00m  ,liverpool fc
+96,Leighton Clarkson,$165Th.  ,liverpool fc
+97,Naby Keïta,$35.20m  ,liverpool fc
+98,Georginio Wijnaldum,$33.00m  ,liverpool fc
+99,Thiago,$33.00m  ,liverpool fc
+100,Curtis Jones,$33.00m  ,liverpool fc
+101,Jordan Henderson,$22.00m  ,liverpool fc
+102,Alex Oxlade-Chamberlain,$19.80m  ,liverpool fc
+103,Marko Grujic,$16.50m  ,liverpool fc
+104,James Milner,$3.30m  ,liverpool fc
+105,Jake Cain,0,liverpool fc
+106,Ben Woodburn,$2.20m  ,liverpool fc
+107,Sadio Mané,$93.50m  ,liverpool fc
+108,Diogo Jota,$49.50m  ,liverpool fc
+109,Takumi Minamino,$13.20m  ,liverpool fc
+110,Mohamed Salah,$110.00m  ,liverpool fc
+111,Harry Wilson,$18.70m  ,liverpool fc
+112,Harvey Elliott,$16.50m  ,liverpool fc
+113,Xherdan Shaqiri,$13.20m  ,liverpool fc
+114,Sheyi Ojo,$3.30m  ,liverpool fc
+115,Roberto Firmino,$55.00m  ,liverpool fc
+116,Rhian Brewster,$13.20m  ,liverpool fc
+117,Divock Origi,$13.20m  ,liverpool fc
+118,Edouard Mendy,$27.50m  ,chelsea fc
+119,Kepa,$14.30m  ,chelsea fc
+120,Jamal Blackman,$660Th.  ,chelsea fc
+121,Nathan Baxter,$330Th.  ,chelsea fc
+122,Willy Caballero,$275Th.  ,chelsea fc
+123,Karlo Ziger,$165Th.  ,chelsea fc
+124,Kurt Zouma,$35.20m  ,chelsea fc
+125,Andreas Christensen,$33.00m  ,chelsea fc
+126,Fikayo Tomori,$30.80m  ,chelsea fc
+127,Antonio Rüdiger,$30.80m  ,chelsea fc
+128,Ethan Ampadu,$16.50m  ,chelsea fc
+129,Thiago Silva,$3.30m  ,chelsea fc
+130,Jake Clarke-Salter,$2.20m  ,chelsea fc
+131,Ben Chilwell,$49.50m  ,chelsea fc
+132,Marcos Alonso,$13.20m  ,chelsea fc
+133,Emerson,$13.20m  ,chelsea fc
+134,Reece James,$44.00m  ,chelsea fc
+135,César Azpilicueta,$14.30m  ,chelsea fc
+136,N'Golo Kanté,$60.50m  ,chelsea fc
+137,Jorginho,$44.00m  ,chelsea fc
+138,Mateo Kovacic,$49.50m  ,chelsea fc
+139,Ross Barkley,$22.00m  ,chelsea fc
+140,Ruben Loftus-Cheek,$19.80m  ,chelsea fc
+141,Conor Gallagher,$16.50m  ,chelsea fc
+142,Billy Gilmour,$11.00m  ,chelsea fc
+143,Lewis Bate,0,chelsea fc
+144,Valentino Livramento,0,chelsea fc
+145,Mason Mount,$82.50m  ,chelsea fc
+146,Kai Havertz,$77.00m  ,chelsea fc
+147,Hakim Ziyech,$41.80m  ,chelsea fc
+148,Faustino Anjorin,$2.53m  ,chelsea fc
+149,Charly Musonda Jr.,$1.10m  ,chelsea fc
+150,Callum Hudson-Odoi,$35.20m  ,chelsea fc
+151,Christian Pulisic,$55.00m  ,chelsea fc
+152,Izzy Brown,$1.76m  ,chelsea fc
+153,Timo Werner,$71.50m  ,chelsea fc
+154,Tammy Abraham,$41.80m  ,chelsea fc
+155,Michy Batshuayi,$11.00m  ,chelsea fc
+156,Olivier Giroud,$4.40m  ,chelsea fc
+157,Kasper Schmeichel,$6.60m  ,leicester city
+158,Danny Ward,$6.60m  ,leicester city
+159,Eldin Jakupovic,$330Th.  ,leicester city
+160,Jakub Stolarczyk,0,leicester city
+161,Caglar Söyüncü,$49.50m  ,leicester city
+162,Wesley Fofana,$44.00m  ,leicester city
+163,Jonny Evans,$7.70m  ,leicester city
+164,Josh Knight,$660Th.  ,leicester city
+165,Wes Morgan,$440Th.  ,leicester city
+166,Ben Nelson,0,leicester city
+167,Sam Hughes,0,leicester city
+168,Luke Thomas,$5.50m  ,leicester city
+169,Christian Fuchs,$880Th.  ,leicester city
+170,Shane Flynn,0,leicester city
+171,Ricardo Pereira,$33.00m  ,leicester city
+172,Timothy Castagne,$30.80m  ,leicester city
+173,James Justin,$18.70m  ,leicester city
+174,Vontae Daley-Campbell,$220Th.  ,leicester city
+175,Wilfred Ndidi,$66.00m  ,leicester city
+176,Nampalys Mendy,$8.80m  ,leicester city
+177,Daniel Amartey,$5.50m  ,leicester city
+178,Kiernan Dewsbury-Hall,$2.20m  ,leicester city
+179,Youri Tielemans,$60.50m  ,leicester city
+180,Dennis Praet,$19.80m  ,leicester city
+181,Hamza Choudhury,$7.70m  ,leicester city
+182,Matty James,$1.10m  ,leicester city
+183,Sidnei Tavares,$330Th.  ,leicester city
+184,Thakgalo Leshabela,$110Th.  ,leicester city
+185,Marc Albrighton,$4.40m  ,leicester city
+186,Harvey Barnes,$38.50m  ,leicester city
+187,James Maddison,$60.50m  ,leicester city
+188,Thanawat Suengchitthawon,0,leicester city
+189,Ethan Fitzhugh,0,leicester city
+190,Demarai Gray,$8.80m  ,leicester city
+191,Cengiz Ünder,$19.80m  ,leicester city
+192,Tawanda Maswanhise,0,leicester city
+193,Ayoze Pérez,$19.80m  ,leicester city
+194,Kelechi Iheanacho,$22.00m  ,leicester city
+195,Jamie Vardy,$7.70m  ,leicester city
+196,Islam Slimani,$3.30m  ,leicester city
+197,Lukasz Fabianski,$1.65m  ,west ham united
+198,Darren Randolph,$1.65m  ,west ham united
+199,Nathan Trott,$275Th.  ,west ham united
+200,David Martin,$275Th.  ,west ham united
+201,Issa Diop,$19.80m  ,west ham united
+202,Fabián Balbuena,$5.50m  ,west ham united
+203,Craig Dawson,$3.30m  ,west ham united
+204,Angelo Ogbonna,$2.75m  ,west ham united
+205,Winston Reid,$1.65m  ,west ham united
+206,Frederik Alves,$1.10m  ,west ham united
+207,Jamal Baptiste,$220Th.  ,west ham united
+208,Aji Alese,0,west ham united
+209,Arthur Masuaku,$7.70m  ,west ham united
+210,Aaron Cresswell,$5.50m  ,west ham united
+211,Emmanuel Longelo,$165Th.  ,west ham united
+212,Vladimir Coufal,$13.20m  ,west ham united
+213,Ben Johnson,$3.30m  ,west ham united
+214,Ryan Fredericks,$2.75m  ,west ham united
+215,Harrison Ashby,$330Th.  ,west ham united
+216,Declan Rice,$71.50m  ,west ham united
+217,Tomas Soucek,$44.00m  ,west ham united
+218,Conor Coventry,$220Th.  ,west ham united
+219,Josh Cullen,$3.30m  ,west ham united
+220,Jack Wilshere,$2.75m  ,west ham united
+221,Mark Noble,$2.20m  ,west ham united
+222,Jesse Lingard,$24.20m  ,west ham united
+223,Pablo Fornals,$19.80m  ,west ham united
+224,Manuel Lanzini,$11.00m  ,west ham united
+225,Saïd Benrahma,$24.20m  ,west ham united
+226,Felipe Anderson,$11.00m  ,west ham united
+227,Nathan Holland,0,west ham united
+228,Jarrod Bowen,$33.00m  ,west ham united
+229,Andriy Yarmolenko,$4.40m  ,west ham united
+230,Robert Snodgrass,$1.65m  ,west ham united
+231,Xande Silva,$880Th.  ,west ham united
+232,Sébastien Haller,$29.70m  ,west ham united
+233,Michail Antonio,$13.20m  ,west ham united
+234,Ademipo Odubeko,$275Th.  ,west ham united
+235,Oladapo Afolayan,0,west ham united
+236,Hugo Lloris,$9.90m  ,tottenham hotspur
+237,Paulo Gazzaniga,$3.30m  ,tottenham hotspur
+238,Joe Hart,$2.20m  ,tottenham hotspur
+239,Alfie Whiteman,$1.10m  ,tottenham hotspur
+240,Brandon Austin,$275Th.  ,tottenham hotspur
+241,Davinson Sánchez,$35.20m  ,tottenham hotspur
+242,Eric Dier,$24.20m  ,tottenham hotspur
+243,Toby Alderweireld,$12.10m  ,tottenham hotspur
+244,Joe Rodon,$11.00m  ,tottenham hotspur
+245,Japhet Tanganga,$8.80m  ,tottenham hotspur
+246,Cameron Carter-Vickers,$2.20m  ,tottenham hotspur
+247,Sergio Reguilón,$27.50m  ,tottenham hotspur
+248,Ryan Sessegnon,$19.80m  ,tottenham hotspur
+249,Ben Davies,$17.60m  ,tottenham hotspur
+250,Danny Rose,$3.30m  ,tottenham hotspur
+251,Dennis Cirkin,0,tottenham hotspur
+252,Serge Aurier,$22.00m  ,tottenham hotspur
+253,Matt Doherty,$17.60m  ,tottenham hotspur
+254,Marcel Lavinier,$220Th.  ,tottenham hotspur
+255,Harry Winks,$22.00m  ,tottenham hotspur
+256,Oliver Skipp,$11.00m  ,tottenham hotspur
+257,Harvey White,$660Th.  ,tottenham hotspur
+258,Jamie Bowden,0,tottenham hotspur
+259,Tanguy Ndombélé,$55.00m  ,tottenham hotspur
+260,Pierre-Emile Höjbjerg,$38.50m  ,tottenham hotspur
+261,Giovani Lo Celso,$29.70m  ,tottenham hotspur
+262,Gedson Fernandes,$13.75m  ,tottenham hotspur
+263,Moussa Sissoko,$11.00m  ,tottenham hotspur
+264,Alfie Devine,$550Th.  ,tottenham hotspur
+265,Dele Alli,$33.00m  ,tottenham hotspur
+266,Nile John,$220Th.  ,tottenham hotspur
+267,Heung-min Son,$93.50m  ,tottenham hotspur
+268,Steven Bergwijn,$24.20m  ,tottenham hotspur
+269,Lucas Moura,$27.50m  ,tottenham hotspur
+270,Gareth Bale,$19.80m  ,tottenham hotspur
+271,Erik Lamela,$17.60m  ,tottenham hotspur
+272,Jack Clarke,$5.50m  ,tottenham hotspur
+273,Dilan Markanday,0,tottenham hotspur
+274,Harry Kane,$132.00m  ,tottenham hotspur
+275,Carlos Vinícius,$19.80m  ,tottenham hotspur
+276,Dane Scarlett,$275Th.  ,tottenham hotspur
+277,Emiliano Martínez,$33.00m  ,arsenal fc
+278,Bernd Leno,$24.20m  ,arsenal fc
+279,Mathew Ryan,$6.60m  ,arsenal fc
+280,Rúnar Alex Rúnarsson,$1.65m  ,arsenal fc
+281,Karl Hein,$495Th.  ,arsenal fc
+282,Matt Macey,$330Th.  ,arsenal fc
+283,Dejan Iliev,$330Th.  ,arsenal fc
+284,James Hillson,0,arsenal fc
+285,Arthur Okonkwo,0,arsenal fc
+286,Gabriel,$27.50m  ,arsenal fc
+287,William Saliba,$19.80m  ,arsenal fc
+288,Rob Holding,$19.80m  ,arsenal fc
+289,Calum Chambers,$13.20m  ,arsenal fc
+290,Pablo Marí,$7.70m  ,arsenal fc
+291,David Luiz,$4.40m  ,arsenal fc
+292,Shkodran Mustafi,$2.75m  ,arsenal fc
+293,Kieran Tierney,$35.20m  ,arsenal fc
+294,Sead Kolasinac,$7.15m  ,arsenal fc
+295,Joel López,0,arsenal fc
+296,Héctor Bellerín,$27.50m  ,arsenal fc
+297,Cédric Soares,$6.60m  ,arsenal fc
+298,Thomas Partey,$44.00m  ,arsenal fc
+299,Granit Xhaka,$24.20m  ,arsenal fc
+300,Mohamed Elneny,$11.00m  ,arsenal fc
+301,Dani Ceballos,$29.70m  ,arsenal fc
+302,Joe Willock,$17.60m  ,arsenal fc
+303,Miguel Azeez,$550Th.  ,arsenal fc
+304,James Olayinka,0,arsenal fc
+305,Ainsley Maitland-Niles,$17.60m  ,arsenal fc
+306,Bukayo Saka,$71.50m  ,arsenal fc
+307,Martin Ødegaard,$44.00m  ,arsenal fc
+308,Emile Smith Rowe,$19.80m  ,arsenal fc
+309,Ben Cottrell,$220Th.  ,arsenal fc
+310,Gabriel Martinelli,$24.20m  ,arsenal fc
+311,Nicolas Pépé,$38.50m  ,arsenal fc
+312,Willian,$9.90m  ,arsenal fc
+313,Reiss Nelson,$9.90m  ,arsenal fc
+314,Alexandre Lacazette,$30.80m  ,arsenal fc
+315,Pierre-Emerick Aubameyang,$27.50m  ,arsenal fc
+316,Eddie Nketiah,$17.60m  ,arsenal fc
+317,Folarin Balogun,$4.40m  ,arsenal fc
+318,Tyreece John-Jules,0,arsenal fc
+319,Illan Meslier,$22.00m  ,leeds united
+320,Kiko Casilla,$880Th.  ,leeds united
+321,Elia Caprile,$220Th.  ,leeds united
+322,Diego Llorente,$22.00m  ,leeds united
+323,Robin Koch,$18.70m  ,leeds united
+324,Pascal Struijk,$9.90m  ,leeds united
+325,Liam Cooper,$7.70m  ,leeds united
+326,Oliver Casey,$275Th.  ,leeds united
+327,Charlie Cresswell,$220Th.  ,leeds united
+328,Ezgjan Alioski,$5.50m  ,leeds united
+329,Barry Douglas,$1.65m  ,leeds united
+330,Leif Davis,$880Th.  ,leeds united
+331,Luke Ayling,$5.50m  ,leeds united
+332,Stuart Dallas,$4.40m  ,leeds united
+333,Gaetano Berardi,$330Th.  ,leeds united
+334,Niall Huggins,$220Th.  ,leeds united
+335,Cody Drameh,0,leeds united
+336,Kalvin Phillips,$33.00m  ,leeds united
+337,Ouasim Bouy,$275Th.  ,leeds united
+338,Jack Jenkins,$165Th.  ,leeds united
+339,Mateusz Klich,$4.40m  ,leeds united
+340,Jamie Shackleton,$2.75m  ,leeds united
+341,Adam Forshaw,$2.20m  ,leeds united
+342,Mateusz Bogusz,$1.10m  ,leeds united
+343,Robbie Gotts,$275Th.  ,leeds united
+344,Eunan O'Kane,$220Th.  ,leeds united
+345,Alfie McCalmont,0,leeds united
+346,Jordan Stevens,$220Th.  ,leeds united
+347,Pablo Hernández,$880Th.  ,leeds united
+348,Jack Harrison,$16.50m  ,leeds united
+349,Raphinha,$33.00m  ,leeds united
+350,Hélder Costa,$11.00m  ,leeds united
+351,Crysencio Summerville,$1.65m  ,leeds united
+352,Ian Poveda,$1.65m  ,leeds united
+353,Rodrigo,$19.80m  ,leeds united
+354,Tyler Roberts,$6.60m  ,leeds united
+355,Patrick Bamford,$24.20m  ,leeds united
+356,Joe Gelhardt,$1.43m  ,leeds united
+357,Sam Greenwood,$220Th.  ,leeds united
+358,Jordan Pickford,$24.20m  ,everton fc
+359,Robin Olsen,$3.30m  ,everton fc
+360,Jonas Lössl,$1.65m  ,everton fc
+361,João Virgínia,$1.10m  ,everton fc
+362,Harry Tyrer,0,everton fc
+363,Zan-Luk Leban,0,everton fc
+364,Michael Keane,$27.50m  ,everton fc
+365,Ben Godfrey,$27.50m  ,everton fc
+366,Mason Holgate,$22.00m  ,everton fc
+367,Yerry Mina,$22.00m  ,everton fc
+368,Jarrad Branthwaite,$3.30m  ,everton fc
+369,Matthew Pennington,$660Th.  ,everton fc
+370,Ryan Astley,0,everton fc
+371,Reece Welch,0,everton fc
+372,Lucas Digne,$38.50m  ,everton fc
+373,Niels Nkounkou,$3.30m  ,everton fc
+374,Thierry Small,$110Th.  ,everton fc
+375,Jonjoe Kenny,$6.38m  ,everton fc
+376,Seamus Coleman,$5.50m  ,everton fc
+377,Kyle John,0,everton fc
+378,Jean-Philippe Gbamin,$16.50m  ,everton fc
+379,Muhamed Besic,$1.65m  ,everton fc
+380,Abdoulaye Doucouré,$27.50m  ,everton fc
+381,Allan,$24.20m  ,everton fc
+382,André Gomes,$22.00m  ,everton fc
+383,Tom Davies,$19.80m  ,everton fc
+384,Fabian Delph,$3.85m  ,everton fc
+385,Beni Baningime,$1.10m  ,everton fc
+386,Tyler Onyango,$220Th.  ,everton fc
+387,Isaac Price,0,everton fc
+388,James Rodríguez,$30.80m  ,everton fc
+389,Gylfi Sigurdsson,$14.30m  ,everton fc
+390,Alex Iwobi,$24.20m  ,everton fc
+391,Bernard,$13.20m  ,everton fc
+392,Anthony Gordon,$5.50m  ,everton fc
+393,Yannick Bolasie,$1.65m  ,everton fc
+394,Nathan Broadhead,$550Th.  ,everton fc
+395,Theo Walcott,$5.50m  ,everton fc
+396,Joshua King,$8.80m  ,everton fc
+397,Richarlison,$60.50m  ,everton fc
+398,Dominic Calvert-Lewin,$49.50m  ,everton fc
+399,Moise Kean,$38.50m  ,everton fc
+400,Cenk Tosun,$5.50m  ,everton fc
+401,Ellis Simms,0,everton fc
+402,Emiliano Martínez,$33.00m  ,aston villa
+403,Lovre Kalinic,$2.75m  ,aston villa
+404,Örjan Nyland,$1.10m  ,aston villa
+405,Tom Heaton,$1.10m  ,aston villa
+406,Jed Steer,$880Th.  ,aston villa
+407,Ákos Onódi,$165Th.  ,aston villa
+408,Oliwier Zych,$55Th.  ,aston villa
+409,Tyrone Mings,$33.00m  ,aston villa
+410,Ezri Konsa,$27.50m  ,aston villa
+411,Kortney Hause,$5.50m  ,aston villa
+412,Björn Engels,$3.30m  ,aston villa
+413,Dominic Revan,$165Th.  ,aston villa
+414,Mungo Bridge,$165Th.  ,aston villa
+415,Sil Swinkels,$165Th.  ,aston villa
+416,Matt Targett,$18.70m  ,aston villa
+417,Neil Taylor,$1.65m  ,aston villa
+418,Callum Rowe,$165Th.  ,aston villa
+419,Ben Chrisene,$165Th.  ,aston villa
+420,Matty Cash,$24.20m  ,aston villa
+421,Frédéric Guilbert,$6.60m  ,aston villa
+422,Ahmed Elmohamady,$1.65m  ,aston villa
+423,Kaine Kesler,$275Th.  ,aston villa
+424,Jake Walker,$165Th.  ,aston villa
+425,Frankie Ealing,0,aston villa
+426,Douglas Luiz,$38.50m  ,aston villa
+427,Marvelous Nakamba,$7.70m  ,aston villa
+428,Lamare Bogarde,$220Th.  ,aston villa
+429,Mamadou Sylla,$165Th.  ,aston villa
+430,Hayden Lindley,$165Th.  ,aston villa
+431,John McGinn,$33.00m  ,aston villa
+432,Ross Barkley,$22.00m  ,aston villa
+433,Morgan Sanson,$17.60m  ,aston villa
+434,Conor Hourihane,$3.85m  ,aston villa
+435,Henri Lansbury,$1.10m  ,aston villa
+436,Carney Chukwuemeka,$1.10m  ,aston villa
+437,Harrison Sohna,$165Th.  ,aston villa
+438,Arjan Raikhy,$165Th.  ,aston villa
+439,Edward Rowe,$165Th.  ,aston villa
+440,Taylor-Jay Hart,0,aston villa
+441,Jacob Ramsey,$5.50m  ,aston villa
+442,Michael Tait,0,aston villa
+443,Jack Grealish,$71.50m  ,aston villa
+444,Trezeguet,$11.00m  ,aston villa
+445,Jaden Philogene-Bidace,$550Th.  ,aston villa
+446,Bertrand Traoré,$22.00m  ,aston villa
+447,Anwar El Ghazi,$14.30m  ,aston villa
+448,Jota Peleteiro,$1.98m  ,aston villa
+449,Ollie Watkins,$35.20m  ,aston villa
+450,Wesley,$14.30m  ,aston villa
+451,Mbwana Samatta,$4.62m  ,aston villa
+452,Keinan Davis,$3.30m  ,aston villa
+453,Louie Barry,$1.10m  ,aston villa
+454,Brad Young,$165Th.  ,aston villa
+455,Freddie Woodman,$11.00m  ,newcastle united
+456,Martin Dubravka,$5.50m  ,newcastle united
+457,Karl Darlow,$3.30m  ,newcastle united
+458,Mark Gillespie,$440Th.  ,newcastle united
+459,Dan Langley,$275Th.  ,newcastle united
+460,Jamaal Lascelles,$14.30m  ,newcastle united
+461,Fabian Schär,$9.90m  ,newcastle united
+462,Ciaran Clark,$3.30m  ,newcastle united
+463,Federico Fernández,$3.30m  ,newcastle united
+464,Jamal Lewis,$16.50m  ,newcastle united
+465,Paul Dummett,$3.30m  ,newcastle united
+466,Matt Ritchie,$3.30m  ,newcastle united
+467,DeAndre Yedlin,$5.50m  ,newcastle united
+468,Emil Krafth,$3.85m  ,newcastle united
+469,Javier Manquillo,$3.30m  ,newcastle united
+470,Isaac Hayden,$11.00m  ,newcastle united
+471,Joe Willock,$17.60m  ,newcastle united
+472,Sean Longstaff,$16.50m  ,newcastle united
+473,Jonjo Shelvey,$14.30m  ,newcastle united
+474,Jeff Hendrick,$9.90m  ,newcastle united
+475,Matthew Longstaff,$5.50m  ,newcastle united
+476,Dan Barlaser,$1.32m  ,newcastle united
+477,Miguel Almirón,$17.60m  ,newcastle united
+478,Henri Saivet,$880Th.  ,newcastle united
+479,Elliot Anderson,$220Th.  ,newcastle united
+480,Allan Saint-Maximin,$33.00m  ,newcastle united
+481,Ryan Fraser,$11.00m  ,newcastle united
+482,Christian Atsu,$1.65m  ,newcastle united
+483,Jacob Murphy,$4.40m  ,newcastle united
+484,Callum Wilson,$24.20m  ,newcastle united
+485,Joelinton,$18.70m  ,newcastle united
+486,Dwight Gayle,$4.40m  ,newcastle united
+487,Andy Carroll,$1.65m  ,newcastle united
+488,Rui Patrício,$11.00m  ,wolverhampton wanderers
+489,John Ruddy,$880Th.  ,wolverhampton wanderers
+490,Andreas Söndergaard,$220Th.  ,wolverhampton wanderers
+491,Matija Sarkic,$110Th.  ,wolverhampton wanderers
+492,Conor Coady,$27.50m  ,wolverhampton wanderers
+493,Willy Boly,$15.40m  ,wolverhampton wanderers
+494,Romain Saïss,$11.00m  ,wolverhampton wanderers
+495,Max Kilman,$4.95m  ,wolverhampton wanderers
+496,Christian Marques,0,wolverhampton wanderers
+497,Nigel Lonwijk,0,wolverhampton wanderers
+498,Lewis Richards,0,wolverhampton wanderers
+499,Rayan Aït Nouri,$19.80m  ,wolverhampton wanderers
+500,Jonny Otto,$16.50m  ,wolverhampton wanderers
+501,Rúben Vinagre,$5.50m  ,wolverhampton wanderers
+502,Marçal,$1.98m  ,wolverhampton wanderers
+503,Hugo Bueno,0,wolverhampton wanderers
+504,Nélson Semedo,$30.80m  ,wolverhampton wanderers
+505,Ki-Jana Hoever,$7.70m  ,wolverhampton wanderers
+506,Oskar Buur,$330Th.  ,wolverhampton wanderers
+507,Rúben Neves,$49.50m  ,wolverhampton wanderers
+508,Leander Dendoncker,$33.00m  ,wolverhampton wanderers
+509,Owen Otasowie,$1.65m  ,wolverhampton wanderers
+510,Morgan Gibbs-White,$7.70m  ,wolverhampton wanderers
+511,João Moutinho,$4.40m  ,wolverhampton wanderers
+512,Taylor Perry,0,wolverhampton wanderers
+513,Luke Cundle,0,wolverhampton wanderers
+514,Vitinha,$7.70m  ,wolverhampton wanderers
+515,Meritan Shabani,$330Th.  ,wolverhampton wanderers
+516,Diogo Jota,$49.50m  ,wolverhampton wanderers
+517,Pedro Neto,$38.50m  ,wolverhampton wanderers
+518,Adama Traoré,$33.00m  ,wolverhampton wanderers
+519,Daniel Podence,$27.50m  ,wolverhampton wanderers
+520,Raúl Jiménez,$30.80m  ,wolverhampton wanderers
+521,Fábio Silva,$27.50m  ,wolverhampton wanderers
+522,Willian José,$19.80m  ,wolverhampton wanderers
+523,Patrick Cutrone,$9.90m  ,wolverhampton wanderers
+524,Theo Corbeanu,$550Th.  ,wolverhampton wanderers
+525,Renat Dadashov,$330Th.  ,wolverhampton wanderers
+526,Jack Butland,$2.20m  ,crystal palace
+527,Vicente Guaita,$2.20m  ,crystal palace
+528,Wayne Hennessey,$1.10m  ,crystal palace
+529,Stephen Henderson,$330Th.  ,crystal palace
+530,Cheikhou Kouyaté,$6.60m  ,crystal palace
+531,Mamadou Sakho,$6.60m  ,crystal palace
+532,Nathan Ferguson,$4.40m  ,crystal palace
+533,James Tomkins,$2.75m  ,crystal palace
+534,Scott Dann,$1.65m  ,crystal palace
+535,Gary Cahill,$1.65m  ,crystal palace
+536,Jaroslaw Jach,$715Th.  ,crystal palace
+537,Sam Woods,$220Th.  ,crystal palace
+538,Ryan Inniss,$165Th.  ,crystal palace
+539,Patrick van Aanholt,$7.70m  ,crystal palace
+540,Tyrick Mitchell,$7.70m  ,crystal palace
+541,Reece Hannam,0,crystal palace
+542,Nathaniel Clyne,$3.30m  ,crystal palace
+543,Joel Ward,$2.75m  ,crystal palace
+544,Martin Kelly,$1.65m  ,crystal palace
+545,Luka Milivojevic,$8.80m  ,crystal palace
+546,Jairo Riedewald,$8.80m  ,crystal palace
+547,James McCarthy,$3.30m  ,crystal palace
+548,James McArthur,$2.20m  ,crystal palace
+549,Nya Kirby,$330Th.  ,crystal palace
+550,Jeffrey Schlupp,$9.90m  ,crystal palace
+551,Eberechi Eze,$22.00m  ,crystal palace
+552,Max Meyer,$1.65m  ,crystal palace
+553,Wilfried Zaha,$49.50m  ,crystal palace
+554,Brandon Pierrick,$275Th.  ,crystal palace
+555,Jesuran Rak-Sakyi,0,crystal palace
+556,Andros Townsend,$7.70m  ,crystal palace
+557,Jean-Philippe Mateta,$14.30m  ,crystal palace
+558,Michy Batshuayi,$11.00m  ,crystal palace
+559,Christian Benteke,$9.90m  ,crystal palace
+560,Jordan Ayew,$8.80m  ,crystal palace
+561,Connor Wickham,$1.10m  ,crystal palace
+562,Alex McCarthy,$5.50m  ,southampton fc
+563,Angus Gunn,$3.30m  ,southampton fc
+564,Fraser Forster,$3.30m  ,southampton fc
+565,Harry Lewis,$220Th.  ,southampton fc
+566,Jan Bednarek,$27.50m  ,southampton fc
+567,Jannik Vestergaard,$19.80m  ,southampton fc
+568,Mohammed Salisu,$11.00m  ,southampton fc
+569,Jack Stephens,$5.50m  ,southampton fc
+570,Allan Tchaptchet,$165Th.  ,southampton fc
+571,Ryan Bertrand,$8.80m  ,southampton fc
+572,Sam McQueen,$880Th.  ,southampton fc
+573,Jake Vokins,$275Th.  ,southampton fc
+574,Kyle Walker-Peters,$19.80m  ,southampton fc
+575,Yan Valery,$3.30m  ,southampton fc
+576,Kayne Ramsay,$275Th.  ,southampton fc
+577,Ibrahima Diallo,$16.50m  ,southampton fc
+578,Mario Lemina,$11.00m  ,southampton fc
+579,Oriol Romeu,$6.60m  ,southampton fc
+580,James Ward-Prowse,$33.00m  ,southampton fc
+581,Stuart Armstrong,$8.80m  ,southampton fc
+582,Will Smallbone,$2.20m  ,southampton fc
+583,Alexandre Jankewitz,$550Th.  ,southampton fc
+584,Caleb Watts,$275Th.  ,southampton fc
+585,Kgaogelo Chauke,$165Th.  ,southampton fc
+586,Ryan Finnigan,$165Th.  ,southampton fc
+587,Will Ferry,0,southampton fc
+588,Jake Hesketh,$220Th.  ,southampton fc
+589,Nathan Redmond,$19.80m  ,southampton fc
+590,Moussa Djenepo,$14.30m  ,southampton fc
+591,Mohamed Elyounoussi,$13.20m  ,southampton fc
+592,Takumi Minamino,$13.20m  ,southampton fc
+593,Theo Walcott,$5.50m  ,southampton fc
+594,Nathan Tella,$2.20m  ,southampton fc
+595,Josh Sims,$1.32m  ,southampton fc
+596,Danny Ings,$24.20m  ,southampton fc
+597,Ché Adams,$22.00m  ,southampton fc
+598,Michael Obafemi,$3.30m  ,southampton fc
+599,Dan N'Lundulu,$1.65m  ,southampton fc
+600,Shane Long,$1.32m  ,southampton fc
+601,Robert Sánchez,$8.80m  ,brighton amp hove albion
+602,Mathew Ryan,$6.60m  ,brighton amp hove albion
+603,Jason Steele,$880Th.  ,brighton amp hove albion
+604,Christian Walton,$880Th.  ,brighton amp hove albion
+605,Tom McGill,0,brighton amp hove albion
+606,Ben White,$30.80m  ,brighton amp hove albion
+607,Lewis Dunk,$27.50m  ,brighton amp hove albion
+608,Adam Webster,$19.80m  ,brighton amp hove albion
+609,Shane Duffy,$5.50m  ,brighton amp hove albion
+610,Dan Burn,$5.50m  ,brighton amp hove albion
+611,Matt Clarke,$3.30m  ,brighton amp hove albion
+612,Leo Östigard,$3.30m  ,brighton amp hove albion
+613,Haydon Roberts,$550Th.  ,brighton amp hove albion
+614,Lars Dendoncker,0,brighton amp hove albion
+615,Michal Karbownik,$5.50m  ,brighton amp hove albion
+616,Bernardo,$4.40m  ,brighton amp hove albion
+617,Alex Cochrane,$275Th.  ,brighton amp hove albion
+618,Tariq Lamptey,$19.80m  ,brighton amp hove albion
+619,Joël Veltman,$6.60m  ,brighton amp hove albion
+620,Romaric Yapi,0,brighton amp hove albion
+621,Yves Bissouma,$27.50m  ,brighton amp hove albion
+622,Jakub Moder,$11.00m  ,brighton amp hove albion
+623,Davy Pröpper,$8.80m  ,brighton amp hove albion
+624,Pascal Groß,$7.70m  ,brighton amp hove albion
+625,Steven Alzate,$6.60m  ,brighton amp hove albion
+626,Moisés Caicedo,$5.50m  ,brighton amp hove albion
+627,Dale Stephens,$2.75m  ,brighton amp hove albion
+628,Jayson Molumby,$1.10m  ,brighton amp hove albion
+629,Max Sanders,$275Th.  ,brighton amp hove albion
+630,Teddy Jenks,$220Th.  ,brighton amp hove albion
+631,Jensen Weir,$165Th.  ,brighton amp hove albion
+632,Solly March,$9.90m  ,brighton amp hove albion
+633,Alexis Mac Allister,$11.00m  ,brighton amp hove albion
+634,Adam Lallana,$4.40m  ,brighton amp hove albion
+635,Leandro Trossard,$18.70m  ,brighton amp hove albion
+636,José Izquierdo,$4.40m  ,brighton amp hove albion
+637,Peter Gwargis,$330Th.  ,brighton amp hove albion
+638,Reda Khadra,$165Th.  ,brighton amp hove albion
+639,Alireza Jahanbakhsh,$5.50m  ,brighton amp hove albion
+640,Percy Tau,$3.30m  ,brighton amp hove albion
+641,Neal Maupay,$22.00m  ,brighton amp hove albion
+642,Aaron Connolly,$7.70m  ,brighton amp hove albion
+643,Danny Welbeck,$4.40m  ,brighton amp hove albion
+644,Andi Zeqiri,$2.75m  ,brighton amp hove albion
+645,Florin Andone,$2.20m  ,brighton amp hove albion
+646,Viktor Gyökeres,$1.10m  ,brighton amp hove albion
+647,Nick Pope,$16.50m  ,burnley fc
+648,Bailey Peacock-Farrell,$1.10m  ,burnley fc
+649,Will Norris,$440Th.  ,burnley fc
+650,James Tarkowski,$27.50m  ,burnley fc
+651,Ben Gibson,$7.70m  ,burnley fc
+652,Ben Mee,$6.60m  ,burnley fc
+653,Kevin Long,$1.10m  ,burnley fc
+654,Jimmy Dunne,$660Th.  ,burnley fc
+655,Richard Nartey,$220Th.  ,burnley fc
+656,Bobby Thomas,$220Th.  ,burnley fc
+657,Charlie Taylor,$4.40m  ,burnley fc
+658,Erik Pieters,$1.65m  ,burnley fc
+659,Anthony Driscoll-Glennon,$275Th.  ,burnley fc
+660,Matthew Lowton,$2.75m  ,burnley fc
+661,Phil Bardsley,$330Th.  ,burnley fc
+662,Jack Cork,$5.50m  ,burnley fc
+663,Ashley Westwood,$5.50m  ,burnley fc
+664,Josh Brownhill,$7.70m  ,burnley fc
+665,Dale Stephens,$2.75m  ,burnley fc
+666,Josh Benson,$440Th.  ,burnley fc
+667,Anthony Gomez Mancini,$275Th.  ,burnley fc
+668,Mace Goodridge,$220Th.  ,burnley fc
+669,Robbie Brady,$3.30m  ,burnley fc
+670,Lewis Richardson,$220Th.  ,burnley fc
+671,Dwight McNeil,$24.20m  ,burnley fc
+672,Jóhann Berg Gudmundsson,$3.30m  ,burnley fc
+673,Max Thompson,0,burnley fc
+674,Chris Wood,$8.80m  ,burnley fc
+675,Jay Rodríguez,$4.40m  ,burnley fc
+676,Ashley Barnes,$3.85m  ,burnley fc
+677,Matej Vydra,$3.30m  ,burnley fc
+678,Joel Mumbongo,$330Th.  ,burnley fc
+679,Alphonse Areola,$18.70m  ,fulham fc
+680,Marek Rodak,$5.50m  ,fulham fc
+681,Marcus Bettinelli,$2.75m  ,fulham fc
+682,Fabri,$660Th.  ,fulham fc
+683,Joachim Andersen,$24.20m  ,fulham fc
+684,Tosin Adarabioyo,$13.20m  ,fulham fc
+685,Alfie Mawson,$4.40m  ,fulham fc
+686,Michael Hector,$3.85m  ,fulham fc
+687,Terence Kongolo,$3.85m  ,fulham fc
+688,Maxime Le Marchand,$1.65m  ,fulham fc
+689,Tim Ream,$660Th.  ,fulham fc
+690,Antonee Robinson,$7.70m  ,fulham fc
+691,Joe Bryan,$5.50m  ,fulham fc
+692,Ola Aina,$6.60m  ,fulham fc
+693,Kenny Tete,$5.50m  ,fulham fc
+694,Steven Sessegnon,$2.20m  ,fulham fc
+695,Cyrus Christie,$1.65m  ,fulham fc
+696,Denis Odoi,$660Th.  ,fulham fc
+697,André Zambo Anguissa,$27.50m  ,fulham fc
+698,Mario Lemina,$11.00m  ,fulham fc
+699,Kevin McDonald,$880Th.  ,fulham fc
+700,Ruben Loftus-Cheek,$19.80m  ,fulham fc
+701,Harrison Reed,$11.00m  ,fulham fc
+702,Tom Cairney,$9.90m  ,fulham fc
+703,Jean Michaël Seri,$4.40m  ,fulham fc
+704,Stefan Johansen,$2.20m  ,fulham fc
+705,Tyrese Francois,$165Th.  ,fulham fc
+706,Bobby Reid,$11.00m  ,fulham fc
+707,Josh Onomah,$6.60m  ,fulham fc
+708,Neeskens Kebano,$1.10m  ,fulham fc
+709,Fábio Carvalho,$275Th.  ,fulham fc
+710,Ademola Lookman,$12.10m  ,fulham fc
+711,Sylvester Jasper,$275Th.  ,fulham fc
+712,Ivan Cavaleiro,$7.70m  ,fulham fc
+713,Anthony Knockaert,$3.30m  ,fulham fc
+714,Aleksandar Mitrovic,$17.60m  ,fulham fc
+715,Josh Maja,$5.50m  ,fulham fc
+716,Aboubakar Kamara,$2.20m  ,fulham fc
+717,Sam Johnstone,$8.80m  ,west bromwich albion
+718,David Button,$1.10m  ,west bromwich albion
+719,Alex Palmer,$275Th.  ,west bromwich albion
+720,Jonathan Bond,$275Th.  ,west bromwich albion
+721,Andy Lonergan,$275Th.  ,west bromwich albion
+722,Semi Ajayi,$6.60m  ,west bromwich albion
+723,Ahmed Hegazy,$4.40m  ,west bromwich albion
+724,Dara O'Shea,$3.30m  ,west bromwich albion
+725,Kyle Bartley,$2.75m  ,west bromwich albion
+726,Cédric Kipré,$1.10m  ,west bromwich albion
+727,Branislav Ivanovic,$550Th.  ,west bromwich albion
+728,Caleb Taylor,0,west bromwich albion
+729,Kieran Gibbs,$2.75m  ,west bromwich albion
+730,Conor Townsend,$2.20m  ,west bromwich albion
+731,George Harmon,0,west bromwich albion
+732,Darnell Furlong,$5.50m  ,west bromwich albion
+733,Lee Peltier,$440Th.  ,west bromwich albion
+734,Taylor Gardner-Hickman,0,west bromwich albion
+735,Okay Yokuslu,$8.25m  ,west bromwich albion
+736,Jake Livermore,$2.75m  ,west bromwich albion
+737,Conor Gallagher,$16.50m  ,west bromwich albion
+738,Rekeem Harper,$2.75m  ,west bromwich albion
+739,Romaine Sawyers,$2.20m  ,west bromwich albion
+740,Sam Field,$1.10m  ,west bromwich albion
+741,Toby King,0,west bromwich albion
+742,Tim Iroegbunam,0,west bromwich albion
+743,Ainsley Maitland-Niles,$17.60m  ,west bromwich albion
+744,Kyle Edwards,$1.10m  ,west bromwich albion
+745,Filip Krovinovic,$3.30m  ,west bromwich albion
+746,Rico Richards,0,west bromwich albion
+747,Grady Diangana,$11.00m  ,west bromwich albion
+748,Kamil Grosicki,$1.10m  ,west bromwich albion
+749,Matheus Pereira,$16.50m  ,west bromwich albion
+750,Matt Phillips,$4.40m  ,west bromwich albion
+751,Robert Snodgrass,$1.65m  ,west bromwich albion
+752,Karlan Grant,$8.80m  ,west bromwich albion
+753,Callum Robinson,$6.60m  ,west bromwich albion
+754,Mbaye Diagne,$3.30m  ,west bromwich albion
+755,Charlie Austin,$2.20m  ,west bromwich albion
+756,Kenneth Zohore,$2.20m  ,west bromwich albion
+757,Hal Robson-Kanu,$1.65m  ,west bromwich albion
+758,Jamie Soule,0,west bromwich albion
+759,Cheikh Diaby,0,west bromwich albion
+760,Aaron Ramsdale,$13.20m  ,sheffield united
+761,Michael Verrips,$990Th.  ,sheffield united
+762,Wes Foderingham,$440Th.  ,sheffield united
+763,Simon Moore,$440Th.  ,sheffield united
+764,Jake Eastwood,$110Th.  ,sheffield united
+765,Ethan Ampadu,$16.50m  ,sheffield united
+766,John Egan,$9.90m  ,sheffield united
+767,Jack O'Connell,$5.50m  ,sheffield united
+768,Chris Basham,$2.20m  ,sheffield united
+769,Kean Bryan,$2.20m  ,sheffield united
+770,Kyron Gordon,$275Th.  ,sheffield united
+771,Phil Jagielka,$275Th.  ,sheffield united
+772,Enda Stevens,$3.85m  ,sheffield united
+773,Max Lowe,$3.30m  ,sheffield united
+774,Jack Robinson,$2.20m  ,sheffield united
+775,Rhys Norrington-Davies,$1.65m  ,sheffield united
+776,Harry Boyes,0,sheffield united
+777,Jayden Bogle,$7.70m  ,sheffield united
+778,George Baldock,$5.50m  ,sheffield united
+779,Femi Seriki,$220Th.  ,sheffield united
+780,Sander Berge,$19.80m  ,sheffield united
+781,Jack Rodwell,$880Th.  ,sheffield united
+782,Regan Slater,0,sheffield united
+783,John Lundstram,$7.70m  ,sheffield united
+784,John Fleck,$5.50m  ,sheffield united
+785,Oliver Norwood,$5.50m  ,sheffield united
+786,Zak Brunt,$275Th.  ,sheffield united
+787,Frankie Maguire,0,sheffield united
+788,Ben Osborn,$2.20m  ,sheffield united
+789,Luke Freeman,$2.20m  ,sheffield united
+790,Iliman Ndiaye,$220Th.  ,sheffield united
+791,William Osula,0,sheffield united
+792,Rhian Brewster,$13.20m  ,sheffield united
+793,Oliver McBurnie,$11.00m  ,sheffield united
+794,Lys Mousset,$9.90m  ,sheffield united
+795,Oliver Burke,$6.60m  ,sheffield united
+796,David McGoldrick,$1.65m  ,sheffield united
+797,Daniel Jebbison,$1.10m  ,sheffield united
+798,Billy Sharp,$550Th.  ,sheffield united
+799,Antwoine Hackford,$110Th.  ,sheffield united
