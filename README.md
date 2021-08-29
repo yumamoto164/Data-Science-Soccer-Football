@@ -1,6 +1,9 @@
 # Data-Science-Soccer-Football
 Data Science project where I use ML models to predict soccer/football player market values
 
+### Background:
+There has been a steady rise in the overall prices of players in soccer/football throughout the years, and what comes with that is the criticism towards top clubs for 'overspending' on certain players. In order to have a more objective view of whether a player is overvalued/undervalued, I wanted to create a machine learning model that predicts the market value of a player based on their stats.
+
 ## Skills Demonstrated:
 Web Scraping (BeautifulSoup), Data Cleaning (pandas), Data Visualization (Matplotlib, Seaborn, Plotly), K-means Clustering, Permutation/Feature Importance,
 Shap plots, XGBoost, Neural Networks (Tensorflow, Keras)
